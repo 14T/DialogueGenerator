@@ -1,6 +1,6 @@
 # Dialogue Agent
 
-This project contains an agent configuration for reviewing and generating NAATI CCL (Credentialed Community Language) dialogues.
+This project contains an agent configuration for reviewing and generating dialogues.
 
 ## Components
 
