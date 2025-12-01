@@ -4,7 +4,6 @@ This project contains an agent configuration for reviewing and generating dialog
 
 ## Components
 
-- **System Prompt**: Located in `prompts/naati_reviewer.md`. This file contains the detailed instructions for the agent, including rules for segment length, gender inference, loanword usage, and JSON formatting.
 - **Workflow**: Located in `.agent/workflows/review_dialogue.md`. This workflow guides the agent to use the system prompt to process user input.
 
 ## Usage

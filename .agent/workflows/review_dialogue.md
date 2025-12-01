@@ -3,7 +3,7 @@ description: Review and generate NAATI CCL dialogue based on user input
 ---
 
 1. Ask the user for the dialogue segments or scenario if they haven't provided it yet.
-2. Perform a web search for similar dialogue scenarios using the `search_web` tool to find relevant context and vocabulary.
+2. Strictly Perform a web search for similar dialogue scenarios using the `search_web` tool to find relevant context and vocabulary.
 3. Report the search findings to the user, summarizing similar scenarios found.
 4. Based on the findings and the user's input, suggest an appropriate difficulty level (EASY, MODERATE, HARD) and ask the user to confirm or change it.
 5. Read the system prompt from `prompts/naati_reviewer.md`.

@@ -55,6 +55,9 @@ Generate Hindi Translations of each segment and insert below it. Do not try to g
 * Do not modify proper nouns.
 * Avoid substituting words that could create ambiguity in overall meaning; for example, using 'टिकिया' instead of 'biscuit' is misleading, as 'टिकिया' often refers to a detergent bar in Indian households. but keep it academically correct strictly, e.g. use थाना or पुलिस चौकी instead of "पुलिस स्टेशन" for Police Station. 
 * Loanwords which are very common in Hindi are accepted and you can freely use them. example word like अलग is okay, no need to make it very sophisticated by using पृथक and confuse the users.
+* **Specific Vocabulary Rules**:
+    - Always translate "Recruiter" as "नियोक्ता" (Niyokta). Do not use "Recruitment Agent" or "Recruiters" (transliterated).
+
 
 
 **Flow and Context**:
