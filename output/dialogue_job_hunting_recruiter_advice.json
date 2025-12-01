@@ -1,0 +1,74 @@
+{
+    "dialogue": {
+        "title": "Job Hunting and Recruiter Advice",
+        "scenario": "Two friends discuss job hunting over a meal, with one advising the other to use a recruiter.",
+        "last_active": "2025-12-01",
+        "en_gender": true,
+        "lote_gender": true,
+        "occurrences": 1,
+        "difficulty": "MODERATE",
+        "tag": "Business",
+        "segments": [
+            {
+                "en": "Hi, it is so good to see you. I have already ordered some starters for us. How have you been?",
+                "hi": "नमस्ते, आपसे मिलकर बहुत अच्छा लगा। मैंने हम दोनों के लिए पहले ही कुछ नाश्ता मंगवा लिया है। आप कैसे हैं?",
+                "isEn": true
+            },
+            {
+                "en": "That's great, thanks. I am good, just a bit tired from all the running around for job interviews lately.",
+                "hi": "यह बहुत अच्छा है, धन्यवाद। मैं ठीक हूँ, बस हाल ही में नौकरी के साक्षात्कारों के लिए भागदौड़ करने से थोड़ा थक गया हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "I can imagine. Job hunting can be quite exhausting. Have you had any luck with the applications you sent out?",
+                "hi": "मैं समझ सकता हूँ। नौकरी की तलाश बहुत थकाऊ हो सकती है। क्या आपको अपने द्वारा भेजे गए आवेदनों में कोई सफलता मिली है?",
+                "isEn": true
+            },
+            {
+                "en": "Not much. I have had a few calls, but nothing concrete yet. It is quite competitive out there.",
+                "hi": "ज्यादा नहीं। मेरे पास कुछ कॉल आए हैं, लेकिन अभी तक कुछ भी ठोस नहीं है। बाहर बहुत प्रतिस्पर्धा है।",
+                "isEn": false
+            },
+            {
+                "en": "You need to find a recruiter because they know what companies are actually looking for.",
+                "hi": "आपको एक नियोक्ता खोजने की आवश्यकता है क्योंकि वे जानते हैं कि कंपनियाँ वास्तव में क्या तलाश रही हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Actually, I have already interviewed with four companies. I believe once the interview round with these companies closes, I'll also look for a recruiter.",
+                "hi": "दरअसल, मैं पहले ही चार कंपनियों के साथ साक्षात्कार दे चुका हूँ। मेरा मानना है कि एक बार जब इन कंपनियों के साथ साक्षात्कार के दौर समाप्त हो जाएंगे, तो मैं भी एक नियोक्ता की तलाश करूँगा।",
+                "isEn": false
+            },
+            {
+                "en": "That makes sense. But having a recruiter on your side can still be a good backup plan if those don't work out.",
+                "hi": "यह समझ में आता है। लेकिन अगर वे काम नहीं करते हैं तो अपनी तरफ एक नियोक्ता होना अभी भी एक अच्छी वैकल्पिक योजना हो सकती है।",
+                "isEn": true
+            },
+            {
+                "en": "Yes, you are right. Do you know anyone who specializes in our field?",
+                "hi": "हाँ, आप सही कह रहे हैं। क्या आप किसी ऐसे व्यक्ति को जानते हैं जो हमारे क्षेत्र में विशेषज्ञ है?",
+                "isEn": false
+            },
+            {
+                "en": "Oh, I'll help you find a recruiter. I have some contacts on LinkedIn who might be able to assist.",
+                "hi": "ओह, मैं नियोक्ता खोजने में आपकी मदद करूँगा। लिंक्डइन पर मेरे कुछ संपर्क हैं जो सहायता करने में सक्षम हो सकते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "That would be very helpful. Thank you so much. I really appreciate your support.",
+                "hi": "यह बहुत मददगार होगा। आपका बहुत-बहुत धन्यवाद। मैं वास्तव में आपके सहयोग की सराहना करता हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "No problem at all. Let's eat first, and then we can look at some profiles together.",
+                "hi": "कोई बात नहीं। पहले खाना खाते हैं, और फिर हम साथ में कुछ प्रोफाइल देख सकते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Definitely. I am starving. The food looks delicious.",
+                "hi": "निश्चित रूप से। मुझे बहुत भूख लगी है। खाना स्वादिष्ट लग रहा है।",
+                "isEn": false
+            }
+        ]
+    }
+}

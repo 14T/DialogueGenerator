@@ -41,7 +41,7 @@ the  identify gender of hindi speaker and assign to hindi_gender,
 Infer the speaker's gender (true for Male, false for Female) from all the segments. 
 For English, check for names, explicit gendered terms (e.g., "man"/"woman"), or contextual pronouns. 
 
-For Hindi (hindi_gender), check for first-person verb conjugations (e.g., Hindi: "रहा"/"चाहता" for male, "रही"/"चाहती" for female) and gendered nouns. Use word choice or sentiment as secondary cues only in ambiguous cases. 
+For Hindi (hindi_gender), check for first-person verb conjugations (e.g., Hindi: "रहा"/"चाहता"/"गया" for male, "रही"/"चाहती"/"गयी" for female) and gendered nouns. Use word choice or sentiment as secondary cues only in ambiguous cases. 
 LOTE means Language other than english which is Hindi in this case.
 
 **Insert Hindi**
@@ -51,15 +51,12 @@ Generate Hindi Translations of each segment and insert below it. Do not try to g
     * Do not use English or urdu words in hindi translations generally but it is okay to use it if it is generally known and acceptable these days. (e.g. try not to translate stores to स्टोर, use दुकान instead. or try not translate mention to ज़िक्र use उल्लेख instead) use academically perfect translation. Use hindi words unless it's changing the meaning of sentence, if meaning is changed fallback to next best hindi words which is academically and generally acceptable. 
 * But, do not go too extreme in making hindi words which are not generally used e.g. using जालपृष्ठ for website is too extreme and less known to hindi speakers.
     - **Hindi Words in English**: Confirm no Hindi words appear in English segments, ensuring standard English vocabulary without code-switching. . Use strict hindi words unless it's changing the meaning of sentence, if meaning is change fallback to next best hindi words which is academically and generally acceptable.
-    - **Urdu Words in Hindi**:  Urdu/Persian loanwords (e.g., "मेहमाननवाज़," "ज़िक्र") are not preferred in Hindi translations. Use pure Hindi wherever possible (e.g., "अतिथि का सत्कार" for hospitality, "उल्लेख" for mention). Use hindi words unless it's changing the meaning of sentence, if meaning is change fallback to next best hindi words which is academically and generally acceptable. It is okay to use loanwords which are very commonly used in hindi. 
+    - **Urdu Words in Hindi**:  Urdu/Persian loanwords (e.g., "मेहमाननवाज़," "ज़िक्र", "काफी") are not preferred in Hindi translations. Use pure Hindi wherever possible (e.g., "अतिथि का सत्कार" for hospitality, "उल्लेख" for mention, "बहुत/अत्यधिक" for quite/enough). Use hindi words unless it's changing the meaning of sentence, if meaning is change fallback to next best hindi words which is academically and generally acceptable. It is okay to use loanwords which are very commonly used in hindi. 
 * Do not modify proper nouns.
 * Avoid substituting words that could create ambiguity in overall meaning; for example, using 'टिकिया' instead of 'biscuit' is misleading, as 'टिकिया' often refers to a detergent bar in Indian households. but keep it academically correct strictly, e.g. use थाना or पुलिस चौकी instead of "पुलिस स्टेशन" for Police Station. 
 * Loanwords which are very common in Hindi are accepted and you can freely use them. example word like अलग is okay, no need to make it very sophisticated by using पृथक and confuse the users.
 * **Specific Vocabulary Rules**:
-    - Always translate "Recruiter" as "नियोक्ता" (Niyokta). Do not use "Recruitment Agent" or "Recruiters" (transliterated).
-    - Avoid literal translation of "floor" in hospitality contexts (e.g., "on the floor"). Use context-appropriate terms like "कामकाज" (work/operations), "ग्राहक सेवा" (customer service), or "बाहरी काम" (front-of-house work).
-
-
+    - Avoid literal translation, e.g: "floor" in hospitality contexts (e.g., "on the floor"). Use context-appropriate terms like "कामकाज" (work/operations), "ग्राहक सेवा" (customer service), or "बाहरी काम" (front-of-house work).
 
 **Flow and Context**:
     - Verify the dialogue maintains a natural, conversational flow that aligns with the context of the conversation.
@@ -108,7 +105,7 @@ also look into given segments if you get any relevant information to figure out 
 Before generating the output, perform a self-verification loop, this is your last chance, do not make any mistake or leave error as this is straight going in production and million dollars are at stake, check each segment generated in a loop and then verify entire dialogue:
  Ask yourself: 
 1.  "en_gender", "lote_gender" values are correct ?.
-For Hindi (hindi_gender), check for first-person verb conjugations (e.g., Hindi: "रहा"/"चाहता" for male, "रही"/"चाहती" for female) and gendered nouns. Use word choice or sentiment as secondary cues only in ambiguous cases. 
+For Hindi (hindi_gender), check for first-person verb conjugations (e.g., Hindi: "रहा"/"चाहता"/"गया" for male, "रही"/"चाहती"/"गयी" for female) and gendered nouns. Use word choice or sentiment as secondary cues only in ambiguous cases. 
 LOTE means Language other than english which is Hindi in this case.
  2. isEn value correctly assigned?
 3. for each segment , if this is the correct way to communicate that in hindi based on the context so that hindi speaker can understand it naturally?
@@ -176,7 +173,7 @@ if any of the verification fails, rectify it or make necessary adjustments.
     - **Tag**: Verify the tag is one of: Health, Legal, Immigration, Education, Social Services, Business, Housing, Consumer Affairs, Financial, Community, Insurance, and matches the dialogue’s theme.
     - **Gender**:
         - **en_gender**: Check if the English speaker’s gender (true for male, false for female) is consistent with names, pronouns, or context in English segments. If ambiguous, use neutral cues or sentiment.
-        - **lote_gender**: Confirm the Hindi speaker’s gender (true for male, false for female) based on Hindi verb conjugations (e.g., male: "रहा"/"चाहता"; female: "रही"/"चाहती") and gendered nouns. Use word choice or sentiment only if ambiguous.
+        - **lote_gender**: Confirm the Hindi speaker’s gender (true for male, false for female) based on Hindi verb conjugations (e.g., male: "रहा"/"चाहता"/"गया"; female: "रही"/"चाहती"/"गयी") and gendered nouns. Use word choice or sentiment only if ambiguous.
   2  - Check that each segment’s isEn flag correctly indicates the primary spoken language.
 2. **Translation Accuracy and Naturalness**:
     - Ensure each Hindi translation is accurate, context-based, and natural, reflecting the meaning of the English segment without word-for-word translation.
