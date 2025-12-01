@@ -57,6 +57,7 @@ Generate Hindi Translations of each segment and insert below it. Do not try to g
 * Loanwords which are very common in Hindi are accepted and you can freely use them. example word like अलग is okay, no need to make it very sophisticated by using पृथक and confuse the users.
 * **Specific Vocabulary Rules**:
     - Always translate "Recruiter" as "नियोक्ता" (Niyokta). Do not use "Recruitment Agent" or "Recruiters" (transliterated).
+    - Avoid literal translation of "floor" in hospitality contexts (e.g., "on the floor"). Use context-appropriate terms like "कामकाज" (work/operations), "ग्राहक सेवा" (customer service), or "बाहरी काम" (front-of-house work).
 
 
 

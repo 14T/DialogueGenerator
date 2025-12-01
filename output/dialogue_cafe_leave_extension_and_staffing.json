@@ -1,0 +1,74 @@
+{
+    "dialogue": {
+        "title": "Cafe Leave Extension and Staffing",
+        "scenario": "A cafe owner extends their leave and asks a colleague to manage the cafe with kitchen staff assistance.",
+        "last_active": "2025-12-01",
+        "en_gender": true,
+        "lote_gender": false,
+        "occurrences": 1,
+        "difficulty": "HARD",
+        "tag": "Business",
+        "segments": [
+            {
+                "en": "Hi, I hope everything is running smoothly at the cafe. I am calling to let you know that I need to extend my leave by another week due to some personal reasons.",
+                "hi": "नमस्ते, मुझे आशा है कि कैफे में सब कुछ सुचारू रूप से चल रहा है। मैं आपको यह बताने के लिए फोन कर रहा हूँ कि मुझे कुछ व्यक्तिगत कारणों से अपनी छुट्टी एक और सप्ताह के लिए बढ़ानी होगी।",
+                "isEn": true
+            },
+            {
+                "en": "Oh, I see. I hope everything is alright with you. However, extending your leave might be a bit problematic as we are expecting a lot of customers next week.",
+                "hi": "ओह, मैं समझती हूँ। मुझे आशा है कि आपके साथ सब कुछ ठीक है। हालाँकि, आपकी छुट्टी बढ़ाना थोड़ा समस्याग्रस्त हो सकता है क्योंकि हम अगले सप्ताह बहुत सारे ग्राहकों की अपेक्षा कर रहे हैं।",
+                "isEn": false
+            },
+            {
+                "en": "I understand your concern, and I apologize for the short notice. Do you think you will be able to manage the cafe floor by yourself during the busy hours?",
+                "hi": "मैं आपकी चिंता समझता हूँ, और कम समय में सूचना देने के लिए क्षमा चाहता हूँ। क्या आपको लगता है कि आप व्यस्त समय के दौरान अकेले कैफे के कामकाज को संभाल पाएंगी?",
+                "isEn": true
+            },
+            {
+                "en": "Honestly, I don't think I can handle it alone, especially during the morning rush. It gets extremely chaotic, and managing orders and service simultaneously would be very difficult for one person.",
+                "hi": "ईमानदारी से कहूँ तो, मुझे नहीं लगता कि मैं इसे अकेले संभाल सकती हूँ, खासकर सुबह की भीड़ के दौरान। यह अत्यधिक अस्त-व्यस्त हो जाता है, और एक व्यक्ति के लिए ऑर्डर और सेवा दोनों को एक साथ प्रबंधित करना बहुत कठिन होगा।",
+                "isEn": false
+            },
+            {
+                "en": "That is a valid point. How about this: I can ask one of the kitchen staff members to assist you on the floor during the peak times to share the workload?",
+                "hi": "यह एक उचित बात है। कैसा रहेगा अगर हम ऐसा करें: मैं रसोई के कर्मचारियों में से किसी एक को व्यस्त समय के दौरान काम का बोझ साझा करने के लिए कामकाज में आपकी सहायता करने के लिए कह सकता हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "That sounds like a workable solution. If I can get some help with serving and clearing tables, I should be able to manage the counter and orders effectively.",
+                "hi": "यह एक कारगर समाधान लगता है। यदि मुझे परोसने और मेज साफ करने में कुछ सहायता मिल जाए, तो मैं काउंटर और ऑर्डर को प्रभावी ढंग से प्रबंधित करने में सक्षम हो जाऊँगी।",
+                "isEn": false
+            },
+            {
+                "en": "Great, I will inform the kitchen manager to assign someone to help you. Please coordinate with them and ensure that the service quality does not suffer in my absence.",
+                "hi": "बहुत बढ़िया, मैं किचन मैनेजर को सूचित कर दूँगा कि वह आपकी मदद के लिए किसी को नियुक्त करें। कृपया उनके साथ समन्वय करें और सुनिश्चित करें कि मेरी अनुपस्थिति में सेवा की गुणवत्ता प्रभावित न हो।",
+                "isEn": true
+            },
+            {
+                "en": "Sure, I will do my best to coordinate everything. I really appreciate you trusting me with this responsibility. It will be a great learning experience for me to manage the floor.",
+                "hi": "ज़रूर, मैं सब कुछ समन्वित करने की पूरी कोशिश करूँगी। इस जिम्मेदारी के लिए मुझ पर भरोसा करने के लिए मैं वास्तव में आपकी सराहना करती हूँ। कामकाज का प्रबंधन करना मेरे लिए सीखने का एक शानदार अनुभव होगा।",
+                "isEn": false
+            },
+            {
+                "en": "I have full confidence in your abilities. This opportunity will definitely help you grow. If you face any major issues, feel free to call me, but try to handle minor things yourself.",
+                "hi": "मुझे आपकी क्षमताओं पर पूरा भरोसा है। यह अवसर निश्चित रूप से आपको आगे बढ़ने में मदद करेगा। यदि आपको किसी बड़ी समस्या का सामना करना पड़ता है, तो बेझिझक मुझे कॉल करें, लेकिन छोटी-मोटी चीजों को खुद संभालने की कोशिश करें।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you for giving me such a kind of opportunity. I will ensure that operations run smoothly and will only disturb you if it is absolutely necessary.",
+                "hi": "मुझे ऐसा अवसर देने के लिए धन्यवाद। मैं सुनिश्चित करूँगी कि कामकाज सुचारू रूप से चले और मैं आपको केवल तभी परेशान करूँगी जब यह बिल्कुल आवश्यक हो।",
+                "isEn": false
+            },
+            {
+                "en": "That sounds perfect. I will see you when I get back next week. Take care and good luck with managing everything.",
+                "hi": "यह बिल्कुल सही है। मैं अगले सप्ताह वापस आने पर आपसे मिलूँगा। अपना ख्याल रखना और सब कुछ प्रबंधित करने के लिए शुभकामनाएँ।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you, see you next week. Enjoy your extended leave and don't worry about the cafe.",
+                "hi": "धन्यवाद, अगले सप्ताह मिलते हैं। अपनी बढ़ाई हुई छुट्टी का आनंद लें और कैफे की चिंता न करें।",
+                "isEn": false
+            }
+        ]
+    }
+}
