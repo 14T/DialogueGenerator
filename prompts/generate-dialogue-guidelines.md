@@ -205,3 +205,6 @@ if any of the verification fails, rectify it or make necessary adjustments.
     - Format the response clearly, with headings for each section (e.g., Metadata Review, Segment Analysis, Summary, Revised JSON).
 
 * make sure hindi part of any segment is a natural translation of corresponding english segment, rather than it's answer in hindi
+
+
+**Other Guidelines** (Might not apply to all scenarios but get an idea from these and apply based on context)
