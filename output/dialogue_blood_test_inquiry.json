@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "Blood Test Inquiry",
+        "scenario": "A patient inquires about blood test preparation and procedure with a receptionist.",
+        "last_active": "2025-10-26",
+        "en_gender": false,
+        "lote_gender": true,
+        "occurrences": 1,
+        "difficulty": "HARD",
+        "tag": "Health",
+        "segments": [
+            {
+                "en": "Good morning. How can I help you today? Do you have an appointment for a blood test?",
+                "hi": "नमस्ते। मैं आज आपकी कैसे मदद कर सकती हूँ? क्या आपने खून की जाँच के लिए समय लिया है?",
+                "isEn": true
+            },
+            {
+                "en": "Good morning. Yes, I have a referral from my doctor for a blood test. Do I need an appointment?",
+                "hi": "नमस्ते। जी हाँ, मेरे पास खून की जाँच के लिए मेरे चिकित्सक का पर्चा है। क्या मुझे समय लेने की आवश्यकता है?",
+                "isEn": false
+            },
+            {
+                "en": "Usually, appointments are preferred, but we can fit you in. Can I please see your referral form and Medicare card?",
+                "hi": "आमतौर पर, पहले से समय लेना बेहतर होता है, लेकिन हम आपको समायोजित कर सकते हैं। क्या मैं आपका पर्चा और मेडिकेयर कार्ड देख सकती हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Sure, here they are. Actually, I wanted to ask, why is this test being done? The doctor didn't explain much.",
+                "hi": "ज़रूर, ये लीजिये। दरअसल, मैं पूछना चाहता था कि यह जाँच क्यों की जा रही है? चिकित्सक ने विस्तार से नहीं समझाया।",
+                "isEn": false
+            },
+            {
+                "en": "This test checks your cholesterol and blood sugar levels. It is a routine check to monitor your overall health.",
+                "hi": "यह जाँच आपके रक्त वसा और रक्त शर्करा के स्तर को परखती है। यह आपके समग्र स्वास्थ्य की निगरानी के लिए एक नियमित जाँच है।",
+                "isEn": true
+            },
+            {
+                "en": "Oh, I see. Do I need to be fasting for this? I haven't eaten anything since last night, just had water.",
+                "hi": "ओह, मैं समझ गया। क्या मुझे इसके लिए खाली पेट रहने की ज़रूरत है? मैंने कल रात से कुछ नहीं खाया, बस पानी पिया है।",
+                "isEn": false
+            },
+            {
+                "en": "That is perfect. Fasting for 8 to 12 hours is required for these tests. Drinking water is fine and actually helps.",
+                "hi": "यह बिल्कुल सही है। इन जाँचों के लिए ८ से १२ घंटे तक खाली पेट रहना आवश्यक है। पानी पीना ठीक है और वास्तव में इससे मदद मिलती है।",
+                "isEn": true
+            },
+            {
+                "en": "That's a relief. I am a bit scared of needles. Will it hurt a lot? I often feel dizzy during blood tests.",
+                "hi": "यह राहत की बात है। मुझे सुइयों से थोड़ा डर लगता है। क्या इसमें बहुत दर्द होगा? मुझे अक्सर खून की जाँच के दौरान चक्कर आते हैं।",
+                "isEn": false
+            },
+            {
+                "en": "Don't worry, it will just be a small prick. If you feel dizzy, we can have you lie down during the procedure.",
+                "hi": "चिंता न करें, यह बस एक छोटी सी चुभन होगी। यदि आपको चक्कर आता है, तो हम प्रक्रिया के दौरान आपको लेटा सकते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you, that would be better. How long will it take to get the results? I have a follow-up with my doctor next week.",
+                "hi": "धन्यवाद, वह बेहतर रहेगा। नतीजे आने में कितना समय लगेगा? अगले हफ्ते चिकित्सक के साथ मेरी अगली मुलाकात है।",
+                "isEn": false
+            },
+            {
+                "en": "The results are usually ready within 2 to 3 business days. We will send them directly to your doctor.",
+                "hi": "नतीजे आमतौर पर २ से ३ कामकाजी दिनों के भीतर तैयार हो जाते हैं। हम उन्हें सीधे आपके चिकित्सक को भेज देंगे।",
+                "isEn": true
+            },
+            {
+                "en": "Okay, that is good. Is there anything else I need to do after the test? Can I eat immediately?",
+                "hi": "ठीक है, यह अच्छी बात है। क्या जाँच के बाद मुझे कुछ और करने की ज़रूरत है? क्या मैं तुरंत खा सकता हूँ?",
+                "isEn": false
+            },
+            {
+                "en": "Yes, you can eat right away. Please keep the bandage on for a few hours and avoid heavy lifting with that arm today.",
+                "hi": "हाँ, आप तुरंत खा सकते हैं। कृपया कुछ घंटों के लिए पट्टी को लगा रहने दें और आज उस हाथ से भारी सामान उठाने से बचें।",
+                "isEn": true
+            },
+            {
+                "en": "Understood. Thank you very much for your help and information. I will wait for my turn now.",
+                "hi": "समझ गया। आपकी मदद और जानकारी के लिए बहुत-बहुत धन्यवाद। मैं अब अपनी बारी का इंतज़ार करूँगा।",
+                "isEn": false
+            }
+        ]
+    }
+}

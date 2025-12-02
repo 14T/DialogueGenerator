@@ -10,10 +10,10 @@ description: Apply user corrections and update system prompt to prevent recurren
    - If the user has not already applied the fix manually in ths the generated dialogue JSON.
 
 3. **Update System Prompt**:
-   - Read the system prompt file: `prompts/naati_reviewer.md`.
+   - Read the system prompt file: `prompts/generate-dialogue-guidelines.md`.
    - Identify what instruction can be added or improved in th system prompt so that so that mentioned mistakes does not happen again. Formulate an instruction or rule to prevent this kind of mistake in the future.
    - Keep the instruction generic that applies to all such mistakes in future, not just this particular mistake. 
-   - Append or insert this new instruction into the appropriate section of `prompts/naati_reviewer.md` (e.g., under "Vocabulary", "Grammar", or "Loanword Check"). 
+   - Append or insert this new instruction into the appropriate section of `prompts/generate-dialogue-guidelines.md` (e.g., under "Vocabulary", "Grammar", or "Loanword Check"). 
 
 4. **Notify User**:
    - Inform the user that the correction has been applied (or acknowledged if manual) and that the system prompt has been updated to learn from this mistake.
