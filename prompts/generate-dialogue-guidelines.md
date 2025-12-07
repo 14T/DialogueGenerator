@@ -208,3 +208,6 @@ if any of the verification fails, rectify it or make necessary adjustments.
 
 
 **Other Guidelines** (Might not apply to all scenarios but get an idea from these and apply based on context)
+*   **Strict Urdu Avoidance**: Consistently choose Pure Hindi alternatives over Urdu/Persian ones.
+    *   Examples: Use 'प्रतीक्षा' (not 'इंतज़ार'), 'संतोष/आश्वस्त' (not 'तसल्ली'), 'अस्वाभाविक' (not 'ज़बरदस्ती'), 'आवश्यकता' (not 'ज़रूरत').
+*   **Technical Terms**: Avoid simple transliteration for common technical concepts if a descriptive Hindi term exists.

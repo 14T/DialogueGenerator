@@ -1,0 +1,79 @@
+{
+    "dialogue": {
+        "title": "Photographer Customer Review",
+        "scenario": "A customer visits a photographer to view and select photos from a recent session.",
+        "last_active": "2025-12-06",
+        "en_gender": true,
+        "lote_gender": false,
+        "occurrences": 1,
+        "difficulty": "MODERATE",
+        "tag": "Consumer Affairs",
+        "segments": [
+            {
+                "en": "Hi, welcome back! I've finished processing the initial proofs from our session, and they're ready for you to view.",
+                "hi": "नमस्ते, वापस स्वागत है! मैंने हमारे सत्र के शुरुआती नमूनों को तैयार कर लिया है, और वे आपके देखने के लिए तैयार हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Hello! I am very excited. I have been eagerly waiting to see how the pictures turned out.",
+                "hi": "नमस्ते! मैं बहुत उत्साहित हूँ। मैं बेसब्री से प्रतीक्षा कर रही थी कि तस्वीरें कैसी आई हैं।",
+                "isEn": false
+            },
+            {
+                "en": "They look fantastic. I've already culled the blinks and misfires, so we are looking at the best fifty images today.",
+                "hi": "वे शानदार दिख रही हैं। मैंने पहले ही खराब और बंद आँखों वाली तस्वीरें हटा दी हैं, इसलिए आज हम सबसे बेहतरीन पचास तस्वीरें देख रहे हैं।",
+                "isEn": true
+            },
+            {
+                "en": "That is good. Fifty is still a lot though. How do I go about choosing the best ones for my album?",
+                "hi": "यह अच्छा है। पचास अभी भी बहुत हैं। मैं अपने एल्बम के लिए सबसे अच्छी तस्वीरें कैसे चुनूँ?",
+                "isEn": false
+            },
+            {
+                "en": "Don't worry, it's simple. We can view them on the big screen, and you can flag your favorites.",
+                "hi": "चिंता न करें, यह सरल है। हम उन्हें बड़ी स्क्रीन पर देख सकते हैं, और आप अपनी पसंदीदा तस्वीरों को चिह्नित कर सकती हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Okay. I am looking for natural expressions. I dislike photos where the smile looks fake or forced.",
+                "hi": "ठीक है। मैं स्वाभाविक भावों की तलाश में हूँ। मुझे वे तस्वीरें पसंद नहीं हैं जहाँ मुस्कान बनावटी या अस्वाभाविक लगती है।",
+                "isEn": false
+            },
+            {
+                "en": "I understand completely. Take a look at this one; the lighting is soft, and your family looks very relaxed and genuinely happy.",
+                "hi": "मैं पूरी तरह समझता हूँ। इसे देखिए; रोशनी हल्की है, और आपका परिवार बहुत तनावमुक्त और वास्तव में खुश लग रहा है।",
+                "isEn": true
+            },
+            {
+                "en": "Yes, this is beautiful, but the background looks a bit dark. Can that be fixed during the editing process?",
+                "hi": "हाँ, यह सुंदर है, लेकिन पृष्ठभूमि थोड़ी काली दिख रही है। क्या संपादन प्रक्रिया के दौरान इसे ठीक किया जा सकता है?",
+                "isEn": false
+            },
+            {
+                "en": "Absolutely. These are just the rough proofs. Once you select your favorites, I will adjust the exposure and correct the color balance perfectly.",
+                "hi": "बिल्कुल। ये तो बस कच्चे नमूने हैं। एक बार जब आप अपनी पसंदीदा तस्वीरें चुन लेंगी, तो मैं रोशनी और रंग संतुलन को पूरी तरह से ठीक कर दूँगा।",
+                "isEn": true
+            },
+            {
+                "en": "That is reassuring. By the way, how many photos are exactly included in the package I selected last week?",
+                "hi": "यह संतोषजनक बात है। वैसे, पिछले हफ्ते मैंने जो पैकेज चुना था, उसमें वास्तव में कितनी तस्वीरें शामिल हैं?",
+                "isEn": false
+            },
+            {
+                "en": "Your package includes twenty high-resolution digital images and one large print. Of course, you can always purchase additional ones if you can't decide.",
+                "hi": "आपके पैकेज में बीस उच्च-विभेदन वाली डिजिटल तस्वीरें और एक बड़ा प्रिंट शामिल है। बेशक, यदि आप निर्णय नहीं ले पाती हैं तो आप हमेशा अतिरिक्त तस्वीरें खरीद सकती हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Twenty should be enough. I will take some time to make the final selection and email you the list by tomorrow.",
+                "hi": "बीस पर्याप्त होनी चाहिए। मैं अंतिम चयन करने में थोड़ा समय लूँगी और कल तक आपको सूची ईमेल कर दूँगी।",
+                "isEn": false
+            },
+            {
+                "en": "No problem at all. Take your time, as these are memories to keep forever. Let me know if you have any questions.",
+                "hi": "कोई बात नहीं। आप आराम से समय लें, क्योंकि ये यादें हमेशा के लिए हैं। अगर आपके कोई सवाल हों तो मुझे बताएं।",
+                "isEn": true
+            }
+        ]
+    }
+}
