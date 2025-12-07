@@ -8,7 +8,34 @@ The dialogue is between an English speaker and a Hindi speaker, alternating betw
 The conversation is between English and a Hindi speaker,  so the given segments could have english script, devnagari scripts etc. Input may contain date/time, some extra texts, some description from users where there is a missing segment .
 **Research and Grounding**
 Before generating or fixing any dialogue, you MUST search the web to find similar dialogue scenarios.
-*   Search for "NAATI CCL dialogue [scenario topic]" or similar queries.
+** Web search Guidelines**
+Search for "NAATI CCL dialogue [scenario topic]" or similar queries.
+Web search for similar dialogue scenarios using the `search_web` tool to find relevant context and vocabulary and the possible date of this dialogue was posted or asked and the number of occurence in real NAATI CCL Exam. You can search following website and their public databases:
+NAATI CCL Prep Material (Facebook group)​
+NAATI CCL forum (Facebook group)​
+Nepali NAATI CCL Preparation Group (Facebook group)​
+NAATI CCL Hindi & PTE (Facebook group)​
+URDU NAATI CCL (Facebook group)​
+A One Australia Education Group – PTE NAATI & IELTS Coaching (Facebook communities)​
+Aussizz Group – NAATI CCL success stories (Facebook page)​
+LA – Language Academy PTE NAATI and IELTS Experts (Facebook page)​
+Language Academy – NAATI CCL videos/playslists (YouTube/Facebook)​
+Language‑specific NAATI CCL posts in larger groups (e.g., Indonesian, Spanish NAATI CCL threads on Facebook)​
+NepaliNaati Forum​
+PinoyAU – NAATI exam discussion thread​
+NaCl Prep – NAATI CCL practice platform​
+MyMockScore – NAATI CCL mock tests​
+Naaticcl.com​
+NAATI – CCL Practice Test page​
+NAATI – Downloadable CCL practice materials by language​
+NepaliNaati free practice materials​
+CCLTutorials – dialogue scenario and strategy articles​
+CCLHub – NAATI CCL tips and mistakes articles​
+YouTube – “NAATI CCL PRACTICE DIALOGUES” playlist​
+PTE Universe (website)​
+PTE Universe social channels with NAATI CCL content (Instagram/TikTok)​
+
+
 *   **Generate based on search**: You MUST use the found dialogues/scenarios from the web as a primary source to generate or refine the dialogue. Do not rely solely on your internal knowledge.
 *   Use the search results to understand the typical flow, vocabulary, and context for the given scenario.
 *   Use these findings to insert missing sentences, refine existing ones, and ensure the dialogue is natural and aligns with NAATI CCL standards.
@@ -97,8 +124,8 @@ also look into given segments if you get any relevant information to figure out 
 1. **Metadata Verification**:
     - **Title**: Confirm the title is short, descriptive, and reflects the dialogue's content and scenario from 
     - **Scenario**: Ensure the scenario is a concise, one-line description matching the dialogue context. 
-    - **Last Active**: Verify it matches the provided date 
-    - **Occurrences**: 1
+    - **Last Active**: The date when this dialogue appeared in the real NAATI CCL exam or posted on internet as per web search results 
+    - **Occurrences**: the number of times this dialogue appears in the web search results.
     - **Difficulty**: Ensure it aligns with the specified difficulty 
     - **Tag**: Verify the tag is one of: Health, Legal, Immigration, Education, Social Services, Business, Housing, Consumer Affairs, Financial, Community, Insurance, and matches the dialogue’s theme.
 
@@ -167,8 +194,8 @@ if any of the verification fails, rectify it or make necessary adjustments.
 1. **Metadata Verification**:
     - **Title**: Confirm the title is short, descriptive, and reflects the dialogue's content and scenario.
     - **Scenario**: Ensure the scenario is a concise, one-line description matching the dialogue context.
-    - **Last Active**: Verify it matches the provided date ({{last_active}}).
-    - **Occurrences**: Confirm it matches the provided value ({{occurrences}}).
+    - **Last Active**: the date when this dialogue appeared in the real NAATI CCL exam or posted on internet as per web search results.
+    - **Occurrences**: the number of times this dialogue appears in the web search results.
     - **Difficulty**: Ensure it aligns with the specified difficulty ({{difficulty}}) and segment rules (see below).
     - **Tag**: Verify the tag is one of: Health, Legal, Immigration, Education, Social Services, Business, Housing, Consumer Affairs, Financial, Community, Insurance, and matches the dialogue’s theme.
     - **Gender**:
@@ -211,3 +238,4 @@ if any of the verification fails, rectify it or make necessary adjustments.
 *   **Strict Urdu Avoidance**: Consistently choose Pure Hindi alternatives over Urdu/Persian ones.
     *   Examples: Use 'प्रतीक्षा' (not 'इंतज़ार'), 'संतोष/आश्वस्त' (not 'तसल्ली'), 'अस्वाभाविक' (not 'ज़बरदस्ती'), 'आवश्यकता' (not 'ज़रूरत').
 *   **Technical Terms**: Avoid simple transliteration for common technical concepts if a descriptive Hindi term exists.
+*   **Number Script Policy**: All numbers in Hindi segments (e.g., dates, times, quantities, prices, route numbers) MUST be written in Devanagari numerals (e.g., १, २, ३, ४५०) or Hindi words (e.g., एक, दो), never in Western/English numerals (e.g., 1, 2, 3).

@@ -30,3 +30,9 @@ LOTE means Language other than english which is Hindi in this case.
 **Other**
 Critically point out all the English word (with hindi or english script) used in Hindi translation. If used point it out. and suggest academic and generally accepted hindi words.
 
+
+**Other Guidelines** (Might not apply to all scenarios but get an idea from these and apply based on context)
+*   **Strict Urdu Avoidance**: Consistently choose Pure Hindi alternatives over Urdu/Persian ones.
+    *   Examples: Use 'प्रतीक्षा' (not 'इंतज़ार'), 'संतोष/आश्वस्त' (not 'तसल्ली'), 'अस्वाभाविक' (not 'ज़बरदस्ती'), 'आवश्यकता' (not 'ज़रूरत').
+*   **Technical Terms**: Avoid simple transliteration for common technical concepts if a descriptive Hindi term exists.
+*   **Number Script Policy**: All numbers in Hindi segments (e.g., dates, times, quantities, prices, route numbers) MUST be written in Devanagari numerals (e.g., १, २, ३, ४५०) or Hindi words (e.g., एक, दो), never in Western/English numerals (e.g., 1, 2, 3).

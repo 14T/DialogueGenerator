@@ -1,0 +1,79 @@
+{
+    "dialogue": {
+        "title": "Bus Depot Lost Property Inquiry",
+        "scenario": "A passenger contacts the bus depot to report a lost backpack on a bus",
+        "last_active": "2025-11-12",
+        "en_gender": true,
+        "lote_gender": false,
+        "occurrences": 1,
+        "difficulty": "MODERATE",
+        "tag": "Consumer Affairs",
+        "segments": [
+            {
+                "en": "Good morning. You have reached the Central Bus Depot lost and found department. My name is Mark. How can I help you today?",
+                "hi": "सुप्रभात। आपने सेंट्रल बस डिपो के खोया-पाया विभाग में फोन किया है। मेरा नाम मार्क है। आज मैं आपकी क्या सहायता कर सकता हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Hello, I am calling because I think I left my backpack on one of your buses this morning. I am really worried as it has some important things in it.",
+                "hi": "नमस्ते, मैंने इसलिए फ़ोन किया है क्योंकि मुझे लगता है कि आज सुबह आपकी एक बस में मेरा बैग छूट गया है। मैं वास्तव में चिंतित हूँ क्योंकि इसमें कुछ महत्वपूर्ण चीजें हैं।",
+                "isEn": false
+            },
+            {
+                "en": "I understand your concern. To help us check our system, could you please tell me the bus route number and the approximate time you were travelling?",
+                "hi": "मैं आपकी चिंता समझता हूँ। हमारी प्रणाली में जाँच करने में हमारी मदद के लिए, क्या आप कृपया मुझे बस की मार्ग संख्या और अपनी यात्रा का अनुमानित समय बता सकती हैं?",
+                "isEn": true
+            },
+            {
+                "en": "Yes, I took the 450 route towards the city. I got on around 8:30 AM and got off at the main terminal near the shopping centre about 40 minutes later.",
+                "hi": "हाँ, मैंने शहर की ओर जाने वाली मार्ग संख्या ४५० की बस ली थी। मैं सुबह लगभग ८:३० बजे चढ़ी थी और लगभग ४० मिनट बाद शॉपिंग सेंटर के पास मुख्य टर्मिनल पर उतरी थी।",
+                "isEn": false
+            },
+            {
+                "en": "Thank you for those details. Now, could you please describe the backpack? Any distinctive features, brand name, or colour would be very helpful.",
+                "hi": "उन विवरणों के लिए धन्यवाद। अब, क्या आप कृपया बैग का वर्णन कर सकती हैं? कोई विशिष्ट विशेषताएँ, ब्रांड का नाम या रंग बहुत मददगार होगा।",
+                "isEn": true
+            },
+            {
+                "en": "It is a medium-sized black leather backpack with two side pockets. It has a small red ribbon tied to the top handle, which makes it easy to recognise.",
+                "hi": "यह मध्यम आकार का काले चमड़े का बैग है जिसमें दो बगल की जेबें हैं। इसके ऊपरी हैंडल पर एक छोटा लाल फीता बंधा हुआ है, जिससे इसे पहचानना आसान हो जाता है।",
+                "isEn": false
+            },
+            {
+                "en": "Okay, that is quite specific. Do you remember where exactly you were sitting on the bus? Sometimes items slide under the seats.",
+                "hi": "ठीक है, यह काफी विशिष्ट है। क्या आपको याद है कि आप बस में ठीक कहाँ बैठी थीं? कभी-कभी सामान सीटों के नीचे खिसक जाता है।",
+                "isEn": true
+            },
+            {
+                "en": "I was sitting near the back, on the left side by the window. I had placed the bag on the empty seat next to me, but I forgot to pick it up when I rushed out.",
+                "hi": "मैं पीछे की ओर, बाईं तरफ खिड़की के पास बैठी थी। मैंने बैग अपने बगल वाली खाली सीट पर रखा था, लेकिन जब मैं जल्दी में बाहर निकली तो मैं इसे उठाना भूल गई।",
+                "isEn": false
+            },
+            {
+                "en": "I see. I have checked the logs, and a driver did hand in a black backpack with a red ribbon about ten minutes ago. Can you tell me what is inside strictly for verification?",
+                "hi": "मैं समझ गया। मैंने विवरणों की जाँच की है, और एक चालक ने लगभग दस मिनट पहले लाल फीते वाला एक काला बैग जमा किया है। क्या आप सत्यापन के लिए मुझे बता सकती हैं कि इसके अंदर क्या है?",
+                "isEn": true
+            },
+            {
+                "en": "Oh, that is a relief! It should have a blue water bottle, a pair of sunglasses in a case, and a folder containing some university documents.",
+                "hi": "ओह, यह राहत की बात है! इसमें एक नीली पानी की बोतल, एक डिब्बे में धूप का चश्मा, और एक फोल्डर होना चाहिए जिसमें विश्वविद्यालय के कुछ दस्तावेज़ हैं।",
+                "isEn": false
+            },
+            {
+                "en": "That matches our description perfectly. We have your bag here at the depot. You can come to collect it anytime before 6 PM today. Please bring a photo ID with you.",
+                "hi": "यह हमारे विवरण से पूरी तरह मेल खाता है। आपका बैग यहाँ डिपो में हमारे पास है। आप इसे लेने के लिए आज शाम ६ बजे से पहले कभी भी आ सकती हैं। कृपया अपने साथ एक फोटो पहचान पत्र लाएं।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you so much! I really appreciate your help. I will come around 4 PM to pick it up. Do I need to pay any fee?",
+                "hi": "आपका बहुत-बहुत धन्यवाद! मैं आपकी मदद की वास्तव में सराहना करती हूँ। मैं इसे लेने के लिए शाम ४ बजे के आसपास आऊंगी। क्या मुझे कोई शुल्क देना होगा?",
+                "isEn": false
+            },
+            {
+                "en": "No, there is no fee for lost property collection. Just head straight to the counter near the main entrance when you arrive. See you then.",
+                "hi": "नहीं, खोई हुई संपत्ति के संग्रह के लिए कोई शुल्क नहीं है। जब आप आएँ, तो बस मुख्य द्वार के पास वाले काउंटर पर सीधे आ जाएँ। फिर मिलते हैं।",
+                "isEn": true
+            }
+        ]
+    }
+}
