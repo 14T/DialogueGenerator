@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "Broken Washing Machine Assistance",
+        "scenario": "A discussion between two friends where one asks to borrow the other's washing machine due to a breakdown.",
+        "last_active": "2025-12-01",
+        "en_gender": true,
+        "lote_gender": true,
+        "occurrences": 1,
+        "difficulty": "HARD",
+        "tag": "Social Services",
+        "segments": [
+            {
+                "en": "Hey Rahul, sorry to bother you on the weekend, but I have a bit of an emergency with my laundry and I was wondering if you could help me out.",
+                "hi": "नमस्ते राहुल, सप्ताहांत में आपको परेशान करने के लिए क्षमा करें, लेकिन मेरे कपड़ों की धुलाई को लेकर थोड़ी आपात स्थिति आ गई है और मैं सोच रहा था कि क्या आप मेरी सहायता कर सकते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Hey John, no problem at all. We are friends, what is there to worry about? Tell me, what happened and how can I assist you?",
+                "hi": "नमस्ते जॉन, कोई बात नहीं। हम मित्र हैं, इसमें चिंता की क्या बात है? बताओ, क्या हुआ और मैं तुम्हारी कैसे सहायता कर सकता हूँ?",
+                "isEn": false
+            },
+            {
+                "en": "Well, my washing machine suddenly stopped working right in the middle of a cycle. The drum isn't spinning, and it’s making a terrible grinding noise.",
+                "hi": "असल में, मेरी कपड़े धोने की मशीन अचानक एक चक्र के बीच में ही काम करना बंद कर गई। ड्रम नहीं घूम रहा है, और इसमें से बहुत तेज़ घिसने की आवाज़ आ रही है।",
+                "isEn": true
+            },
+            {
+                "en": "That sounds quite bad. It seems like there is a problem with the motor or perhaps the belt has broken. Did you show it to any technician?",
+                "hi": "यह तो काफी खराब लग रहा है। ऐसा प्रतीत होता है कि मोटर में कोई समस्या है या शायद बेल्ट टूट गई है। क्या आपने इसे किसी मिस्त्री को दिखाया?",
+                "isEn": false
+            },
+            {
+                "en": "Not yet. I called the service center, but they can't send anyone until Monday. I have a pile of work clothes that need to be washed for next week.",
+                "hi": "अभी तक नहीं। मैंने सेवा केंद्र पर कॉल किया था, लेकिन वे सोमवार तक किसी को नहीं भेज सकते। मेरे पास काम के कपड़ों का ढेर है जिन्हें अगले सप्ताह के लिए धोना आवश्यक है।",
+                "isEn": true
+            },
+            {
+                "en": "Monday would be too late. You don't worry, you can use my machine. How many clothes do you have?",
+                "hi": "सोमवार तक तो बहुत विलंब हो जाएगा। आप चिंता न करें, आप मेरी मशीन का उपयोग कर सकते हैं। आपके पास कितने कपड़े हैं?",
+                "isEn": false
+            },
+            {
+                "en": "That would be a lifesaver, thank you! It’s mostly shirts and trousers, maybe two loads. I can bring my own detergent so I don't use yours.",
+                "hi": "यह तो मेरे लिए बहुत बड़ी राहत होगी, धन्यवाद! इसमें ज़्यादातर कमीज़ें और पतलून हैं, शायद दो बार में धुलेंगे। मैं अपना डिटर्जेंट ला सकता हूँ ताकि आपका खर्च न हो।",
+                "isEn": true
+            },
+            {
+                "en": "I have plenty of detergent, you do not need to bring it. You come over this evening, we will have tea and catch up.",
+                "hi": "मेरे पास पर्याप्त डिटर्जेंट है, आपको इसे लाने की आवश्यकता नहीं है। आप आज शाम को आ जाइए, हम चाय भी पिएंगे और थोड़ी गपशप भी कर लेंगे।",
+                "isEn": false
+            },
+            {
+                "en": "That sounds perfect. Is there anything special I need to know about your machine? I have some delicate fabrics, so I usually use the gentle cycle.",
+                "hi": "यह बिल्कुल सही रहेगा। क्या आपकी मशीन के बारे में कुछ विशेष है जो मुझे पता होना चाहिए? मेरे पास कुछ नाजुक कपड़े हैं, इसलिए मैं आमतौर पर 'कोमल चक्र' का उपयोग करता हूँ।",
+                "isEn": true
+            },
+            {
+                "en": "My machine has a separate setting for 'delicate clothes'. Just ensure that you keep the temperature on 'cold' so that the clothes do not get damaged.",
+                "hi": "मेरी मशीन में 'नाजुक कपड़ों' के लिए एक अलग सेटिंग है। बस यह सुनिश्चित कर लें कि आप तापमान को 'ठंडा' पर रखें ताकि कपड़े खराब न हों।",
+                "isEn": false
+            },
+            {
+                "en": "Okay, I'll keep that in mind. Also, how long does the quick wash cycle take? I don't want to take up too much of your time.",
+                "hi": "ठीक है, मैं इस बात का ध्यान रखूँगा। साथ ही, 'त्वरित धुलाई' वाला चक्र कितना समय लेता है? मैं आपका बहुत अधिक समय नहीं लेना चाहता।",
+                "isEn": true
+            },
+            {
+                "en": "The 'quick wash' cycle is of approximately thirty minutes. You can wash clothes comfortably, I am in no hurry.",
+                "hi": "'त्वरित धुलाई' वाला चक्र लगभग तीस मिनट का है। आप आराम से कपड़े धो सकते हैं, मुझे कोई शीघ्रता नहीं है।",
+                "isEn": false
+            },
+            {
+                "en": "Great. I'll head over in about an hour. I really appreciate you letting me use your place for this, I owe you one.",
+                "hi": "बहुत अच्छे। मैं लगभग एक घंटे में वहाँ पहुँच जाऊँगा। मैं वास्तव में आभारी हूँ कि आपने मुझे इसके लिए अपने घर का उपयोग करने दिया, मैं आपका ऋणी हूँ।",
+                "isEn": true
+            },
+            {
+                "en": "Oh, there is no need for thanks. We are neighbors and friends, it is our duty to help each other. I will wait for you.",
+                "hi": "अरे, धन्यवाद की कोई आवश्यकता नहीं है। हम पड़ोसी और मित्र हैं, एक-दूसरे की सहायता करना तो हमारा कर्तव्य है। मैं आपकी प्रतीक्षा करूँगा।",
+                "isEn": false
+            }
+        ]
+    }
+}
