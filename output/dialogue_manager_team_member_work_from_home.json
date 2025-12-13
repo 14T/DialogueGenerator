@@ -1,0 +1,79 @@
+{
+    "dialogue": {
+        "title": "Work From Home Discussion",
+        "scenario": "A manager checks in with a team member regarding project progress and remote work challenges.",
+        "last_active": "2025-12-01",
+        "en_gender": false,
+        "lote_gender": true,
+        "occurrences": 0,
+        "difficulty": "MODERATE",
+        "tag": "Business",
+        "segments": [
+            {
+                "en": "Good morning. I wanted to touch base regarding your current project and see how you are coping with working from home.",
+                "hi": "सुप्रभात। मैं आपकी वर्तमान परियोजना के संबंध में बात करना चाहती थी और यह देखना चाहती थी कि आप घर से काम करने में कैसा महसूस कर रहे हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Good morning. I am adjusting well, although sometimes I face connectivity issues which slows down my work slightly.",
+                "hi": "सुप्रभात। मैं अच्छी तरह से ढल रहा हूँ, हालाँकि कभी-कभी मुझे कनेक्टिविटी की समस्याओं का सामना करना पड़ता है जिससे मेरा काम थोड़ा धीमा हो जाता है।",
+                "isEn": false
+            },
+            {
+                "en": "I understand that technical glitches can be frustrating. Have you reached out to the IT department to check if they can upgrade your VPN access?",
+                "hi": "मैं समझती हूँ कि तकनीकी गड़बड़ियाँ निराशाजनक हो सकती हैं। क्या आपने आईटी विभाग से संपर्क किया है कि क्या वे आपकी वी.पी.एन. पहुँच को अपग्रेड कर सकते हैं?",
+                "isEn": true
+            },
+            {
+                "en": "Yes, I submitted a request yesterday. They assured me they will resolve it by tomorrow. Meanwhile, I am focusing on offline tasks.",
+                "hi": "जी हाँ, मैंने कल एक अनुरोध जमा किया था। उन्होंने मुझे आश्वासन दिया कि वे इसे कल तक हल कर देंगे। इस बीच, मैं उन कार्यों पर ध्यान केंद्रित कर रहा हूँ जिन्हें इंटरनेट के बिना किया जा सकता है।",
+                "isEn": false
+            },
+            {
+                "en": "That sounds like a good plan. Speaking of tasks, is the quarterly financial report ready for review?",
+                "hi": "यह एक अच्छी योजना है। कार्यों की बात करें तो, क्या त्रैमासिक वित्तीय प्रतिवेदन समीक्षा के लिए तैयार है?",
+                "isEn": true
+            },
+            {
+                "en": "I have completed the data analysis. I just need to add the summary and graphs. It should be ready by this afternoon.",
+                "hi": "मैंने डेटा विश्लेषण पूरा कर लिया है। मुझे बस सारांश और रेखांकन जोड़ने की आवश्यकता है। यह आज दोपहर तक तैयार हो जाना चाहिए।",
+                "isEn": false
+            },
+            {
+                "en": "Excellent. Please ensure you highlight the marketing expenses, as the director wants to discuss them in Friday's meeting. We need to be thoroughly prepared to justify the recent budget increase.",
+                "hi": "बहुत बढ़िया। कृपया सुनिश्चित करें कि आप विपणन व्यय को उजागर करें, क्योंकि निदेशक शुक्रवार की बैठक में उन पर चर्चा करना चाहते हैं। हमें हाल ही में हुई बजट वृद्धि को सही ठहराने के लिए पूरी तरह से तैयार रहने की आवश्यकता है।",
+                "isEn": true
+            },
+            {
+                "en": "I will definitely include that. I noticed our marketing spend has increased significantly this quarter compared to the last one, primarily due to the new social media campaigns we launched.",
+                "hi": "मैं निश्चित रूप से उसे शामिल करूँगा। मैंने गौर किया है कि पिछली तिमाही की तुलना में इस तिमाही में हमारा विपणन खर्च काफी बढ़ गया है, जिसका मुख्य कारण हमारे द्वारा शुरू किए गए नए सोशल मीडिया अभियान हैं।",
+                "isEn": false
+            },
+            {
+                "en": "You are right. Effective marketing is crucial for our new product launch. We can discuss your findings in detail later.",
+                "hi": "आप सही कह रहे हैं। हमारे नए उत्पाद के शुभारंभ के लिए प्रभावी विपणन महत्वपूर्ण है। हम आपके निष्कर्षों पर बाद में विस्तार से चर्चा कर सकते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Sure. I also wanted to ask if we can have a brief team catch-up to clarify some project timelines.",
+                "hi": "अवश्य। मैं यह भी पूछना चाहता था कि क्या हम परियोजना की समय-सीमा को स्पष्ट करने के लिए टीम के साथ एक संक्षिप्त बैठक कर सकते हैं?",
+                "isEn": false
+            },
+            {
+                "en": "Of course. I will schedule a Zoom meeting for the whole team tomorrow morning at 10 AM.",
+                "hi": "बिल्कुल। मैं कल सुबह १० बजे पूरी टीम के लिए एक ज़ूम बैठक निर्धारित करूँगी।",
+                "isEn": true
+            },
+            {
+                "en": "That works for me. Thank you for your support. I will get back to the report now.",
+                "hi": "यह मेरे लिए सही है। आपके सहयोग के लिए धन्यवाद। मैं अब वापस प्रतिवेदन पर काम करना शुरू करता हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "No problem. Reach out if you need anything else. Have a productive day ahead.",
+                "hi": "कोई बात नहीं। यदि आपको किसी और चीज़ की आवश्यकता हो तो संपर्क करें। आपका दिन शुभ और उत्पादक हो।",
+                "isEn": true
+            }
+        ]
+    }
+}

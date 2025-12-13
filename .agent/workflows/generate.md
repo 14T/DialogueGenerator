@@ -11,3 +11,5 @@ description: Review and generate NAATI CCL dialogue based on user input
 7. Review the generated JSON against the standards in `prompts/generate-dialogue-guidelines.md` to verify correctness (segment count, word count, loanwords, translations, gender consistency, metadata accuracy).
 8. If any issues are found in step 7, fix them and regenerate the JSON.
 9. Save the final JSON output to a file in the `output/` directory. The filename MUST be `dialogue_` followed by the snake_case title of the dialogue (e.g., `output/dialogue_job_hunting_and_recruiter_assistance.json`). Present the analysis to the user.
+ 
+10. Ask user if proceed with review using review workflow, if user says yes, execute /review workflow

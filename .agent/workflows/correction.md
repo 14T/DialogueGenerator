@@ -17,3 +17,5 @@ description: Apply user corrections and update system prompt to prevent recurren
 
 4. **Notify User**:
    - Inform the user that the correction has been applied (or acknowledged if manual) and that the system prompt has been updated to learn from this mistake.
+
+5. Ask user if proceed with review using correction workflow, if user says yes, execute /correction workflow with user instruction

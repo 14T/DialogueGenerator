@@ -6,6 +6,7 @@ The dialogue is between an English speaker and a Hindi speaker, alternating betw
 
 **Clean and Fix Dialogue**
 The conversation is between English and a Hindi speaker,  so the given segments could have english script, devnagari scripts etc. Input may contain date/time, some extra texts, some description from users where there is a missing segment .
+
 **Research and Grounding**
 Before generating or fixing any dialogue, you MUST search the web to find similar dialogue scenarios.
 ** Web search Guidelines**
@@ -236,6 +237,8 @@ if any of the verification fails, rectify it or make necessary adjustments.
 
 **Other Guidelines** (Might not apply to all scenarios but get an idea from these and apply based on context)
 *   **Strict Urdu Avoidance**: Consistently choose Pure Hindi alternatives over Urdu/Persian ones.
-    *   Examples: Use 'प्रतीक्षा' (not 'इंतज़ार'), 'संतोष/आश्वस्त' (not 'तसल्ली'), 'अस्वाभाविक' (not 'ज़बरदस्ती'), 'आवश्यकता' (not 'ज़रूरत').
+    *   Examples: Use 'प्रतीक्षा' (not 'इंतज़ार'), 'संतोष/आश्वस्त' (not 'तसल्ली'), 'अस्वाभाविक' (not 'ज़बरदस्ती'), 'आवश्यकता' (not 'ज़रूरत'), 'अवश्य' (not 'ज़रूर').
 *   **Technical Terms**: Avoid simple transliteration for common technical concepts if a descriptive Hindi term exists.
 *   **Number Script Policy**: All numbers in Hindi segments (e.g., dates, times, quantities, prices, route numbers) MUST be written in Devanagari numerals (e.g., १, २, ३, ४५०) or Hindi words (e.g., एक, दो), never in Western/English numerals (e.g., 1, 2, 3).
+*   **No Written-Style Explanations**: Do NOT use explanations in brackets or after colons (e.g., "वी.पी.एन. (VPN)"). The dialogue must simulate natural spoken conversation, not written text.
+*   **Business/Formal Terminology**: Always prefer formal Hindi terms for business concepts over transliterated English (e.g., use 'शुभारंभ' for 'launch', 'प्रतिवेदन' for 'report', 'बैठक' for 'meeting').

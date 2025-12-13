@@ -9,3 +9,7 @@ description: Run Final Checks
 5. **Notify User**:
 - Generate a detailed analysis report listing issues and a revised JSON structure if corrections are needed. 
 - Suggest if system prompt were misleading and what can be improved.
+6. Ask user about each issue one by one if it need to be corrected. 
+- if user says yes, use /correction workflow and do the correction for that issue. 
+- if user says skip this, then ask about next issue if user wants it to be corrected. and repeat so on. 
+ 

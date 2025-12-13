@@ -36,3 +36,4 @@ Critically point out all the English word (with hindi or english script) used in
     *   Examples: Use 'प्रतीक्षा' (not 'इंतज़ार'), 'संतोष/आश्वस्त' (not 'तसल्ली'), 'अस्वाभाविक' (not 'ज़बरदस्ती'), 'आवश्यकता' (not 'ज़रूरत').
 *   **Technical Terms**: Avoid simple transliteration for common technical concepts if a descriptive Hindi term exists.
 *   **Number Script Policy**: All numbers in Hindi segments (e.g., dates, times, quantities, prices, route numbers) MUST be written in Devanagari numerals (e.g., १, २, ३, ४५०) or Hindi words (e.g., एक, दो), never in Western/English numerals (e.g., 1, 2, 3).
+*   **No Written-Style Explanations**: Do NOT use explanations in brackets or after colons (e.g., "वी.पी.एन. (VPN)"). The dialogue must simulate natural spoken conversation, not written text.
