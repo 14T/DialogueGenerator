@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "House Modification for Elderly Father",
+        "scenario": "A daughter discusses necessary home modifications for her aging father with a professional contractor.",
+        "last_active": "2025-12-14",
+        "en_gender": true,
+        "lote_gender": false,
+        "occurrences": 1,
+        "difficulty": "MODERATE",
+        "tag": "Housing",
+        "segments": [
+            {
+                "en": "Good morning. I'm here to assess the property for the modifications we discussed over the phone.",
+                "hi": "सुप्रभात। मैं यहाँ संपत्ति का आकलन करने आया हूँ, उन बदलावों के लिए जिनकी हमने फोन पर चर्चा की थी।",
+                "isEn": true
+            },
+            {
+                "en": "Namaste. Thank you for coming so quickly. My father is finding it very difficult to move around the house safely.",
+                "hi": "नमस्ते। इतनी जल्दी आने के लिए धन्यवाद। मेरे पिता को घर में सुरक्षित रूप से घूमने में बहुत मुश्किल हो रही है।",
+                "isEn": false
+            },
+            {
+                "en": "I understand. Safety is the priority. Let's start with the entrance. I noticed there are three steps leading up to the front door.",
+                "hi": "मैं समझता हूँ। सुरक्षा प्राथमिकता है। चलिए प्रवेश द्वार से शुरू करते हैं। मैंने देखा कि सामने के दरवाजे तक जाने के लिए तीन सीढ़ियाँ हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Yes, that is a big problem. He uses a walker now, so he cannot climb stairs at all.",
+                "hi": "जी हाँ, यह एक बड़ी समस्या है। वे अब वॉकर का उपयोग करते हैं, इसलिए वे सीढ़ियाँ बिल्कुल नहीं चढ़ सकते।",
+                "isEn": false
+            },
+            {
+                "en": "In that case, we will need to install a ramp. For a walker, we need a gentle gradient and handrails on both sides usually.",
+                "hi": "उस स्थिति में, हमें एक रैंप लगाना होगा। वॉकर के लिए, हमें आमतौर पर हल्की ढलान और दोनों तरफ सहारे की आवश्यकता होती है।",
+                "isEn": true
+            },
+            {
+                "en": "That sounds right. Also, the bathroom is a major concern. He slipped there last week.",
+                "hi": "यह सही लग रहा है। इसके अलावा, स्नानघर एक बड़ी चिंता का विषय है। वे पिछले हफ्ते वहाँ फिसल गए थे।",
+                "isEn": false
+            },
+            {
+                "en": "I'm sorry to hear that. To prevent falls, we should install grab bars near the toilet and in the shower area immediately.",
+                "hi": "यह सुनकर मुझे खेद है। गिरने से रोकने के लिए, हमें तुरंत शौचालय के पास और शॉवर क्षेत्र में पकड़ने वाली छड़ें लगानी चाहिए।",
+                "isEn": true
+            },
+            {
+                "en": "Definitely. And what about the floor? The tiles get very slippery when wet.",
+                "hi": "निश्चित रूप से। और फर्श का क्या? गीला होने पर टाइलें बहुत फिसलने वाली हो जाती हैं।",
+                "isEn": false
+            },
+            {
+                "en": "We can apply a non-slip coating to the existing tiles, or retile the bathroom with anti-skid tiles which provides better grip.",
+                "hi": "हम मौजूदा टाइलों पर फिसलन-रोधी परत लगा सकते हैं, या बाथरूम में फिसलन-रोधी टाइलें लगा सकते हैं जो बेहतर पकड़ प्रदान करती हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Re-tiling sounds expensive. But if it is safer, we will do it. Can we also widen the bedroom door?",
+                "hi": "टाइलें बदलना महँगा लग रहा है। लेकिन अगर यह सुरक्षित है, तो हम इसे करेंगे। क्या हम शयनकक्ष का दरवाजा भी चौड़ा कर सकते हैं?",
+                "isEn": false
+            },
+            {
+                "en": "Widening the doorway is a structural modification. I'll need to check if the wall is load-bearing before giving a quote.",
+                "hi": "दरवाजे को चौड़ा करना एक संरचनात्मक संशोधन है। मुझे लागत का अनुमान देने से पहले यह जाँचने की आवश्यकता होगी कि दीवार भार वहन करने वाली है या नहीं।",
+                "isEn": true
+            },
+            {
+                "en": "Okay, please check that. We want him to be comfortable. When can you start the work?",
+                "hi": "ठीक है, कृपया इसकी जाँच करें। हम चाहते हैं कि वे आराम से रहें। आप काम कब शुरू कर सकते हैं?",
+                "isEn": false
+            },
+            {
+                "en": "Once approved, we can start next Monday. I will send you a detailed itemized quote by tomorrow evening.",
+                "hi": "एक बार मंजूरी मिलने के बाद, हम अगले सोमवार को शुरू कर सकते हैं। मैं आपको कल शाम तक एक विस्तृत मदवार लागत विवरण भेज दूँगा।",
+                "isEn": true
+            },
+            {
+                "en": "That is fine. Please email it to me. We are hoping to get this done before his birthday.",
+                "hi": "यह ठीक है। कृपया इसे मुझे ईमेल कर दें। हम उम्मीद कर रहे हैं कि उनके जन्मदिन से पहले यह काम हो जाए।",
+                "isEn": false
+            }
+        ]
+    }
+}
