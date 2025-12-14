@@ -1,0 +1,74 @@
+{
+    "dialogue": {
+        "title": "Neighbours Chatting About Kids' Behaviour",
+        "scenario": "Two neighbours discuss the concerning behaviour of their children and ways to address it.",
+        "last_active": "2025-09-14",
+        "en_gender": true,
+        "lote_gender": false,
+        "occurrences": 1,
+        "difficulty": "MODERATE",
+        "tag": "Social",
+        "segments": [
+            {
+                "en": "Hello, how are you doing? I wanted to have a quick chat with you about your son.",
+                "hi": "नमस्ते, आप कैसे हैं? मैं आपसे आपके बेटे के बारे में थोड़ी बातचीत करना चाहता था।",
+                "isEn": true
+            },
+            {
+                "en": "I am fine, thank you. Is everything okay? Did he do something mischievous again?",
+                "hi": "मैं ठीक हूँ, धन्यवाद। क्या सब ठीक है? क्या उसने फिर से कोई शरारत की?",
+                "isEn": false
+            },
+            {
+                "en": "Well, to be honest, yes. Yesterday he was throwing stones at my dog. It is becoming a bit concerning.",
+                "hi": "जी, सच कहूँ तो, हाँ। कल वह मेरे कुत्ते पर पत्थर फेंक रहा था। यह थोड़ा चिंताजनक होता जा रहा है।",
+                "isEn": true
+            },
+            {
+                "en": "Oh no, I am really sorry to hear that. He has been getting very naughty these days. I will scold him.",
+                "hi": "अरे नहीं, यह सुनकर मुझे बहुत खेद है। वह इन दिनों बहुत नटखट होता जा रहा है। मैं उसे डांटूँगी।",
+                "isEn": false
+            },
+            {
+                "en": "Please do. Also, he often rings my doorbell and runs away. It really disturbs my elderly mother.",
+                "hi": "कृपया ऐसा करें। साथ ही, वह अक्सर मेरी दरवाजे की घंटी बजाता है और भाग जाता है। इससे मेरी वृद्ध माँ को वास्तव में बहुत कष्ट होता है।",
+                "isEn": true
+            },
+            {
+                "en": "That is very bad behaviour. I will not tolerate this. I will punish him and ensure he comes to apologize to you.",
+                "hi": "यह अनुचित व्यवहार है। मैं इसे सहन नहीं करूँगी। मैं उसे दंड दूँगी और यह सुनिश्चित करूँगी कि वह आपसे क्षमा मांगने आए।",
+                "isEn": false
+            },
+            {
+                "en": "Thank you, I appreciate that. I don't want to be a complaining neighbour, but it is important they learn manners.",
+                "hi": "धन्यवाद, मैं इसकी सराहना करता हूँ। मैं शिकायत करने वाला पड़ोसी नहीं बनना चाहता, लेकिन यह महत्वपूर्ण है कि वे शिष्टाचार सीखें।",
+                "isEn": true
+            },
+            {
+                "en": "You are absolutely right. Discipline is very important. Children these days can be quite out of control if we are not careful.",
+                "hi": "आप पूर्णतः सही कह रहे हैं। अनुशासन बहुत महत्वपूर्ण है। अगर हम सावधान न रहें तो आजकल के बच्चे बहुत अनियंत्रित हो सकते हैं।",
+                "isEn": false
+            },
+            {
+                "en": "I agree. Maybe we can arrange a playdate this weekend? It might help them burn off some energy positively.",
+                "hi": "मैं सहमत हूँ। संभवतः हम इस सप्ताहांत बच्चों के खेलने का समय तय कर सकते हैं? इससे उन्हें अपनी ऊर्जा को सकारात्मक रूप से खर्च करने में मदद मिल सकती है।",
+                "isEn": true
+            },
+            {
+                "en": "That sounds like a good idea. Let's send them to the park on Saturday evening. I will keep an eye on them.",
+                "hi": "यह एक अच्छा विचार लग रहा है। चलिए शनिवार शाम को उन्हें उद्यान भेजते हैं। मैं उन पर ध्यान रखूँगी।",
+                "isEn": false
+            },
+            {
+                "en": "Perfect. It will be good for them to socialize properly. See you then.",
+                "hi": "उत्तम। उनके लिए ठीक से घुलना-मिलना अच्छा रहेगा। फिर मिलते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "See you. And thanks again for telling me. I will handle it.",
+                "hi": "फिर मिलते हैं। और मुझे बताने के लिए फिर से धन्यवाद। मैं इसे संभाल लूँगी।",
+                "isEn": false
+            }
+        ]
+    }
+}

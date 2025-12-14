@@ -5,7 +5,7 @@ description: Automated dialogue generation, review, and correction loop with min
 1. **Analysis & Generation (Auto-Mode)**:
    - If the scenario is not provided, ask the user.
    - Run the initial research steps of the `/generate` workflow (web search for context/vocabulary).
-   - **Difficulty Decision**: Instead of asking the user, determine the best Difficulty Level (EASY, MODERATE, HARD). checks existing files in `output/` to ensure diversity (e.g., if last was HARD, pick MODERATE). Only ask the user if the scenario is extremely ambiguous.
+   - **Difficulty Decision**: Instead of asking the user, determine the best Difficulty Level (EASY, MODERATE, HARD). checks existing files in `output/` to ensure diversity (50% of dialogues in our collection should be MODERATE, 25% HARD and 25% EASY). Only ask the user if the scenario is extremely ambiguous.
    - Generate the dialogue JSON using the determined difficulty.
 
 2. **Automated Review (Strict & Independent)**:

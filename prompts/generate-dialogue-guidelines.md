@@ -56,8 +56,11 @@ strictly use all the information and conversations given, do not omit any conver
 If all the segments of the dialogues are not given and you are generating it, the follow these Segment Guidelines:
     * The segment count and length must match the Difficulty level:
         * HARD: 14-16 segments, each 10-30 words. Make 1-2 segments more complex with 15-30 words.
+            * **Complexity**: Must use formal register, complex grammatical structures (passive voice, conditionals), and topic-specific terminology.
         * MODERATE: 12-15 segments, each 10-20 words. Make 1-2 segments more complex with 15-30 words.
+            * **Complexity**: Mix of formal and informal registers. Must include some compound sentences and specific vocabulary beyond basic daily use.
         * EASY: 11-14 segments, each 5-15 words. Make 1-2 segments more complex with 10-15 words.
+            * **Complexity**: Simple sentence structures (SVO), high-frequency vocabulary, mostly informal/neutral register.
     * The total word count for the entire dialogue should be approximately 300 words.
 300 word limit for the dialogue should be strictly followed but the length of segments are just guidelines and segments can be longer and shorter based on the dialogue natural flow.
 
@@ -71,6 +74,7 @@ Infer the speaker's gender (true for Male, false for Female) from all the segmen
 For English, check for names, explicit gendered terms (e.g., "man"/"woman"), or contextual pronouns. 
 
 For Hindi (hindi_gender), check for first-person verb conjugations (e.g., Hindi: "रहा"/"चाहता"/"गया" for male, "रही"/"चाहती"/"गयी" for female) and gendered nouns. Use word choice or sentiment as secondary cues only in ambiguous cases. 
+CRITICAL: Once the gender is determined or assigned, you MUST ensure throughout the dialogue that the speaker's verb conjugations and adjectives consistently reflect that gender. DO NOT flip genders midway.
 LOTE means Language other than english which is Hindi in this case.
 
 **Insert Hindi**
@@ -87,6 +91,7 @@ Generate Hindi Translations of each segment and insert below it. Do not try to g
 * Loanwords which are very common in Hindi are accepted and you can freely use them. example word like अलग is okay, no need to make it very sophisticated by using पृथक and confuse the users.
 * **Specific Vocabulary Rules**:
     - Avoid literal translation, e.g: "floor" in hospitality contexts (e.g., "on the floor"). Use context-appropriate terms like "कामकाज" (work/operations), "ग्राहक सेवा" (customer service), or "बाहरी काम" (front-of-house work).
+    - **Grammatical Equivalence**: Try to maintain the grammatical category of phrases. For example, translate a noun phrase like "a quick chat" to a noun phrase like "संक्षिप्त चर्चा" or "थोड़ी बातचीत", rather than an adverbial phrase like "संक्षेप में" (briefly).
 
 **Flow and Context**:
     - Verify the dialogue maintains a natural, conversational flow that aligns with the context of the conversation.
