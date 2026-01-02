@@ -11,8 +11,7 @@ description: Apply user corrections and update system prompt to prevent recurren
 
 3. **Update System Prompt**:
    - Read the system prompt file: `prompts/generate-dialogue-guidelines.md`.
-   - Identify what instruction can be added or improved in th system prompt so that so that mentioned mistakes does not happen again. Formulate an instruction or rule to prevent this kind of mistake in the future.
-   - Keep the instruction generic that applies to all such mistakes in future, not just this particular mistake. 
+   - Identify what instruction can be added or improved in th system prompt so that so that mentioned mistakes does not happen again. Keep the instruction generic that applies to all such mistakes in future, not just this particular mistake. (example , do not pick a particular word that is wrong in this context but might be correct in other context, rather choose a general language correction that can be added as a instruction) , Formulate an instruction or rule to prevent this kind of mistake in the future.
    - Append or insert this new instruction into the section 'Other Guidelines' at the bottom of `prompts/generate-dialogue-guidelines.md`
 
 4. **Notify User**:

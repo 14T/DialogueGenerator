@@ -1,0 +1,74 @@
+{
+    "dialogue": {
+        "title": "Medicine for Motion Sickness",
+        "scenario": "Customer discussing with pharmacist for the medicine for motion sickness.",
+        "last_active": "2026-01-02",
+        "en_gender": true,
+        "lote_gender": true,
+        "occurrences": 1,
+        "difficulty": "EASY",
+        "tag": "Health",
+        "segments": [
+            {
+                "en": "Hello! How can I help you today? Do you need medicine for yourself?",
+                "hi": "नमस्ते! आज मैं आपकी कैसे सहायता कर सकता हूँ? क्या आपको अपने लिए दवा चाहिए?",
+                "isEn": true
+            },
+            {
+                "en": "Hello. I need some medicine for motion sickness. I am taking a long bus trip tomorrow.",
+                "hi": "नमस्ते। मुझे मोशन सिकनेस के लिए कुछ दवा चाहिए। मैं कल बस से लंबी यात्रा करने वाला हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "Okay. Do you usually vomit during the bus journey, or just feel dizzy?",
+                "hi": "ठीक है। क्या आपको आमतौर पर बस यात्रा के दौरान उल्टी होती है, या सिर्फ चक्कर आते हैं?",
+                "isEn": true
+            },
+            {
+                "en": "I feel nauseous and sometimes I vomit. It makes the journey very difficult.",
+                "hi": "मुझे मिचली महसूस होती है और कभी-कभी उल्टी भी होती है। यह यात्रा को बहुत मुश्किल बना देती है।",
+                "isEn": false
+            },
+            {
+                "en": "I understand. You can take this tablet. It is very effective for travelers.",
+                "hi": "मैं समझता हूँ। आप यह गोली ले सकते हैं। यह यात्रियों के लिए बहुत प्रभावी है।",
+                "isEn": true
+            },
+            {
+                "en": "That looks good. When should I take this medicine for the best results?",
+                "hi": "यह ठीक लग रहा है। अच्छे परिणामों के लिए मुझे यह दवा कब लेनी चाहिए?",
+                "isEn": false
+            },
+            {
+                "en": "Take one pill about thirty minutes before your bus departs. It needs time to work.",
+                "hi": "अपनी बस छूटने से लगभग तीस मिनट पहले एक गोली लें। इसे असर करने के लिए समय चाहिए।",
+                "isEn": true
+            },
+            {
+                "en": "Does it have any side effects that I should know about?",
+                "hi": "क्या इसके कोई दुष्प्रभाव हैं जिनके बारे में मुझे पता होना चाहिए?",
+                "isEn": false
+            },
+            {
+                "en": "It might make you feel a little sleepy. It is good if you can sleep during the trip.",
+                "hi": "इससे आपको थोड़ी नींद आ सकती है। अगर आप यात्रा के दौरान सो सकें तो यह अच्छा है।",
+                "isEn": true
+            },
+            {
+                "en": "That is fine. How much does one strip of these tablets cost?",
+                "hi": "यह ठीक है। इन गोलियों के एक पत्ते का मूल्य कितना है?",
+                "isEn": false
+            },
+            {
+                "en": "It is twelve dollars for ten tablets. Do you need anything else?",
+                "hi": "दस गोलियों के लिए यह बारह डॉलर है। क्या आपको कुछ और चाहिए?",
+                "isEn": true
+            },
+            {
+                "en": "No, that is all. Here is twenty dollars. Keep the change.",
+                "hi": "नहीं, बस इतना ही। ये लीजिये बीस डॉलर। छुट्टे रख लें।",
+                "isEn": false
+            }
+        ]
+    }
+}

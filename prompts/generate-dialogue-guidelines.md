@@ -55,13 +55,13 @@ strictly use all the information and conversations given, do not omit any conver
 
 If all the segments of the dialogues are not given and you are generating it, the follow these Segment Guidelines:
     * The segment count and length must match the Difficulty level:
-        * HARD: 14-16 segments, each 10-30 words. Make 1-2 segments more complex with 15-30 words.
+        * HARD: 14-16 segments, each 15-30 words. Make 1-2 segments more complex with 20-30 words.
             * **Complexity**: Must use formal register, complex grammatical structures (passive voice, conditionals), and topic-specific terminology.
-        * MODERATE: 12-15 segments, each 10-20 words. Make 1-2 segments more complex with 15-30 words.
+        * MODERATE: 12-15 segments, each 10-25 words. Make 1-2 segments more complex with 15-30 words.
             * **Complexity**: Mix of formal and informal registers. Must include some compound sentences and specific vocabulary beyond basic daily use.
-        * EASY: 11-14 segments, each 5-15 words. Make 1-2 segments more complex with 10-15 words.
-            * **Complexity**: Simple sentence structures (SVO), high-frequency vocabulary, mostly informal/neutral register.
-    * The total word count for the entire dialogue should be approximately 300 words.
+        * EASY: 11-14 segments, each 10-20 words. 
+            * **Complexity**: Simple sentence structures (SVO), high-frequency vocabulary, mostly informal/neutral register. Avoid very short (under 8 words) segments unless they are simple greetings or confirmations.
+    * The total word count for the entire dialogue should be approximately 250-300 words.
 300 word limit for the dialogue should be strictly followed but the length of segments are just guidelines and segments can be longer and shorter based on the dialogue natural flow.
 
 
@@ -100,6 +100,13 @@ Generate Hindi Translations of each segment and insert below it. Do not try to g
  use gender of english speaker and Hindi speaker to correctly translate. 
 
 Hindi segments should be written in devnagari scripts. English should be written in English script. 
+
+**Context & Setting**
+*   **Australian Context**: All dialogues MUST be set in Australia.
+    *   **Currency**: Always use Australian Dollars ($/AUD). NEVER use Rupees or other currencies.
+    *   **Culture**: Use Australian social norms, locations, and systems (e.g., Medicare, Centrelink, GP).
+    *   **Geography**: Reference Australian cities, suburbs, or "country towns" rather than "villages".
+*   **Speaker Order**: The dialogue MUST ALWAYS start with the English speaker (usually the professional/service provider) as Segment 1. `isEn` MUST be `true` for the first segment.
 
 Infer tag: Analyse the user-provided Topic and assign the most appropriate category to the tag field. The value for tag MUST be one of the following: Health, Legal, Immigration, Education, Social Services, Business, Housing, Consumer Affairs, Financial, Community, Insurance.
 
@@ -196,6 +203,11 @@ if any of the verification fails, rectify it or make necessary adjustments.
 }
 ```
 
+**CRITICAL FORMATTING RULE**: 
+*   **Structure Consistency**: You MUST use the exact structure above. If not sure look into the /output/* folder for all previously generated dialogues to understand the structure.
+*   **NO Flat Arrays**: Never output a root-level array `[...]`. The root must be an object `{ "dialogue": { ... } }`.
+*   **Correct Keys**: Use `en` (English text), `hi` (Hindi translated text), and `isEn` (boolean flag for speaker language). DO NOT use generic keys like `text`, `translation`, `speaker`, or `id`.
+
 
 **Re-Review Instructions**:
 1. **Metadata Verification**:
@@ -258,9 +270,15 @@ if any of the verification fails, rectify it or make necessary adjustments.
 
 **Other Guidelines** (Might not apply to all scenarios but get an idea from these and apply based on context)
 *   **Strict Urdu Avoidance**: Consistently choose Pure Hindi alternatives over Urdu/Persian ones.
-    *   Examples: Use 'प्रतीक्षा' (not 'इंतज़ार'), 'संतोष/आश्वस्त' (not 'तसल्ली'), 'अस्वाभाविक' (not 'ज़बरदस्ती'), 'आवश्यकता' (not 'ज़रूरत'), 'अवश्य' (not 'ज़रूर'), 'ऋणी' (not 'एहसानमंद'), 'उत्तर' (not 'जवाब'), 'स्थान' (not 'जगह'), 'भाग' (not 'हिस्सा').
+    *   Examples: Use 'प्रतीक्षा' (not 'इंतज़ार'), 'संतोष/आश्वस्त' (not 'तसल्ली'), 'अस्वाभाविक' (not 'ज़बरदस्ती'), 'आवश्यकता' (not 'ज़रूरत'), 'अवश्य' (not 'ज़रूर'), 'ऋणी' (not 'एहसानमंद'), 'उत्तर' (not 'जवाब'), 'स्थान' (not 'जगह'), 'भाग' (not 'हिस्सा'), 'मूल्य' (not 'कीमत'), 'प्रभावी' (not 'असरदार'), 'सहायता' (not 'मदद').
 *   **English Naturalness**: Ensure English phrases are idiomatic. Avoid literal translations of Hindi concepts if they result in unnatural English (e.g., do not use "chat explicitly" for "talk in detail/catch up").
 *   **Technical Terms**: Avoid simple transliteration for common technical concepts if a descriptive Hindi term exists.
 *   **Number Script Policy**: All numbers in Hindi segments (e.g., dates, times, quantities, prices, route numbers) MUST be written in Devanagari numerals (e.g., १, २, ३, ४५०) or Hindi words (e.g., एक, दो), never in Western/English numerals (e.g., 1, 2, 3).
 *   **No Written-Style Explanations**: Do NOT use explanations in brackets or after colons (e.g., "वी.पी.एन. (VPN)"). The dialogue must simulate natural spoken conversation, not written text.
 *   **Business/Formal Terminology**: Always prefer formal Hindi terms for business concepts over transliterated English (e.g., use 'शुभारंभ' for 'launch', 'प्रतिवेदन' for 'report', 'बैठक' for 'meeting').
+*   **Medical Vocabulary**: Prefer Hindi terms over common English loanwords where natural:
+    *   Use 'गोली' instead of 'टैबलेट' (Tablet).
+    *   Use 'पत्ता' instead of 'स्ट्रिप' (Strip of medicine).
+    *   Use 'दुष्प्रभाव' instead of 'साइड इफेक्ट' (Side effect).
+    *   Use 'लक्षण' instead of 'सिम्पटम्स' (Symptoms).
+*   **Monetary Terms**: Use 'छुट्टे' for 'change' (money returned), not 'बदलाव' or 'खुले पैसे'.
