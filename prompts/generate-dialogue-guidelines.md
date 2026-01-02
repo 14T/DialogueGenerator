@@ -53,15 +53,72 @@ If the very first sentence is not a english speaker sentence then generate and i
 strictly use all the information and conversations given, do not omit any conversation, it is okay to add some if that improves flow of conversation.
 
 
-If all the segments of the dialogues are not given and you are generating it, the follow these Segment Guidelines:
-    * The segment count and length must match the Difficulty level:
-        * HARD: 14-16 segments, each 15-30 words. Make 1-2 segments more complex with 20-30 words.
-            * **Complexity**: Must use formal register, complex grammatical structures (passive voice, conditionals), and topic-specific terminology.
-        * MODERATE: 12-15 segments, each 10-25 words. Make 1-2 segments more complex with 15-30 words.
-            * **Complexity**: Mix of formal and informal registers. Must include some compound sentences and specific vocabulary beyond basic daily use.
-        * EASY: 11-14 segments, each 10-20 words. 
-            * **Complexity**: Simple sentence structures (SVO), high-frequency vocabulary, mostly informal/neutral register. Avoid very short (under 8 words) segments unless they are simple greetings or confirmations.
-    * The total word count for the entire dialogue should be approximately 250-300 words.
+If all the segments of the dialogues are not given and you are generating it, follow these Segment Guidelines based on the detailed criteria below:
+
+### 1. Difficulty Levels & Word Counts
+
+| Difficulty | Segment Count | Word Count (per segment) | Description |
+| :--- | :--- | :--- | :--- |
+| **Easy** | 11–14 segments | 10–15 words | Usually a single sentence or a simple greeting. Can often be interpreted without heavy note-taking. |
+| **Moderate** | 12–15 segments | 16–25 words | Usually 2 sentences or 1 long compound sentence. Requires active note-taking and basic "chunking." |
+| **Hard** | 14–16 segments | 26–35 words | The "ceiling" of the test. Multiple clauses, lists, or dense data. If you don't have a shorthand system, you will likely omit details. |
+
+* **Note**: These word counts are **PER SEGMENT**, not for the entire dialogue.
+
+### 2. Qualitative Criteria for Difficulty
+A 15-word segment can be "Hard" if it contains complex legal jargon, while a 30-word segment can be "Moderate" if it’s just a simple story. Use these criteria to further refine your labels:
+
+#### Easy Segments
+*   **Simple Sentences**: Standard Subject-Verb-Object structure (e.g., "I would like to book an appointment for next Tuesday.")
+*   **Common Phrases**: Greetings, polite inquiries, or standard closings.
+*   **Generic Vocabulary**: Words you use in daily life (food, family, basic travel).
+
+#### Moderate Segments
+*   **Compound Sentences**: Uses connectors like "and," "but," or "because."
+*   **Specific Contexts**: Requires "Domain Vocabulary" (e.g., words like tenancy agreement, premium, or enrolment).
+*   **Basic Facts**: Includes one or two pieces of data, such as a specific date or a phone number.
+
+#### Hard Segments
+*   **Dense Information**: Contains lists (e.g., "Bring your passport, birth certificate, and two utility bills") or multiple numbers/dates.
+*   **Technical Jargon**: Specialized terms from Legal, Medical, or Insurance fields (e.g., interim injunction, metastasized, no-claim bonus).
+*   **Passive Voice & Indirect Speech**: Complex grammar that doesn't translate word-for-word into your LOTE.
+*   **Idioms & Australianisms**: Phrases like "fair go," "under the weather," or "on the house" that require a "sense-for-sense" translation rather than literal words.
+
+### 3. Linguistic Complexity Criteria
+
+#### Easy Dialogues
+*   **Characteristics**: Simple sentence structure, mostly present tense, common/everyday vocabulary, one idea per sentence, minimal connectors.
+*   **Examples**: Appointment booking, basic personal details, simple instructions.
+*   **Indicators**: No idioms, no conditionals, no passive voice, no policy or legal terms.
+
+#### Moderate Dialogues
+*   **Characteristics**: Compound or slightly complex sentences, past or future tense, some domain-specific vocabulary (health, services), 2–3 linked ideas, basic cause–effect or sequencing.
+*   **Examples**: Medical history explanation, service eligibility, process explanation.
+*   **Indicators**: Limited use of conditionals, some formal language, numbers, dates, or lists, mild rephrasing required.
+
+#### Hard Dialogues
+*   **Characteristics**: Long, dense sentences, embedded clauses, multiple ideas in one turn, legal, medical, or policy-heavy language, abstract concepts.
+*   **Examples**: Consent explanations, legal rights and obligations, complaint handling, risk explanations.
+*   **Indicators**: Conditionals (“if…unless…otherwise”), passive constructions, idiomatic or formal expressions, high memory load, precision is critical.
+
+### 3. Cognitive Load Factors
+A dialogue becomes harder if it includes:
+*   Multiple numbers, dates, or names
+*   Lists (3+ items)
+*   Contrasting information
+*   Corrections or clarifications
+*   Instructions + explanations together
+
+### 4. Accent & Delivery (Note for Generation)
+*   Even an “easy” script can be hard if the tone implies fast speech, unclear pauses, or high emotion (anger, stress).
+
+### 5. Scoring Rubric (Reference)
+**Score (0-2) per factor:** Word count, Vocabulary, Grammar, Cognitive load, Domain specificity.
+*   **0–3**: Easy
+*   **4–6**: Moderate
+*   **7–10**: Hard
+
+The total word count for the entire dialogue should be approximately 250-300 words.
 300 word limit for the dialogue should be strictly followed but the length of segments are just guidelines and segments can be longer and shorter based on the dialogue natural flow.
 
 
@@ -270,7 +327,7 @@ if any of the verification fails, rectify it or make necessary adjustments.
 
 **Other Guidelines** (Might not apply to all scenarios but get an idea from these and apply based on context)
 *   **Strict Urdu Avoidance**: Consistently choose Pure Hindi alternatives over Urdu/Persian ones.
-    *   Examples: Use 'प्रतीक्षा' (not 'इंतज़ार'), 'संतोष/आश्वस्त' (not 'तसल्ली'), 'अस्वाभाविक' (not 'ज़बरदस्ती'), 'आवश्यकता' (not 'ज़रूरत'), 'अवश्य' (not 'ज़रूर'), 'ऋणी' (not 'एहसानमंद'), 'उत्तर' (not 'जवाब'), 'स्थान' (not 'जगह'), 'भाग' (not 'हिस्सा'), 'मूल्य' (not 'कीमत'), 'प्रभावी' (not 'असरदार'), 'सहायता' (not 'मदद').
+    *   Examples: Use 'प्रतीक्षा' (not 'इंतज़ार'), 'संतोष/आश्वस्त' (not 'तसल्ली'), 'अस्वाभाविक' (not 'ज़बरदस्ती'), 'आवश्यकता' (not 'ज़रूरत'), 'अवश्य' (not 'ज़रूर'), 'ऋणी' (not 'एहसानमंद'), 'उत्तर' (not 'जवाब'), 'स्थान' (not 'जगह'), 'भाग' (not 'हिस्सा'), 'मूल्य' (not 'कीमत'), 'प्रभावी' (not 'असरदार'), 'सहायता' (not 'मदद'), 'उत्तरदायित्व' (not 'जिम्मेदारी'), 'अपेक्षा' (not 'उम्मीद').
 *   **English Naturalness**: Ensure English phrases are idiomatic. Avoid literal translations of Hindi concepts if they result in unnatural English (e.g., do not use "chat explicitly" for "talk in detail/catch up").
 *   **Technical Terms**: Avoid simple transliteration for common technical concepts if a descriptive Hindi term exists.
 *   **Number Script Policy**: All numbers in Hindi segments (e.g., dates, times, quantities, prices, route numbers) MUST be written in Devanagari numerals (e.g., १, २, ३, ४५०) or Hindi words (e.g., एक, दो), never in Western/English numerals (e.g., 1, 2, 3).

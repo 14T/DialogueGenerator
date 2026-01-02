@@ -1,0 +1,79 @@
+{
+    "dialogue": {
+        "title": "Smoke Detector and Toaster Request",
+        "scenario": "A tenant contacts the property manager regarding a faulty smoke detector and a request for a toaster in a furnished property.",
+        "last_active": "2026-01-02",
+        "en_gender": false,
+        "lote_gender": true,
+        "occurrences": 1,
+        "difficulty": "EASY",
+        "tag": "Housing",
+        "segments": [
+            {
+                "en": "Good morning. This is Sarah from Apex Property. How is everything going in the new house?",
+                "hi": "सुप्रभात। मैं एपेक्स प्रॉपर्टी से सारा हूँ। नए घर में सब कुछ कैसा चल रहा है?",
+                "isEn": true
+            },
+            {
+                "en": "Hello Sarah. I am fine. The house is good, but I have two problems.",
+                "hi": "नमस्ते सारा। मैं ठीक हूँ। घर अच्छा है, लेकिन मुझे दो समस्याएं हैं।",
+                "isEn": false
+            },
+            {
+                "en": "I am sorry to hear that. Please tell me, what are the problems?",
+                "hi": "यह सुनकर मुझे खेद है। कृपया मुझे बताएं, क्या समस्याएं हैं?",
+                "isEn": true
+            },
+            {
+                "en": "The first issue is the smoke detector. It has been ringing continuously since yesterday.",
+                "hi": "पहली समस्या धूम्र संसूचक है। यह कल से लगातार बज रहा है।",
+                "isEn": false
+            },
+            {
+                "en": "It seems the battery is low. It is our responsibility to fix it immediately.",
+                "hi": "लगता है बैटरी कम है। इसे तुरंत ठीक करना हमारा उत्तरदायित्व है।",
+                "isEn": true
+            },
+            {
+                "en": "That is good. Second, this is a furnished house, but there is no toaster.",
+                "hi": "यह अच्छा है। दूसरा, यह सुसज्जित घर है, लेकिन कोई टोस्टर नहीं है।",
+                "isEn": false
+            },
+            {
+                "en": "I understand. However, usually only major appliances like the fridge are mandatory.",
+                "hi": "मैं समझती हूँ। हालाँकि, आमतौर पर केवल फ्रिज जैसे बड़े उपकरण ही अनिवार्य होते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Oh, I see. The microwave was there, so I expected a toaster too.",
+                "hi": "ओह, मैं समझ गया। माइक्रोवेव वहाँ था, इसलिए मैंने टोस्टर की भी अपेक्षा की थी।",
+                "isEn": false
+            },
+            {
+                "en": "I will ask the landlord about it. I will send an electrician for the alarm.",
+                "hi": "मैं इसके बारे में मकान मालिक से पूछूँगी। मैं अलार्म के लिए बिजली मिस्त्री भेजूंगी।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you. Let me know his decision. When will the electrician arrive?",
+                "hi": "धन्यवाद। मुझे उनके निर्णय के बारे में बताएं। बिजली मिस्त्री कब आएगा?",
+                "isEn": false
+            },
+            {
+                "en": "He should be there tomorrow at 10 AM. Will you be home?",
+                "hi": "उसे कल सुबह १० बजे वहाँ पहुंच जाना चाहिए। क्या आप घर पर होंगे?",
+                "isEn": true
+            },
+            {
+                "en": "Yes, I will be home. I will wait. Thank you for your help.",
+                "hi": "हाँ, मैं घर पर रहूँगा। मैं प्रतीक्षा करूँगा। आपकी सहायता के लिए धन्यवाद।",
+                "isEn": false
+            },
+            {
+                "en": "You are welcome. Have a wonderful day.",
+                "hi": "आपका स्वागत है। आपका दिन शुभ हो।",
+                "isEn": true
+            }
+        ]
+    }
+}
