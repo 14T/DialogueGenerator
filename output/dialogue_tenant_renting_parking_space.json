@@ -1,0 +1,79 @@
+{
+    "dialogue": {
+        "title": "Renting out parking space",
+        "scenario": "A tenant discusses with their property manager about renting out their assigned parking space to a neighbour.",
+        "last_active": "2025-12-22",
+        "en_gender": false,
+        "lote_gender": true,
+        "occurrences": 1,
+        "difficulty": "MODERATE",
+        "tag": "Housing",
+        "segments": [
+            {
+                "en": "Good Morning, Mr. Sharma. How can I assist you today regarding your tenancy?",
+                "hi": "सुप्रभात, श्री शर्मा। आपकी किराएदारी के संबंध में आज मैं आपकी किस प्रकार सहायता कर सकती हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Good Morning. I actually wanted to talk about my parking space. I don't have a car, so it stays empty.",
+                "hi": "सुप्रभात। मैं दरअसल अपनी गाड़ी खड़ी करने के स्थान के बारे में बात करना चाहता था। मेरे पास गाड़ी नहीं है, इसलिए वह खाली रहती है।",
+                "isEn": false
+            },
+            {
+                "en": "I understand. Since the parking spot is included in your lease, are you thinking of getting a car soon?",
+                "hi": "मैं समझती हूँ। चूँकि गाड़ी खड़ी करने का स्थान आपके पट्टे में शामिल है, क्या आप जल्द ही एक गाड़ी लेने की सोच रहे हैं?",
+                "isEn": true
+            },
+            {
+                "en": "No, not right now. My neighbour asked if he could rent my parking spot. Can I give it to him?",
+                "hi": "जी नहीं, अभी नहीं। मेरे पड़ोसी ने पूछा था कि क्या वह मेरी गाड़ी खड़ी करने का स्थान किराए पर ले सकता है। क्या मैं उसे दे सकता हूँ?",
+                "isEn": false
+            },
+            {
+                "en": "You cannot simply rent it out yourself. Subletting any part of the property, including a car space, requires the landlord's written consent.",
+                "hi": "आप इसे स्वयं सीधे किराए पर नहीं दे सकते। संपत्ति के किसी भी भाग को उप-किराए पर देने के लिए, जिसमें गाड़ी का स्थान भी शामिल है, मकान मालिक की लिखित सहमति आवश्यक है।",
+                "isEn": true
+            },
+            {
+                "en": "Oh, I didn't know that. He is ready to pay fifty dollars a week. Can we ask the landlord for permission?",
+                "hi": "ओह, मुझे यह पता नहीं था। वह पचास डॉलर प्रति सप्ताह देने को तैयार है। क्या हम अनुमति के लिए मकान मालिक से पूछ सकते हैं?",
+                "isEn": false
+            },
+            {
+                "en": "I can certainly submit a request to the owner. However, does your neighbour live in this same apartment complex?",
+                "hi": "मैं निश्चित रूप से मालिक को अनुरोध भेज सकती हूँ। हालाँकि, क्या आपका पड़ोसी इसी आवासीय परिसर में रहते हैं?",
+                "isEn": true
+            },
+            {
+                "en": "Yes, he lives in the flat right next to mine. He has two cars but only one parking spot.",
+                "hi": "जी हाँ, वह मेरे बगल वाले फ्लैट में ही रहते हैं। उसके पास दो गाड़ियाँ हैं लेकिन गाड़ी खड़ी करने का स्थान केवल एक है।",
+                "isEn": false
+            },
+            {
+                "en": "That is good, because strata by-laws often restrict renting parking spaces to non-residents for security reasons.",
+                "hi": "यह अच्छी बात है, क्योंकि स्ट्रेटा उप-नियम अक्सर सुरक्षा कारणों से निवासियों के अलावा किसी अन्य को गाड़ी खड़ी करने का स्थान किराए पर देने पर प्रतिबंध लगाते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "So, if the landlord agrees, do I need to sign any agreement with the neighbour?",
+                "hi": "तो, यदि मकान मालिक सहमत हो जाते हैं, तो क्या मुझे पड़ोसी के साथ किसी समझौते पर हस्ताक्षर करने की आवश्यकता होगी?",
+                "isEn": false
+            },
+            {
+                "en": "Yes, we would recommend a formal sublease agreement to avoid disputes. Also, any income you earn might be taxable.",
+                "hi": "जी हाँ, हम विवादों से बचने के लिए एक औपचारिक उप-पट्टा समझौते की अनुशंसा करेंगे। साथ ही, आप जो भी आय अर्जित करेंगे, वह कर-योग्य हो सकती है।",
+                "isEn": true
+            },
+            {
+                "en": "That makes sense. Please ask the landlord and let me know. I do not want to break any rules.",
+                "hi": "यह समझ में आता है। कृपया मकान मालिक से पूछें और मुझे बताएँ। मैं कोई नियम नहीं तोड़ना चाहता।",
+                "isEn": false
+            },
+            {
+                "en": "I will contact the owner today and get back to you once I receive their response.",
+                "hi": "मैं आज ही मालिक से संपर्क करूँगी और उनका उत्तर मिलते ही आपको सूचित करूँगी।",
+                "isEn": true
+            }
+        ]
+    }
+}
