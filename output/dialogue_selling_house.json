@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "Selling a House",
+        "scenario": "A client calls a real estate agent to inquire about selling their 7-bedroom house.",
+        "last_active": "2026-01-12",
+        "en_gender": false,
+        "lote_gender": true,
+        "occurrences": 1,
+        "difficulty": "MODERATE",
+        "tag": "Real Estate",
+        "segments": [
+            {
+                "en": "Good afternoon, thank you for calling. How can I help you today?",
+                "hi": "नमस्कार, कॉल करने के लिए धन्यवाद। आज मैं आपकी क्या सहायता कर सकती हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Good evening. I saw your advertisement about selling houses and wanted to know more about it.",
+                "hi": "नमस्कार। मैंने घर बेचने के बारे में आपका विज्ञापन देखा था और मैं इसके बारे में और अधिक जानना चाहता था।",
+                "isEn": false
+            },
+            {
+                "en": "Of course. Buying and selling houses is my main work, and I also manage rental apartments.",
+                "hi": "बिल्कुल। घर खरीदना और बेचना मेरा मुख्य काम है, और मैं किराये के अपार्टमेंट का प्रबंधन भी करती हूँ।",
+                "isEn": true
+            },
+            {
+                "en": "I have a 7-bedroom house not far from the city. I’ve been living there for 15 years, and now I want to sell it.",
+                "hi": "मेरे पास शहर से कुछ ही दूर ७ कमरों वाला एक घर है। मैं वहाँ १५ साल से रह रहा हूँ, और अब मैं इसे बेचना चाहता हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "That’s a big change after 15 years. The market conditions are very good right now, so you’ve chosen the right time to sell.",
+                "hi": "१५ साल बाद यह एक बड़ा बदलाव है। अभी बाज़ार की स्थिति बहुत अच्छी है, इसलिए आपने बेचने के लिए सही समय चुना है।",
+                "isEn": true
+            },
+            {
+                "en": "My children have gone abroad, so now I want a smaller house. I don’t really know the proper process of selling a house, so I don’t feel very confident.",
+                "hi": "मेरे बच्चे विदेश चले गए हैं, इसलिए मुझे अब छोटा घर चाहिए। मुझे घर बेचने की उचित प्रक्रिया वास्तव में नहीं पता है, इसलिए मैं बहुत आश्वस्त महसूस नहीं कर रहा हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "That’s completely fine. These are decisions most homeowners think about before selling, and there are a few options to consider.",
+                "hi": "यह पूरी तरह से ठीक है। ये ऐसे निर्णय हैं जिनके बारे में अधिकांश घर के मालिक बेचने से पहले सोचते हैं, और विचार करने के लिए कुछ विकल्प हैं।",
+                "isEn": true
+            },
+            {
+                "en": "I bought this house from a friend, so I don’t really know the different selling methods or what benefits I can get.",
+                "hi": "मैंने यह घर एक दोस्त से खरीदा था, इसलिए मुझे बेचने के विभिन्न तरीकों या मुझे क्या लाभ मिल सकते हैं, इस बारे में वास्तव में पता नहीं है।",
+                "isEn": false
+            },
+            {
+                "en": "Many homeowners these days choose to sell through auctions. There are usually a lot of interested buyers ready to purchase.",
+                "hi": "आजकल घर के कई मालिक नीलामी के माध्यम से बेचना पसंद करते हैं। आमतौर पर बहुत सारे इच्छुक खरीदार खरीदने के लिए तैयार रहते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Last week, just a few blocks away, there was an auction with about 20 people. The sellers got a very good price.",
+                "hi": "पिछले हफ्ते, बस कुछ ही खंड दूर, लगभग २० लोगों के साथ एक नीलामी हुई थी। विक्रेताओं को बहुत अच्छा मूल्य मिला।",
+                "isEn": false
+            },
+            {
+                "en": "Yes, that’s a great example of how well auctions can work, especially when several buyers are ready to bid.",
+                "hi": "हाँ, यह एक बहुत अच्छा उदाहरण है कि नीलामी कितनी अच्छी तरह काम कर सकती है, खासकर जब कई खरीदार बोली लगाने के लिए तैयार हों।",
+                "isEn": true
+            },
+            {
+                "en": "I like what I’m hearing. I want to sell my house at the highest possible price. Can you help me with that?",
+                "hi": "जो मैं सुन रहा हूँ वो मुझे पसंद आ रहा है। मैं अपना घर जितना हो सके उतना ऊँचे मूल्य पर बेचना चाहता हूँ। क्या आप इसमें मेरी मदद कर सकती हैं?",
+                "isEn": false
+            },
+            {
+                "en": "I’ll need to inspect your house first. If you’re available on Wednesday evening, please text me your address.",
+                "hi": "मुझे पहले आपके घर का निरीक्षण करना होगा। यदि आप बुधवार शाम को उपलब्ध हैं, तो कृपया मुझे अपना पता भेज दें।",
+                "isEn": true
+            },
+            {
+                "en": "Sure, that works for me. I’m available Wednesday evening. Have a good day.",
+                "hi": "ज़रूर, यह मेरे लिए ठीक है। मैं बुधवार शाम को उपलब्ध हूँ। आपका दिन शुभ हो।",
+                "isEn": false
+            }
+        ]
+    }
+}

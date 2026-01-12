@@ -155,6 +155,7 @@ Generate Hindi Translations of each segment and insert below it. Do not try to g
     - Ensure the dialogue reflects the cultural and social context and avoids inconsistencies in tone or intent.
 
  use gender of english speaker and Hindi speaker to correctly translate. 
+    - **Phrasing & Tense**: For expressions of current feeling/reaction (e.g., "I like this"), consider if Hindi continuous tense (e.g., "पसंद आ रहा है") is more natural than simple present, especially in ongoing conversations. 
 
 Hindi segments should be written in devnagari scripts. English should be written in English script. 
 
@@ -339,3 +340,12 @@ if any of the verification fails, rectify it or make necessary adjustments.
     *   Use 'दुष्प्रभाव' instead of 'साइड इफेक्ट' (Side effect).
     *   Use 'लक्षण' instead of 'सिम्पटम्स' (Symptoms).
 *   **Monetary Terms**: Use 'छुट्टे' for 'change' (money returned), not 'बदलाव' or 'खुले पैसे'.
+*   **Estate/City Terms**:
+    *   Use 'बाज़ार' (Bazaar) or 'मंडी' instead of 'शॉपिंग सेंटर' (Shopping Centre) unless referring to a specific modern mall complex.
+    *   Use 'खंड' (Khand) or 'गलियों' (Lanes) instead of 'ब्लॉक' (Block) when referring to distance/location.
+*   **Phrasing Preferences**:
+    *   Use 'जितना हो सके उतना' instead of the formal 'यथासंभव' for "as much as possible" or "highest possible".
+*   **Universal Hindi Preference**:
+    *   **Golden Rule**: If a valid Hindi word exists, USE IT. Never use an English word or transliteration if a Hindi equivalent is available.
+    *   **Scope**: This applies to EVERYTHING - physical objects (e.g., 'कमरा' not 'Bedroom'), abstract concepts, verbs, adjectives, and daily vocabulary.
+    *   **Zero Tolerance**: Do not assume "it's commonly spoken in English" is an excuse. For this task, we require the Hindi term. (e.g. use 'कोशिश' not 'try', 'शुरुआत' not 'start', 'रसोई' not 'Kitchen').

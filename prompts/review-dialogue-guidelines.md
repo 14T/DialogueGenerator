@@ -21,6 +21,9 @@ LOTE means Language other than english which is Hindi in this case.
 * Do not modify proper nouns.
 * Avoid substituting words that could create ambiguity in overall meaning; for example, using 'टिकिया' instead of 'biscuit' is misleading, as 'टिकिया' often refers to a detergent bar in Indian households. but keep it academically correct strictly, e.g. use थाना or पुलिस चौकी instead of "पुलिस स्टेशन" for Police Station. 
 * Loanwords which are very common in Hindi are accepted and you can freely use them. example word like अलग is okay, no need to make it very sophisticated by using पृथक and confuse the users.
+* **Universal Hindi Preference (Strict Verification)**:
+    *   **Zero Tolerance for Common English Nouns**: Mark it as a CRITICAL error if basic physical objects or locations are transliterated. (e.g., 'Bedroom' MUST be 'Kamra', 'Kitchen' MUST be 'Rasoi', 'Garden' MUST be 'Bagiya/Bagicha').
+    *   **General Rule**: If a valid Hindi word exists, the translation MUST use it. Transliteration is only acceptable for proper nouns or terms with no common Hindi equivalent.
 * Avoid literal translation, e.g: "floor" in hospitality contexts (e.g., "on the floor"). Use context-appropriate terms like "कामकाज" (work/operations), "ग्राहक सेवा" (customer service), or "बाहरी काम" (front-of-house work).
 
 
