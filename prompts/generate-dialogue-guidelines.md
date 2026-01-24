@@ -141,6 +141,8 @@ Generate Hindi Translations of each segment and insert below it. Do not try to g
     * Do not use English or urdu words in hindi translations generally but it is okay to use it if it is generally known and acceptable these days. (e.g. try not to translate stores to स्टोर, use दुकान instead. or try not translate mention to ज़िक्र use उल्लेख instead) use academically perfect translation. Use hindi words unless it's changing the meaning of sentence, if meaning is changed fallback to next best hindi words which is academically and generally acceptable. 
 * But, do not go too extreme in making hindi words which are not generally used e.g. using जालपृष्ठ for website is too extreme and less known to hindi speakers.
 * **Strict Loanword Policy**: Do not use English words written in Hindi script (e.g., "डॉक्टर", "कोलेस्ट्रॉल"). Always use the academic and generally accepted Hindi equivalent (e.g., "चिकित्सक", "रक्त वसा"). If a word is a proper noun or has no generally accepted Hindi equivalent (e.g., "Medicare"), it is acceptable.
+    *   **Specific Prohibition**: NEVER translate "Doctor" as "डॉक्टर". ALWAYS use "**चिकित्सक**".
+    *   **Precision Rule**: Do NOT add implied entities if they are not in the source. For example, do not translate "Appointment" as "Doctor se milne ka samay" (Time to meet doctor) if "Doctor" is not in English. Use "Milne ka samay" or "Mulakat".
     - **Hindi Words in English**: Confirm no Hindi words appear in English segments, ensuring standard English vocabulary without code-switching. . Use strict hindi words unless it's changing the meaning of sentence, if meaning is change fallback to next best hindi words which is academically and generally acceptable.
     - **Urdu Words in Hindi**:  Urdu/Persian loanwords (e.g., "मेहमाननवाज़," "ज़िक्र", "काफी") are not preferred in Hindi translations. Use pure Hindi wherever possible (e.g., "अतिथि का सत्कार" for hospitality, "उल्लेख" for mention, "बहुत/अत्यधिक" for quite/enough). Use hindi words unless it's changing the meaning of sentence, if meaning is change fallback to next best hindi words which is academically and generally acceptable. It is okay to use loanwords which are very commonly used in hindi. 
 * Do not modify proper nouns.
@@ -149,10 +151,13 @@ Generate Hindi Translations of each segment and insert below it. Do not try to g
 * **Specific Vocabulary Rules**:
     - Avoid literal translation, e.g: "floor" in hospitality contexts (e.g., "on the floor"). Use context-appropriate terms like "कामकाज" (work/operations), "ग्राहक सेवा" (customer service), or "बाहरी काम" (front-of-house work).
     - **Grammatical Equivalence**: Try to maintain the grammatical category of phrases. For example, translate a noun phrase like "a quick chat" to a noun phrase like "संक्षिप्त चर्चा" or "थोड़ी बातचीत", rather than an adverbial phrase like "संक्षेप में" (briefly).
+    - **Contextual Translation**: Translate "Quiet" (in business/work contexts meaning not busy) as "शांति" (Shanti) or "कामकाज हल्का" (Light work), NOT "भीड़ कम" (Less crowd).
 
 **Flow and Context**:
     - Verify the dialogue maintains a natural, conversational flow that aligns with the context of the conversation.
-    - Ensure the dialogue reflects the cultural and social context and avoids inconsistencies in tone or intent.
+    - **Punctuation Policy**: Do NOT use em-dashes (—) in sentences. These are meaningful in written text but unnatural in spoken dialogue interpretation scripts. Use commas (,), semicolons (;), or split into separate sentences instead.
+    - **Cultural & Social Context**:
+        - Ensure the dialogue reflects the cultural and social context and avoids inconsistencies in tone or intent.
 
  use gender of english speaker and Hindi speaker to correctly translate. 
     - **Phrasing & Tense**: For expressions of current feeling/reaction (e.g., "I like this"), consider if Hindi continuous tense (e.g., "पसंद आ रहा है") is more natural than simple present, especially in ongoing conversations. 

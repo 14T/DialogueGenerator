@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "Home Care Nurse Inquiry",
+        "scenario": "A daughter discusses arranging a home-care nurse for her injured father with the clinic receptionist.",
+        "last_active": "2026-01-12",
+        "en_gender": false,
+        "lote_gender": false,
+        "occurrences": 1,
+        "difficulty": "MODERATE",
+        "tag": "Health",
+        "segments": [
+            {
+                "en": "Good afternoon. Good to see you. How can I help you today?",
+                "hi": "नमस्ते। आपको देखकर अच्छा लगा। आज मैं आपकी कैसे मदद कर सकती हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Good afternoon. I’m good, thank you. I’ve brought my father for his appointment.",
+                "hi": "नमस्ते। मैं ठीक हूँ, धन्यवाद। मैं अपने पिता को उनके परामर्श के लिए लाई हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "Of course. Please have a seat and make yourself comfortable. The doctor will see you shortly; we are running on schedule.",
+                "hi": "बेशक। कृपया बैठ जाइए और आराम कीजिए। चिकित्सक शीघ्र ही आपसे मिलेंगे; हम निर्धारित समय पर चल रहे हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Very good. While we’re waiting, I would like to ask a few questions, if you have a moment.",
+                "hi": "बहुत अच्छा। जब तक हम प्रतीक्षा कर रहे हैं, मैं कुछ प्रश्न पूछना चाहूँगी, यदि आपके पास थोड़ा समय हो।",
+                "isEn": false
+            },
+            {
+                "en": "Sure, no problem. It’s quiet at the moment, so I’m free. But if the phone rings, I’ll need to answer it.",
+                "hi": "ज़रूर, कोई बात नहीं। इस समय यहाँ शांति है, तो मैं खाली हूँ। लेकिन अगर फोन बजता है, तो मुझे उसका जवाब देना होगा।",
+                "isEn": true
+            },
+            {
+                "en": "Last month my father got a cut and was injured. He had to get his wound dressed, so we came here for follow-up.",
+                "hi": "पिछले महीने मेरे पिता को चोट लग गयी थी और वे घायल हो गए थे। उन्हें अपने घाव की मरहम-पट्टी करवानी पड़ी थी, इसलिए हम यहाँ दोबारा दिखाने के लिए आए थे।",
+                "isEn": false
+            },
+            {
+                "en": "I understand. Wound dressings need to be done properly; otherwise they can cause infection. Healing also takes time and can be uncomfortable.",
+                "hi": "मैं समझती हूँ। घाव की मरहम-पट्टी ठीक से की जानी चाहिए; अन्यथा इससे संक्रमण हो सकता है। ठीक होने में भी समय लगता है और यह असुविधाजनक हो सकता है।",
+                "isEn": true
+            },
+            {
+                "en": "Yes, he gets frustrated. Coming to the clinic is tiring for him too. Is it possible for a nurse to come home and take care of him?",
+                "hi": "हाँ, वे झुंझला जाते हैं। चिकित्सालय आना उनके लिए भी थका देने वाला होता है। क्या यह संभव है कि कोई परिचारिका घर आए और उनकी देखभाल करे?",
+                "isEn": false
+            },
+            {
+                "en": "Home-care nurses can help with many medical needs, so it should be easier in your father’s case.",
+                "hi": "घरेलू देखभाल परिचारिकाएं कई चिकित्सा आवश्यकताओं में मदद कर सकती हैं, इसलिए आपके पिता के मामले में यह सरल होना चाहिए।",
+                "isEn": true
+            },
+            {
+                "en": "That’s what I was thinking. It’s getting difficult for both of us, but I’m not sure who to ask or how to arrange it.",
+                "hi": "मैं भी यही सोच रही थी। हम दोनों के लिए यह कठिन होता जा रहा है, लेकिन मैं निश्चित नहीं हूँ कि किससे पूछूँ या इसका प्रबंध कैसे करूँ।",
+                "isEn": false
+            },
+            {
+                "en": "You can discuss it with the doctor. She can refer him to an agency and give you information about the process.",
+                "hi": "आप चिकित्सक से इस बारे में चर्चा कर सकती हैं। वे किसी संस्था को उनका संदर्भ दे सकती हैं और आपको प्रक्रिया के बारे में जानकारी दे सकती हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Oh good, I’ll do that. I thought the process was more complicated than just a referral. Thank you for the information.",
+                "hi": "ओह अच्छा, मैं ऐसा ही करूँगी। मुझे लगा कि प्रक्रिया केवल एक संदर्भ से अधिक जटिल थी। जानकारी के लिए धन्यवाद।",
+                "isEn": false
+            },
+            {
+                "en": "Happy to help. I think this will work very well for you, though I’ll miss seeing you and your father at the clinic.",
+                "hi": "मदद करके खुशी हुई। मुझे लगता है कि यह आपके लिए बहुत अच्छा रहेगा, हालाँकि मुझे चिकित्सालय में आपको और आपके पिता को न देख पाने की कमी खलेगी।",
+                "isEn": true
+            },
+            {
+                "en": "We’ll still come here for regular check-ups. I trust the doctors and all of you, the staff are very helpful.",
+                "hi": "हम अभी भी नियमित जाँच के लिए यहाँ आएँगे। मुझे चिकित्सकों और आप सभी पर विश्वास है, कर्मचारी बहुत ही सहायक हैं।",
+                "isEn": false
+            }
+        ]
+    }
+}

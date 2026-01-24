@@ -28,8 +28,14 @@ LOTE means Language other than english which is Hindi in this case.
 
 
 **Ensuring natural flow and context.**
-**Checking translation accuracy and naturalness.**
-
+*   **Sentence Structure Analysis**: rigorousy analyze the sentence structure of both English and Hindi segments.
+    *   If a segment is grammatically correct but sounds awkward, robotic, or "translated", flag it.
+    *   **Action**: Suggest changing specific words, phrases, or the entire segment to make it sound like a natural, spontaneous conversation.
+*   **Australian Context**: Ensure the English segments reflect how people actually speak in day-to-day life in Australia.
+    *   Use appropriate Australian phrasing and tone (e.g., polite but direct, specific terminology).
+    *   Avoid overly formal or archaic English unless the specific persona (e.g., a judge) demands it.
+    *   **Punctuation Check (No Em-Dashes)**: Flag any use of em-dashes (—). These should be replaced with commas, semicolons, or new sentences to better represent spoken segmentation.
+*   **Hindi Naturalness**: Ensure Hindi segments sound like natural spoken Hindi, not "textbook" or "google translated" Hindi. Flow should be smooth.
 **Other**
 Critically point out all the English word (with hindi or english script) used in Hindi translation. If used point it out. and suggest academic and generally accepted hindi words.
 
