@@ -1,0 +1,74 @@
+{
+    "dialogue": {
+        "title": "Saving Money on Household and Baby Items",
+        "scenario": "Two friends discussing money-saving tips for household cleaning and baby care.",
+        "last_active": "2026-01-20",
+        "en_gender": false,
+        "lote_gender": false,
+        "occurrences": 1,
+        "difficulty": "EASY",
+        "tag": "Consumer Affairs",
+        "segments": [
+            {
+                "en": "Hi, I heard you have some great tips for saving money with a new baby.",
+                "hi": "नमस्ते, मैंने सुना है कि आपके पास नए बच्चे के साथ पैसे बचाने के लिए कुछ बेहतरीन सुझाव हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Yes, babies can be expensive. I use simple things to save money at home.",
+                "hi": "हाँ, बच्चे खर्चीले हो सकते हैं। मैं घर पर पैसे बचाने के लिए साधारण चीजों का उपयोग करती हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "That sounds interesting. What kind of things do you use for cleaning the house?",
+                "hi": "यह दिलचस्प लगता है। आप घर की सफाई के लिए किस तरह की चीजों का इस्तेमाल करती हैं?",
+                "isEn": true
+            },
+            {
+                "en": "I use lemon juice and spray water to clean the surfaces. It is very cheap.",
+                "hi": "मैं सतहों को साफ करने के लिए नींबू का रस और स्प्रे वाले पानी का उपयोग करती हूँ। यह बहुत सस्ता है।",
+                "isEn": false
+            },
+            {
+                "en": "That is a wonderful idea. Chemical cleaners from the supermarket can be quite expensive to buy.",
+                "hi": "यह एक अद्भुत विचार है। बाजार से रासायनिक सफाई के उत्पाद खरीदना काफी महंगा हो सकता है।",
+                "isEn": true
+            },
+            {
+                "en": "Exactly. Also, for the baby, I do not use disposable nappies at all.",
+                "hi": "बिल्कुल। इसके अलावा, बच्चे के लिए, मैं डिस्पोजेबल लंगोट का बिल्कुल भी उपयोग नहीं करती हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "Really? What do you use instead? Is it hard to manage everyday?",
+                "hi": "सच में? आप इसके बजाय क्या उपयोग करती हैं? क्या इसे हर रोज़ संभालना मुश्किल है?",
+                "isEn": true
+            },
+            {
+                "en": "I use cloth nappies. They are easy to wash and save a lot of money.",
+                "hi": "मैं कपड़े की लंगोट का उपयोग करती हूँ। वे धोने में आसान हैं और बहुत सारे पैसे बचाती हैं।",
+                "isEn": false
+            },
+            {
+                "en": "I might try that. Do you have any other tips for general household savings?",
+                "hi": "मैं शायद उसका उपयोग करूँगी। क्या आपके पास सामान्य घरेलू बचत के लिए कोई अन्य सुझाव हैं?",
+                "isEn": true
+            },
+            {
+                "en": "Yes, I usually buy things in bulk and always cook food at home.",
+                "hi": "हाँ, मैं आमतौर पर थोक में चीजें खरीदती हूँ और हमेशा घर पर खाना बनाती हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "Thank you for your advice. I will definitely try these methods to save some money.",
+                "hi": "आपकी सलाह के लिए धन्यवाद। मैं निश्चित रूप से कुछ पैसे बचाने के लिए इन तरीकों का उपयोग करूँगी।",
+                "isEn": true
+            },
+            {
+                "en": "You are welcome. Let me know if you need any more help with this.",
+                "hi": "आपका स्वागत है। मुझे बताएं कि क्या आपको इसमें किसी और मदद की आवश्यकता है।",
+                "isEn": false
+            }
+        ]
+    }
+}
