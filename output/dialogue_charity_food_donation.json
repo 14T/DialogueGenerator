@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "Charity Food Donation",
+        "scenario": "A local bakery owner contacts a charity organization to arrange for the donation of leftover food.",
+        "last_active": "2026-01-26",
+        "en_gender": true,
+        "lote_gender": false,
+        "occurrences": 1,
+        "difficulty": "MODERATE",
+        "tag": "Community",
+        "segments": [
+            {
+                "en": "Hello, you have reached Living Foods Charity. How can I help you?",
+                "hi": "नमस्ते, आपने लिविंग फूड्स चैरिटी में फोन किया है। मैं आपकी कैसे मदद कर सकता हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Namaste, I want to donate to your charity. You do very good work with the local community.",
+                "hi": "नमस्ते, मैं आपकी संस्था में दान करना चाहती हूँ। आप स्थानीय समुदाय के साथ बहुत अच्छा काम करते हैं।",
+                "isEn": false
+            },
+            {
+                "en": "That's lovely to hear, you are welcome to do so. You can donate any amount through our website.",
+                "hi": "यह सुनकर अच्छा लगा, ऐसा करने के लिए आपका स्वागत है। आप हमारी वेबसाइट के माध्यम से कितनी भी राशि दान कर सकते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "I am not talking about donating money. I am the owner of a local bakery, which is just a few buildings away from your building, and I want to donate food.",
+                "hi": "मैं पैसे दान करने की बात नहीं कर रही हूँ। मैं एक स्थानीय बेकरी की मालकिन हूँ, जो आपके भवन से कुछ ही दूर है, और मैं खाना दान करना चाहती हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "Oh, I am a regular at your bakery. The staff knows the order even before I order. What would you like to donate?",
+                "hi": "ओह, मैं आपकी बेकरी में अक्सर आता हूँ। आर्डर देने से पहले ही कर्मचारी मेरा आर्डर जानते हैं। आप क्या दान करना चाहेंगी?",
+                "isEn": true
+            },
+            {
+                "en": "I am glad you like it. I want to donate the leftover food at the end of the business day.",
+                "hi": "मुझे खुशी है कि आपको यह पसंद है। मैं व्यावसायिक दिन के अंत में बचा हुआ खाना दान करना चाहती हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "That's amazing. Thank you. We ensure that food reaches those in need so nothing goes to waste.",
+                "hi": "यह बहुत अच्छी बात है। धन्यवाद। हम सुनिश्चित करते हैं कि भोजन अभावग्रस्तों तक पहुँचे ताकि कुछ भी व्यर्थ न हो।",
+                "isEn": true
+            },
+            {
+                "en": "Yes, we also don't like throwing away good food. It is better if it helps someone in need.",
+                "hi": "हाँ, हमें भी अच्छा खाना फेंकना अच्छा नहीं लगता। अगर किसी अभावग्रस्त की मदद हो जाए तो बेहतर है।",
+                "isEn": false
+            },
+            {
+                "en": "Your contribution can make a big difference and can bring smiles to people's faces. There are so many people who are in need of food.",
+                "hi": "आपका योगदान एक बड़ा बदलाव ला सकता है और लोगों के चेहरों पर मुस्कान ला सकता है। ऐसे बहुत से लोग हैं जिन्हें भोजन की आवश्यकता है।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you. The bakery closes at 3 pm, so even if you collect it later in the afternoon, it will remain fresh.",
+                "hi": "धन्यवाद। बेकरी दोपहर ३ बजे बंद हो जाती है, तो अगर आप दोपहर के बाद भी इसे इकट्ठा करते हैं, तो भी यह ताज़ा रहेगा।",
+                "isEn": false
+            },
+            {
+                "en": "That's great. I can send someone to collect the order everyday.",
+                "hi": "यह बहुत अच्छा है। मैं रोज किसी को आर्डर लेने के लिए भेज सकता हूँ।",
+                "isEn": true
+            },
+            {
+                "en": "That would be good. Before closing the bakery, I will ask one of my employees to pack your food.",
+                "hi": "यह अच्छा रहेगा। बेकरी बंद करने से पहले, मैं अपने किसी कर्मचारी को बोलकर आपका खाना पैक करवा दूँगी।",
+                "isEn": false
+            },
+            {
+                "en": "Perfect. I will note that down. Our driver will be there at 3 pm. Who should he ask for?",
+                "hi": "उत्तम। मैं इसे लिख लूँगा। हमारा चालक दोपहर ३ बजे वहाँ पहुँचेगा। उसे किसके बारे में पूछना चाहिए?",
+                "isEn": true
+            },
+            {
+                "en": "He can call me on 0412 345 678. My name is Anjali. Thank you for this opportunity.",
+                "hi": "वह मुझे ०४१२ ३४५ ६७८ पर फोन कर सकते हैं। मेरा नाम अंजलि है। इस अवसर के लिए धन्यवाद।",
+                "isEn": false
+            }
+        ]
+    }
+}
