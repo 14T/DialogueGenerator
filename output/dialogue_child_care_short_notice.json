@@ -1,0 +1,74 @@
+{
+    "dialogue": {
+        "title": "Child Care Problems",
+        "scenario": "A phone call between two parents where one of the parents is in a problem regarding child care because her carer is moving to another state on short notice.",
+        "last_active": "2026-01-24",
+        "en_gender": false,
+        "lote_gender": false,
+        "occurrences": 1,
+        "difficulty": "MODERATE",
+        "tag": "Social Services",
+        "segments": [
+            {
+                "en": "Hello Anita, how are you? I haven't seen you at the park for a few days.",
+                "hi": "नमस्ते अनीता, आप कैसी हैं? मैंने आपको कुछ दिनों से बगीचे में नहीं देखा है।",
+                "isEn": true
+            },
+            {
+                "en": "I am fine, thanks. Actually, I have been a bit worried. My child carer is moving to Queensland.",
+                "hi": "मैं ठीक हूँ, धन्यवाद। वास्तव में, मैं थोड़ी चिंतित हूँ। मेरी बच्चों की देखभाल करने वाली क्वींसलैंड जा रही है।",
+                "isEn": false
+            },
+            {
+                "en": "Oh, that is sudden. When is she moving? Did she give you enough notice?",
+                "hi": "ओह, यह तो अचानक हुआ। वह कब जा रही है? क्या उसने आपको पर्याप्त सूचना दी थी?",
+                "isEn": true
+            },
+            {
+                "en": "No, that is the big problem. She told me yesterday that she is leaving next week. Her husband got a transfer.",
+                "hi": "नहीं, यही तो बड़ी समस्या है। उसने मुझे कल बताया कि वह अगले सप्ताह जा रही है। उसके पति का स्थानांतरण हो गया है।",
+                "isEn": false
+            },
+            {
+                "en": "That is very short notice. Arranging child care so quickly is difficult. Have you contacted any agencies?",
+                "hi": "यह तो बहुत कम समय की सूचना है। इतनी जल्दी देखभाल की व्यवस्था करना मुश्किल है। क्या आपने किसी संस्था से संपर्क किया है?",
+                "isEn": true
+            },
+            {
+                "en": "Yes, I called a few agencies this morning. But everyone has a waiting list. I cannot take leave from work.",
+                "hi": "हाँ, मैंने आज सुबह कुछ संस्थाओं को फोन किया था। लेकिन सभी के पास प्रतीक्षा सूची है। मैं काम से छुट्टी नहीं ले सकती।",
+                "isEn": false
+            },
+            {
+                "en": "Don't panic. My cousin works as a nanny nearby. She might know someone who is available.",
+                "hi": "घबराइए मत। मेरी चचेरी बहन पास में ही आया का काम करती है। हो सकता है वह किसी ऐसे व्यक्ति को जानती हो जो उपलब्ध हो।",
+                "isEn": true
+            },
+            {
+                "en": "That would be a great help. I need someone reliable and experienced. I am willing to pay extra.",
+                "hi": "यह बहुत बड़ी सहायता होगी। मुझे किसी विश्वसनीय और अनुभवी व्यक्ति की आवश्यकता है। मैं अतिरिक्त भुगतान करने को तैयार हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "I will call her right now and check. She usually knows other registered carers.",
+                "hi": "मैं उसे अभी फोन करके पूछती हूँ। वह आमतौर पर अन्य पंजीकृत देखभालकर्ताओं को जानती है।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you so much. Please let me know as soon as you find out something. I am stressed about Monday.",
+                "hi": "आपका बहुत-बहुत धन्यवाद। जैसे ही आपको कुछ पता चले, कृपया मुझे बताएं। मैं सोमवार को लेकर तनाव में हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "I will get back to you within an hour. Hopefully, we can sort this out today.",
+                "hi": "मैं एक घंटे के भीतर आपसे संपर्क करूँगी। आशा है, हम आज ही इसे सुलझा लेंगे।",
+                "isEn": true
+            },
+            {
+                "en": "You are a true friend. I really appreciate your support. Bye for now.",
+                "hi": "आप एक सच्ची मित्र हैं। मैं वास्तव में आपके सहयोग की सराहना करती हूँ। अभी के लिए नमस्ते।",
+                "isEn": false
+            }
+        ]
+    }
+}
