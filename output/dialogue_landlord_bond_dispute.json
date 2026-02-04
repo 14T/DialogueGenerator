@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "Legal Advice - Rental Bond Dispute",
+        "scenario": "A tenant seeks legal advice regarding a dispute with their landlord over a rental bond refund.",
+        "last_active": "2026-02-04",
+        "en_gender": true,
+        "lote_gender": false,
+        "occurrences": 1,
+        "difficulty": "MODERATE",
+        "tag": "Legal",
+        "segments": [
+            {
+                "en": "Good morning, this is the lawyer’s office. Please let me know what I can help you with today.",
+                "hi": "सुप्रभात, यह वकील का कार्यालय है। कृपया मुझे बताएं कि आज मैं आपकी क्या मदद कर सकता हूँ।",
+                "isEn": true
+            },
+            {
+                "en": "Good morning, I need legal advice regarding my rental bond.",
+                "hi": "सुप्रभात, मुझे अपनी सुरक्षा जमा राशि के बारे में कानूनी सलाह चाहिए।",
+                "isEn": false
+            },
+            {
+                "en": "Of course, I’m happy to help. Rental bond concerns are quite common these days. Please tell me about your particular situation.",
+                "hi": "बेशक, मुझे मदद करने में खुशी होगी। सुरक्षा जमा राशि की चिंताएँ आजकल काफी आम हैं। कृपया मुझे अपनी विशेष स्थिति के बारे में बताएं।",
+                "isEn": true
+            },
+            {
+                "en": "I have recently vacated a rental house. I left it in good condition, but I haven't received my bond back.",
+                "hi": "मैंने हाल ही में किराए का मकान खाली किया है। मैंने उसे अच्छी हालत में छोड़ा था, लेकिन मुझे मेरी सुरक्षा जमा राशि वापस नहीं मिली है।",
+                "isEn": false
+            },
+            {
+                "en": "If the property was left in the same condition as it was at the start of tenancy, there shouldn’t be a reason to hold the bond.",
+                "hi": "यदि संपत्ति को उसी स्थिति में छोड़ा गया था जैसी वह किरायेदारी की शुरुआत में थी, तो सुरक्षा जमा राशि रोकने का कोई कारण नहीं होना चाहिए।",
+                "isEn": true
+            },
+            {
+                "en": "I had the cleaning done by a professional company to ensure everything was fine, but it made no difference.",
+                "hi": "मैंने सफाई एक पेशेवर कंपनी से करवाई थी, यह सुनिश्चित करने के लिए कि सब कुछ ठीक से हो, लेकिन इसके बावजूद कोई फर्क नहीं पड़ा।",
+                "isEn": false
+            },
+            {
+                "en": "It sounds like you have done everything right. The first thing to do is raise this issue with the landlord and the managing agent.",
+                "hi": "लगता है आपने सब कुछ सही किया है। सबसे पहले आपको मकान मालिक और मैनेजिंग एजेंट के सामने इस मुद्दे को उठाना चाहिए।",
+                "isEn": true
+            },
+            {
+                "en": "I did that, they didn't listen to me. The agent said I can claim in the tribunal court if I wish. I feel I need a lawyer.",
+                "hi": "मैंने ऐसा किया था, उन्होंने मेरी बात नहीं मानी। एजेंट ने कहा कि अगर मैं चाहूँ तो न्यायाधिकरण में दावा कर सकती हूँ। मुझे लगता है कि मुझे एक वकील की आवश्यकता है।",
+                "isEn": false
+            },
+            {
+                "en": "Generally, you only need a lawyer for the Tribunal if the case is complex, though your situation does sound challenging.",
+                "hi": "आमतौर पर, न्यायाधिकरण के लिए आपको वकील की आवश्यकता तभी होती है जब मामला जटिल हो, हालाँकि आपकी स्थिति कठिन लग रही है।",
+                "isEn": true
+            },
+            {
+                "en": "They are saying I ripped out the towel stand and the whole wall needs to be repainted.",
+                "hi": "वे कह रहे हैं कि मैंने तौलिया रखने वाले स्टैंड को उखाड़ दिया है और पूरी दीवार को दोबारा पेंट करवाना होगा।",
+                "isEn": false
+            },
+            {
+                "en": "Okay, that still doesn't sound sufficient reason to hold the entire bond. It's a minor repair.",
+                "hi": "ठीक है, यह अभी भी पूरी सुरक्षा जमा राशि को रोकने का पर्याप्त कारण नहीं लगता। यह एक छोटी मरम्मत है।",
+                "isEn": true
+            },
+            {
+                "en": "I agree that the cost for this should be deducted from the bond, but the agent said fixing it will take the entire bond amount.",
+                "hi": "मैं इस बात से सहमत हूँ कि इसका खर्चा सुरक्षा जमा राशि से काट लिया जाएगा, लेकिन एजेंट ने कहा कि इसे ठीक करने में सुरक्षा जमा राशि की पूरी राशि लग जाएगी।",
+                "isEn": false
+            },
+            {
+                "en": "That's a bit excessive. Why don't you bring your lease agreement and any email from your agent and then we can discuss it.",
+                "hi": "यह थोड़ा ज्यादा है। आप अपना किरायानामा और अपने एजेंट का कोई भी ईमेल क्यों नहीं लाते और फिर हम इस पर चर्चा कर सकते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Sure, I will do that. I will bring all the documents tomorrow. Thank you very much for your advice.",
+                "hi": "जी, मैं ऐसा ही करूँगी। मैं कल सभी दस्तावेज़ ले आऊँगी। आपकी सलाह के लिए बहुत धन्यवाद।",
+                "isEn": false
+            }
+        ]
+    }
+}
