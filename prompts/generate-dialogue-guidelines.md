@@ -360,4 +360,5 @@ if any of the verification fails, rectify it or make necessary adjustments.
     *   **Scope**: This applies to EVERYTHING - physical objects (e.g., 'कमरा' not 'Bedroom'), abstract concepts, verbs, adjectives, and daily vocabulary.
     *   **Zero Tolerance**: Do not assume "it's commonly spoken in English" is an excuse. For this task, we require the Hindi term. (e.g. use 'कोशिश' not 'try', 'शुरुआत' not 'start', 'रसोई' not 'Kitchen').
 *   **Input Transformation Rule**: If the user provides input as a sequence of alternating turns (e.g., Seg 1: English, Seg 2: Hindi), you MUST NOT just copy them into a list. You MUST generate the missing translation for EACH segment so that every segment in the final JSON contains BOTH `en` and `hi` versions. The `isEn` flag should track the original speaker's language.
+*   **Bracket Prohibition**: STRICTLY DO NOT use brackets to provide alternative terms or English translations (e.g., 'शब्द (Word)'). Use only ONE best term (either the Hindi word or the accepted loanword, but NEVER both).
 
