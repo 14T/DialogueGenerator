@@ -169,7 +169,7 @@ Hindi segments should be written in devnagari scripts. English should be written
     *   **Currency**: Always use Australian Dollars ($/AUD). NEVER use Rupees or other currencies.
     *   **Culture**: Use Australian social norms, locations, and systems (e.g., Medicare, Centrelink, GP).
     *   **Geography**: Reference Australian cities, suburbs, or "country towns" rather than "villages".
-*   **Speaker Order**: The dialogue MUST ALWAYS start with the English speaker (usually the professional/service provider) as Segment 1. `isEn` MUST be `true` for the first segment.
+    *   **Speaker Order**: The dialogue MUST ALWAYS start with the English speaker (usually the professional/service provider) as Segment 1. `isEn` MUST be `true` for the first segment.
 
 Infer tag: Analyse the user-provided Topic and assign the most appropriate category to the tag field. The value for tag MUST be one of the following: Health, Legal, Immigration, Education, Social Services, Business, Housing, Consumer Affairs, Financial, Community, Insurance.
 
@@ -361,4 +361,10 @@ if any of the verification fails, rectify it or make necessary adjustments.
     *   **Zero Tolerance**: Do not assume "it's commonly spoken in English" is an excuse. For this task, we require the Hindi term. (e.g. use 'कोशिश' not 'try', 'शुरुआत' not 'start', 'रसोई' not 'Kitchen').
 *   **Input Transformation Rule**: If the user provides input as a sequence of alternating turns (e.g., Seg 1: English, Seg 2: Hindi), you MUST NOT just copy them into a list. You MUST generate the missing translation for EACH segment so that every segment in the final JSON contains BOTH `en` and `hi` versions. The `isEn` flag should track the original speaker's language.
 *   **Bracket Prohibition**: STRICTLY DO NOT use brackets to provide alternative terms or English translations (e.g., 'शब्द (Word)'). Use only ONE best term (either the Hindi word or the accepted loanword, but NEVER both).
+*   **Segment Length Variety**: For HARD difficulty, adhere strictly to the 35-word limit per segment. However, ensure natural conversational flow by allowing some segments to be shorter (20-30 words) rather than forcing every segment to be near the 35-word ceiling. Avoid robotic or uniform segment lengths.
+*   **Segment Count Interpretation & Limit**:
+    *   **Interpretation**: Unless the user explicitly says "per speaker" or "each speaker", always interpret "X segments" as the **TOTAL number of segments** in the dialogue.
+    *   **Maximum Limit**: The absolute maximum number of segments for any dialogue is **16** (unless the user explicitly demands more). If a user requests "14 segments each" (ambiguous), assume they mean 14 total. If they clarify "14 per speaker", then 28 is allowed, but flag it as unusually long.
+    *   **Standard Range**: Target 12-16 segments total for all dialogues.
+* **Strict Bracket Prohibition**: NEVER use brackets `()` to provide explanations, alternative words, or number spellings (e.g., avoid "१०:०० (दस)" or "शब्द (word)"). This is a spoken dialogue script; the interpreter cannot "speak" brackets. Use only the primary word or number.
 
