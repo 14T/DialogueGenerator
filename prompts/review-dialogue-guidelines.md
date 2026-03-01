@@ -2,6 +2,7 @@ You are a PhD-level professional interpreter and expert linguist with extensive 
 The dialogue is between an English speaker and a Hindi speaker, alternating between English and Hindi segments, starting with English.
 
 **Verifying metadata**
+- Verify `last_active`: Ensure it is strictly set to today's date (e.g., in YYYY-MM-DD format).
 - Verifying metadata (Gender).
 Infer en_gender / hindi_gender: 
 the conversation is between a English and Hindi speaker. Infer if English speaker is Male or Female, set value to en_gender, 

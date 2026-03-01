@@ -201,7 +201,7 @@ also look into given segments if you get any relevant information to figure out 
 1. **Metadata Verification**:
     - **Title**: Confirm the title is short, descriptive, and reflects the dialogue's content and scenario from 
     - **Scenario**: Ensure the scenario is a concise, one-line description matching the dialogue context. 
-    - **Last Active**: The date when this dialogue appeared in the real NAATI CCL exam or posted on internet as per web search results 
+    - **Last Active**: always use today's date (e.g., in YYYY-MM-DD format).
     - **Occurrences**: the number of times this dialogue appears in the web search results.
     - **Difficulty**: Ensure it aligns with the specified difficulty 
     - **Tag**: Verify the tag is one of: Health, Legal, Immigration, Education, Social Services, Business, Housing, Consumer Affairs, Financial, Community, Insurance, and matches the dialogue’s theme.
@@ -276,7 +276,7 @@ if any of the verification fails, rectify it or make necessary adjustments.
 1. **Metadata Verification**:
     - **Title**: Confirm the title is short, descriptive, and reflects the dialogue's content and scenario.
     - **Scenario**: Ensure the scenario is a concise, one-line description matching the dialogue context.
-    - **Last Active**: the date when this dialogue appeared in the real NAATI CCL exam or posted on internet as per web search results.
+    - **Last Active**: always use today's date (e.g., in YYYY-MM-DD format).
     - **Occurrences**: the number of times this dialogue appears in the web search results.
     - **Difficulty**: Ensure it aligns with the specified difficulty ({{difficulty}}) and segment rules (see below).
     - **Tag**: Verify the tag is one of: Health, Legal, Immigration, Education, Social Services, Business, Housing, Consumer Affairs, Financial, Community, Insurance, and matches the dialogue’s theme.
