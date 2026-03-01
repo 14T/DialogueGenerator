@@ -1,0 +1,74 @@
+{
+    "dialogue": {
+        "title": "Sending a Fragile Gift Overseas",
+        "scenario": "A customer inquires about the safest way to send a fragile gift to India at the post office.",
+        "last_active": "2026-03-01",
+        "en_gender": true,
+        "lote_gender": false,
+        "occurrences": 3,
+        "difficulty": "MODERATE",
+        "tag": "Consumer Affairs",
+        "segments": [
+            {
+                "en": "Good morning! Welcome to Australia Post. How can I assist you today? Are you looking to send a parcel overseas or domestically?",
+                "hi": "सुप्रभात! ऑस्ट्रेलिया पोस्ट में आपका स्वागत है। आज मैं आपकी कैसे सहायता कर सकता हूँ? क्या आप कोई पार्सल विदेश या देश के भीतर भेजना चाहती हैं?",
+                "isEn": true
+            },
+            {
+                "en": "Hello. I need to send this gift to my daughter in India. It contains glassware, so I want to send it safely.",
+                "hi": "नमस्ते। मुझे यह उपहार भारत में अपनी बेटी को भेजना है। इसमें कांच का सामान है, इसलिए मैं इसे सुरक्षित रूप से भेजना चाहती हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "I see. If it contains fragile items, I highly recommend using good packaging material and a sturdy box to prevent any damage during transit.",
+                "hi": "मैं समझ गया। यदि इसमें टूटने वाली वस्तुएँ हैं, तो भेजने के दौरान किसी नुकसान से बचने के लिए मैं बांधने की अच्छी सामग्री और एक मजबूत डिब्बे के उपयोग की सलाह दूँगा।",
+                "isEn": true
+            },
+            {
+                "en": "I have already packed it. Can you tell me how long it will take to arrive and how much it will cost?",
+                "hi": "मैंने इसे पहले ही बांध लिया है। क्या आप मुझे बता सकते हैं कि इसे पहुँचने में कितना समय लगेगा और इसका शुल्क कितना होगा?",
+                "isEn": false
+            },
+            {
+                "en": "For international parcels, we have Standard and Express delivery. Express takes about five to eight business days and costs around forty-five dollars, depending on the weight.",
+                "hi": "अंतरराष्ट्रीय पार्सलों के लिए, हमारे पास मानक और शीघ्र वितरण सेवाएँ हैं। शीघ्र सेवा में लगभग पाँच से आठ कार्य दिवस लगते हैं और वजन के आधार पर इसका शुल्क लगभग पैंतालीस डॉलर है।",
+                "isEn": true
+            },
+            {
+                "en": "I will choose the Express delivery service. Does this service include parcel tracking and insurance in case of any damage?",
+                "hi": "मैं शीघ्र वितरण सेवा चुनूँगी। क्या इस सेवा के साथ पार्सल की निगरानी की सुविधा और किसी क्षति के मामले में बीमा शामिल है?",
+                "isEn": false
+            },
+            {
+                "en": "Yes, Express delivery includes full tracking capability. Furthermore, you automatically get complimentary insurance coverage for items valued up to one hundred dollars.",
+                "hi": "हाँ, शीघ्र वितरण में पार्सल की पूर्ण निगरानी की सुविधा शामिल है। इसके अतिरिक्त, आपको सौ डॉलर तक के मूल्य वाली वस्तुओं के लिए स्वतः ही निःशुल्क बीमा सुरक्षा मिल जाती है।",
+                "isEn": true
+            },
+            {
+                "en": "The value of this gift is around two hundred dollars. Can I purchase additional insurance in case the parcel gets lost or broken?",
+                "hi": "इस उपहार का मूल्य लगभग दो सौ डॉलर है। यदि यह पार्सल खो जाए या टूट जाए तो क्या मैं अतिरिक्त बीमा खरीद सकती हूँ?",
+                "isEn": false
+            },
+            {
+                "en": "Certainly. You can purchase Extra Cover for a small additional fee. It costs just five extra dollars to insure it for two hundred dollars.",
+                "hi": "अवश्य। आप एक छोटे से अतिरिक्त शुल्क के साथ अतिरिक्त सुरक्षा खरीद सकती हैं। दो सौ डॉलर का बीमा कराने के लिए आपको केवल पाँच अतिरिक्त डॉलर चुकाने होंगे।",
+                "isEn": true
+            },
+            {
+                "en": "That sounds reasonable. I will take the extra cover as well. Can you tell me how I need to fill out the customs declaration form?",
+                "hi": "यह उचित लगता है। मैं अतिरिक्त सुरक्षा भी लूँगी। क्या आप मुझे बता सकते हैं कि मुझे सीमा शुल्क घोषणा प्रपत्र कैसे भरना होगा?",
+                "isEn": false
+            },
+            {
+                "en": "You need to list each item inside the box, its estimated value, and specify it as a gift. I will print the customs form for you now.",
+                "hi": "आपको डिब्बे के अंदर की प्रत्येक वस्तु और उसका अनुमानित मूल्य सूचीबद्ध करना होगा, तथा इसे एक उपहार के रूप में स्पष्ट करना होगा। मैं अभी आपके लिए सीमा शुल्क प्रपत्र मुद्रित कर दूँगा।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you very much for your help. I will fill out this form right now, and then we can proceed with the payment for the postage.",
+                "hi": "आपकी सहायता के लिए बहुत-बहुत धन्यवाद। मैं अभी यह प्रपत्र भर देती हूँ और फिर हम डाक शुल्क के भुगतान के साथ आगे बढ़ सकते हैं।",
+                "isEn": false
+            }
+        ]
+    }
+}
