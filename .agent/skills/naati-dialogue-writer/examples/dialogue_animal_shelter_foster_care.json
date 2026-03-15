@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "Animal Shelter Foster Care",
+        "scenario": "(Variant of #194 & #113) A potential adopter visits an animal shelter to enquire about adopting a pet but decides to foster instead.",
+        "last_active": "2026-02-08",
+        "en_gender": false,
+        "lote_gender": true,
+        "occurrences": 1,
+        "difficulty": "MODERATE",
+        "tag": "Social Services",
+        "segments": [
+            {
+                "en": "Welcome to our animal shelter. How can I help you?",
+                "hi": "हमारे पशु आश्रय में आपका स्वागत है। मैं आपकी किस प्रकार सहायता कर सकती हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Thank you. I am thinking of adopting an animal, but I am not sure if I would like a dog or a cat.",
+                "hi": "धन्यवाद। मैं एक जानवर को गोद लेने के बारे में सोच रहा हूँ, लेकिन मैं निश्चित नहीं हूँ कि मुझे कुत्ता चाहिए या बिल्ली।",
+                "isEn": false
+            },
+            {
+                "en": "Sure. I can definitely help you with that. Just letting you know we also have rabbits along with cats and dogs.",
+                "hi": "जी हाँ। मैं इसमें निश्चित रूप से आपकी सहायता कर सकती हूँ। बस आपकी जानकारी के लिए बता दूँ कि हमारे पास बिल्लियों और कुत्तों के साथ-साथ खरगोश भी हैं।",
+                "isEn": true
+            },
+            {
+                "en": "That is great. But I would prefer only a dog.",
+                "hi": "यह बहुत अच्छी बात है। लेकिन मैं केवल कुत्ता ही लेना पसंद करूँगा।",
+                "isEn": false
+            },
+            {
+                "en": "What kind of a dog are you looking for? Do you have any requirements?",
+                "hi": "आप किस तरह का कुत्ता ढूँढ रहे हैं? क्या आपकी कोई विशेष आवश्यकताएँ हैं?",
+                "isEn": true
+            },
+            {
+                "en": "I want something that is easy to maintain and handle. I do not want a very active dog as I have my own elderly father at home.",
+                "hi": "मुझे ऐसा कुत्ता चाहिए जो रखरखाव और संभालने में आसान हो। मुझे बहुत फुर्तीला कुत्ता नहीं चाहिए क्योंकि मेरे घर पर मेरे वृद्ध पिता रहते हैं।",
+                "isEn": false
+            },
+            {
+                "en": "Oh I understand. I would suggest you something that is easy to maintain for you then.",
+                "hi": "ओह, मैं समझती हूँ। फिर तो मैं आपको किसी ऐसे कुत्ते का सुझाव दूँगी जिसे रखना आपके लिए आसान हो।",
+                "isEn": true
+            },
+            {
+                "en": "I also heard that you guys have a temporary foster service rather than adopting as it is a long commitment.",
+                "hi": "मैंने यह भी सुना है कि आपके पास गोद लेने के बजाय फोस्टर केयर अर्थात अस्थायी पालन की सेवा भी है, क्योंकि गोद लेना एक लंबी प्रतिबद्धता है।",
+                "isEn": false
+            },
+            {
+                "en": "Absolutely, we do have that service. I think that is a better choice for you as you have your elderly father at home and I know you both love dogs.",
+                "hi": "बिल्कुल, हमारे पास वह सेवा है। मुझे लगता है कि यह आपके लिए एक बेहतर विकल्प है क्योंकि आपके घर पर आपके वृद्ध पिता हैं और मैं जानती हूँ कि आप दोनों कुत्तों से प्यार करते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "I guess I will do that first and see and then think of adopting one.",
+                "hi": "मुझे लगता है कि मैं पहले वही करके देखूँगा और फिर किसी को गोद लेने के बारे में सोचूँगा।",
+                "isEn": false
+            },
+            {
+                "en": "Sure, let me know when you are ready for that service, I can help you find one.",
+                "hi": "अवश्य, मुझे बताएँ जब आप उस सेवा के लिए तैयार हों, मैं एक कुत्ता ढूँढने में आपकी मदद कर सकती हूँ।",
+                "isEn": true
+            },
+            {
+                "en": "What all documents do I need for this process?",
+                "hi": "इस प्रक्रिया के लिए मुझे किन दस्तावेजों की आवश्यकता होगी?",
+                "isEn": false
+            },
+            {
+                "en": "I will email you what all documents are needed and you can start the process as soon as possible.",
+                "hi": "मैं आपको ईमेल कर दूँगी कि किन दस्तावेजों की आवश्यकता है और आप जल्द से जल्द प्रक्रिया शुरू कर सकते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Sure. I will be waiting for the email and get that.",
+                "hi": "अवश्य। मुझे ईमेल का इंतज़ार रहेगा और मैं वे दस्तावेज़ तैयार कर लूँगा।",
+                "isEn": false
+            }
+        ]
+    }
+}

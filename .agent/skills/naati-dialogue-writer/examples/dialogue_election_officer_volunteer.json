@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "Volunteering for Election Day",
+        "scenario": "A person calls the Electoral Commission to inquire about election day work. The officer explains the paid roles, neutrality requirements, and discusses availability and accessibility.",
+        "last_active": "2026-02-14",
+        "en_gender": true,
+        "lote_gender": false,
+        "occurrences": 1,
+        "difficulty": "MODERATE",
+        "tag": "Community",
+        "segments": [
+            {
+                "en": "Good morning, Australian Electoral Commission. This is Mark speaking. How can I assist you today?",
+                "hi": "सुप्रभात, ऑस्ट्रेलियन इलेक्टोरल कमीशन। मैं मार्क बोल रहा हूँ। आज मैं आपकी किस प्रकार सहायता कर सकता हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Good morning, Mark. I want to volunteer on election day. How can I apply for this?",
+                "hi": "सुप्रभात, मार्क। मैं चुनाव के दिन स्वयंसेवक बनना चाहती हूँ। मैं इसके लिए आवेदन कैसे कर सकती हूँ?",
+                "isEn": false
+            },
+            {
+                "en": "Most of our polling staff are actually paid employees. You must be an Australian citizen and over 18. Do you meet these criteria?",
+                "hi": "हमारे अधिकांश मतदान कर्मचारी वास्तव में वेतनभोगी कर्मचारी होते हैं। आपको एक ऑस्ट्रेलियाई नागरिक और 18 वर्ष से अधिक आयु का होना चाहिए। क्या आप इन मानदंडों को पूरा करती हैं?",
+                "isEn": true
+            },
+            {
+                "en": "Yes, I am a citizen. I also heard staff must have politically neutral views. What does that mean?",
+                "hi": "हाँ, मैं एक नागरिक हूँ। मैंने यह भी सुना है कि कर्मचारियों के विचार राजनीतिक रूप से निष्पक्ष होने चाहिए। इसका क्या अर्थ है?",
+                "isEn": false
+            },
+            {
+                "en": "It means you cannot be active in any political party or campaign. You must remain impartial while working.",
+                "hi": "इसका अर्थ है कि आप किसी भी राजनीतिक दल या अभियान में सक्रिय नहीं हो सकती हैं। काम करते समय आपको निष्पक्ष रहना होगा।",
+                "isEn": true
+            },
+            {
+                "en": "I understand. I am not a member of any party, so I can remain neutral.",
+                "hi": "मैं समझती हूँ। मैं किसी भी दल की सदस्य नहीं हूँ, इसलिए मैं तटस्थ रह सकती हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "Great. Election day is long, usually from 7 am until late at night. Are you available for the full day?",
+                "hi": "बहुत बढ़िया। चुनाव का दिन लंबा होता है, आमतौर पर सुबह 7 बजे से लेकर देर रात तक। क्या आप पूरे दिन के लिए उपलब्ध हैं?",
+                "isEn": true
+            },
+            {
+                "en": "Yes, I am fully available. I also have experience helping elderly people. Is accessibility a priority at the booths?",
+                "hi": "हाँ, मैं पूरी तरह से उपलब्ध हूँ। मेरे पास बुजुर्गों की मदद करने का अनुभव भी है। क्या मतदान केंद्रों पर सुगमता एक प्राथमिकता है?",
+                "isEn": false
+            },
+            {
+                "en": "Absolutely. We need staff who can assist voters with mobility issues. Your experience would be very valuable.",
+                "hi": "बिलकुल। हमें ऐसे कर्मचारियों की आवश्यकता है जो गतिशीलता की समस्याओं वाले मतदाताओं की सहायता कर सकें। आपका अनुभव बहुत मूल्यवान होगा।",
+                "isEn": true
+            },
+            {
+                "en": "That is good to know. Do I need to bring my own food, or is it provided?",
+                "hi": "यह जानकर अच्छा लगा। क्या मुझे अपना भोजन खुद लाना होगा, या यह उपलब्ध कराया जाता है?",
+                "isEn": false
+            },
+            {
+                "en": "We provide water, but you should bring enough food for the day. We do not supply meals due to dietary restrictions.",
+                "hi": "हम पानी उपलब्ध कराते हैं, लेकिन आपको दिन के लिए पर्याप्त भोजन लाना चाहिए। आहार संबंधी प्रतिबंधों के कारण हम भोजन की आपूर्ति नहीं करते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Okay, I will bring my lunch with me. How do I register?",
+                "hi": "ठीक है, मैं अपना दोपहर का भोजन साथ रख लूँगी। मैं पंजीकरण कैसे कर सकती हूँ?",
+                "isEn": false
+            },
+            {
+                "en": "You can apply online on the AEC website under 'Temporary Election Work'. It only takes about twenty minutes.",
+                "hi": "आप एईसी वेबसाइट पर 'अस्थायी चुनाव कार्य' के तहत ऑनलाइन आवेदन कर सकती हैं। इसमें केवल लगभग बीस मिनट लगते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you, Mark. I will apply this afternoon. Goodbye.",
+                "hi": "धन्यवाद, मार्क। मैं आज दोपहर आवेदन कर दूँगी। नमस्ते।",
+                "isEn": false
+            }
+        ]
+    }
+}

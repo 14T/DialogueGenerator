@@ -1,0 +1,79 @@
+{
+    "dialogue": {
+        "title": "Skin Specialist Appointment Booking",
+        "scenario": "A patient calls a dermatology clinic to book an appointment for a skin condition.",
+        "last_active": "2026-02-16",
+        "en_gender": false,
+        "lote_gender": false,
+        "occurrences": 1,
+        "difficulty": "EASY",
+        "tag": "Health",
+        "segments": [
+            {
+                "en": "Good morning. This is the Coastal Skin Clinic. How can I help you today?",
+                "hi": "सुप्रभात। यह कोस्टल स्किन क्लिनिक है। आज मैं आपकी किस प्रकार सहायता कर सकती हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Hello. I would like to book an appointment to see a skin specialist.",
+                "hi": "नमस्ते। मैं त्वचा विशेषज्ञ से मिलने का समय लेना चाहती हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "Certainly. Have you visited our clinic before, or is this your first time?",
+                "hi": "बिल्कुल। क्या आप पहले हमारे चिकित्सालय आई हैं, या यह आपकी पहली बार है?",
+                "isEn": true
+            },
+            {
+                "en": "This is my first time. My general practitioner has referred me to you.",
+                "hi": "यह मेरी पहली बार है। मेरे सामान्य चिकित्सक ने मुझे आपके पास भेजा है।",
+                "isEn": false
+            },
+            {
+                "en": "Okay. Do you have a valid referral letter from your doctor?",
+                "hi": "ठीक है। क्या आपके पास अपने चिकित्सक का वैध सिफ़ारिशी पत्र है?",
+                "isEn": true
+            },
+            {
+                "en": "Yes, I have the letter. It is for a rash on my arm.",
+                "hi": "जी हाँ, मेरे पास पत्र है। यह मेरी बांह पर हुए चकत्तों के लिए है।",
+                "isEn": false
+            },
+            {
+                "en": "Great. Can I please have your full name and your date of birth?",
+                "hi": "बढ़िया। क्या मुझे आपका पूरा नाम और आपकी जन्म तिथि मिल सकती है?",
+                "isEn": true
+            },
+            {
+                "en": "My name is Anjali Sharma, and my date of birth is 12th January 1985.",
+                "hi": "मेरा नाम अंजलि शर्मा है, और मेरी जन्म तिथि १२ जनवरी १९८५ है।",
+                "isEn": false
+            },
+            {
+                "en": "Thank you. We have an opening next Tuesday at 10:00 am. Does that suit you?",
+                "hi": "धन्यवाद। हमारे पास अगले मंगलवार सुबह १०:०० बजे समय उपलब्ध है। क्या यह समय आपके लिए सुविधाजनक है?",
+                "isEn": true
+            },
+            {
+                "en": "Yes, that time is fine. Can you tell me what the cost will be?",
+                "hi": "हाँ, वह समय ठीक है। क्या आप मुझे बता सकती हैं कि इसका शुल्क क्या होगा?",
+                "isEn": false
+            },
+            {
+                "en": "The consultation fee is $150. You will get a rebate from Medicare.",
+                "hi": "परामर्श शुल्क १५० डॉलर है। आपको मेडिकेयर से कुछ राशि वापस मिलेगी।",
+                "isEn": true
+            },
+            {
+                "en": "That sounds good. I will bring my card and the referral letter.",
+                "hi": "यह ठीक है। मैं अपना कार्ड और सिफ़ारिशी पत्र साथ लेकर आऊँगी।",
+                "isEn": false
+            },
+            {
+                "en": "Perfect. We will see you next Tuesday, Anjali. Goodbye.",
+                "hi": "उत्तम। हम आपसे अगले मंगलवार को मिलेंगे, अंजलि। अलविदा।",
+                "isEn": true
+            }
+        ]
+    }
+}

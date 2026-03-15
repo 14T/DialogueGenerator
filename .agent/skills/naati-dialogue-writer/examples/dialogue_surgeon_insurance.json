@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "Knee Replacement and Insurance Dialogue",
+        "scenario": "A patient consults a surgeon about knee replacement surgery and discusses health insurance coverage and costs.",
+        "last_active": "2024-11-20",
+        "en_gender": true,
+        "lote_gender": false,
+        "occurrences": 5,
+        "difficulty": "HARD",
+        "tag": "Health",
+        "segments": [
+            {
+                "en": "Good morning, Mrs. Kapoor. The scans show you have advanced arthritis in your left knee. To fix the mobility issues and relieve the pain, we unfortunately need to perform a total knee replacement.",
+                "hi": "सुप्रभात श्रीमती कपूर। स्कैन से पता चलता है कि आपके बाएं घुटने में गंभीर गठिया है। गतिशीलता की समस्याओं को ठीक करने और दर्द से राहत पाने के लिए, हमें दुर्भाग्य से पूर्ण घुटना प्रत्यारोपण करना होगा।",
+                "isEn": true
+            },
+            {
+                "en": "Good morning, Doctor. I was afraid of this. The pain is really bad now, especially on the stairs. If surgery is the only way, please explain the procedure and how long recovery takes.",
+                "hi": "सुप्रभात, डॉक्टर। मुझे इसी बात का डर था। दर्द अब बहुत तेज़ है, खासकर सीढ़ियों पर। यदि शल्य-चिकित्सा ही एकमात्र रास्ता है, तो कृपया प्रक्रिया समझाएं और बताएं कि ठीक होने में कितना समय लगता है।",
+                "isEn": false
+            },
+            {
+                "en": "The surgery takes about two hours under general anaesthesia. We replace the damaged joint with an artificial one. You will stay in hospital for four days, then do six weeks of physiotherapy.",
+                "hi": "शल्य-चिकित्सा में पूर्ण बेहोशी के तहत लगभग दो घंटे लगते हैं। हम क्षतिग्रस्त जोड़ को कृत्रिम जोड़ से बदल देते हैं। आप चार दिन अस्पताल में रहेंगे, फिर छह सप्ताह तक भौतिक चिकित्सा करेंगे।",
+                "isEn": true
+            },
+            {
+                "en": "That sounds like a big process. I need to talk about the costs first. I have private insurance with Bupa, but I'm not sure if they cover everything or if I have to pay.",
+                "hi": "यह एक बड़ी प्रक्रिया लगती है। मुझे पहले खर्चों के बारे में बात करनी है। मेरे पास बूपा का निजी बीमा है, लेकिन मुझे यकीन नहीं है कि क्या इसमें सब कुछ शामिल है या मुझे भुगतान करना होगा।",
+                "isEn": false
+            },
+            {
+                "en": "Since you have private cover, Medicare and your fund pay part of the fees. However, there will likely be a gap payment because we charge more than the government's Scheduled Fee.",
+                "hi": "चूंकि आपके पास निजी बीमा है, मेडिकेयर और आपका स्वास्थ्य कोष शुल्क का एक हिस्सा देते हैं। हालाँकि, अंतर राशि के भुगतान की संभावना है क्योंकि हम सरकार के अनुसूचित शुल्क से अधिक शुल्क लेते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "I understand. Can you estimate this gap payment? Also, my policy mentions an excess that I pay when I get admitted. Does that apply here?",
+                "hi": "मैं समझती हूँ। क्या आप इस अंतर राशि का अनुमान लगा सकते हैं? साथ ही, मेरी बीमा योजना में एक अतिरिक्त शुल्क का उल्लेख है जो मैं भर्ती होने पर देती हूँ। क्या वह यहाँ लागू होती है?",
+                "isEn": false
+            },
+            {
+                "en": "Yes, the excess depends on your policy and is paid to the hospital. For the gap, my office will give you a document outlining the estimated costs for me and the assistant surgeon.",
+                "hi": "हाँ, अतिरिक्त राशि आपकी बीमा योजना पर निर्भर करती है और अस्पताल को दी जाती है। अंतराल के लिए, मेरा कार्यालय आपको एक दस्तावेज़ देगा जिसमें मेरे और सहायक शल्य-चिकित्सक के लिए अनुमानित लागतें बताई जाएंगी।",
+                "isEn": true
+            },
+            {
+                "en": "That helps. What about the cost of the artificial knee itself? I've heard that some expensive implants aren't fully covered by insurance.",
+                "hi": "उससे मदद मिलेगी। कृत्रिम घुटने की लागत का क्या? मैंने सुना है कि कुछ महंगे प्रत्यारोपण बीमा द्वारा पूरी तरह से वहन नहीं किए जाते हैं।",
+                "isEn": false
+            },
+            {
+                "en": "Most standard implants are fully covered under No Gap arrangements. However, if you need a custom implant for your specific anatomy, there might be a cost. We will check this with your insurer.",
+                "hi": "अधिकांश मानक प्रत्यारोपण नो गैप व्यवस्था के तहत पूरी तरह से शामिल होते हैं। हालाँकि, यदि आपको अपनी विशिष्ट शारीरिक रचना के लिए अनुकूलित प्रत्यारोपण की आवश्यकता है, तो लागत हो सकती है। हम आपके बीमाकर्ता के साथ इसकी जाँच करेंगे।",
+                "isEn": true
+            },
+            {
+                "en": "That is good to know. I will check my policy limits today. Also, is the physiotherapy after surgery covered by the hospital, or do I need Extras cover?",
+                "hi": "यह जानकर अच्छा लगा। मैं आज अपनी बीमा योजना की सीमाएँ जाँचूँगी। साथ ही, क्या शल्य-चिकित्सा के बाद की भौतिक चिकित्सा अस्पताल द्वारा वहन की जाती है, या मुझे अतिरिक्त बीमा की आवश्यकता है?",
+                "isEn": false
+            },
+            {
+                "en": "In-hospital physio is covered. But after you leave, any outpatient physiotherapy falls under Extras. It is a key part of recovery, so I recommend checking your annual limits for that.",
+                "hi": "अस्पताल के अंदर की भौतिक चिकित्सा शामिल है। लेकिन आपके जाने के बाद, कोई भी बाह्य-रोगी भौतिक चिकित्सा अतिरिक्त बीमा के अंतर्गत आती है। यह ठीक होने का एक महत्वपूर्ण हिस्सा है, इसलिए मैं उसके लिए आपकी वार्षिक सीमाओं की जाँच करने की सलाह देता हूँ।",
+                "isEn": true
+            },
+            {
+                "en": "Okay. I have Extras, so I will check my remaining limit. Please give me the papers so I can start the approval process with my health fund.",
+                "hi": "ठीक है। मेरे पास अतिरिक्त बीमा है, इसलिए मैं अपनी शेष सीमा की जाँच करूँगी। कृपया मुझे प्रपत्र दें ताकि मैं अपने स्वास्थ्य कोष के साथ अनुमोदन प्रक्रिया शुरू कर सकूँ।",
+                "isEn": false
+            },
+            {
+                "en": "Certainly. My receptionist will give you the admission packet and the financial consent form. Please call us once you have authorization so we can book your surgery date.",
+                "hi": "अवश्य। मेरी स्वागतकर्ता आपको भर्ती से संबंधित दस्तावेज़ और वित्तीय सहमति प्रपत्र देगी। कृपया प्राधिकरण मिलने पर हमसे संपर्क करें ताकि हम आपकी शल्य-चिकित्सा की तारीख तय कर सकें।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you, Doctor Wilson, for explaining clearly. I will take the papers and contact you soon. Goodbye.",
+                "hi": "स्पष्ट रूप से समझाने के लिए धन्यवाद, डॉक्टर विल्सन। मैं प्रपत्र ले लूँगी और जल्द ही आपसे संपर्क करूँगी। नमस्ते।",
+                "isEn": false
+            }
+        ]
+    }
+}
