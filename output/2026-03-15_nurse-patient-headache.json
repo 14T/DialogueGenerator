@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "Nurse and Patient at GP Clinic — Headache",
+        "scenario": "A nurse at a GP clinic assesses a patient presenting with a headache and advises on next steps.",
+        "last_active": "2026-03-15",
+        "en_gender": false,
+        "lote_gender": false,
+        "occurrences": 4,
+        "difficulty": "MODERATE",
+        "tag": "Health",
+        "segments": [
+            {
+                "en": "Good morning, welcome to Greenwood Medical Centre. I'm Sarah, one of the nurses here. How can I help you today?",
+                "hi": "शुभ प्रभात, ग्रीनवुड चिकित्सा केंद्र में आपका स्वागत है। मैं सारा हूँ, यहाँ की एक परिचारिका। आज मैं आपकी किस प्रकार सहायता कर सकती हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Good morning. I have been having a really bad headache since this morning and I feel quite dizzy as well.",
+                "hi": "शुभ प्रभात। मुझे आज सुबह से बहुत तेज़ सिरदर्द हो रहा है और मुझे चक्कर भी आ रहे हैं।",
+                "isEn": false
+            },
+            {
+                "en": "I'm sorry to hear that. Can you describe the pain for me, is it a sharp pain, or does it feel heavy?",
+                "hi": "यह सुनकर दुख हुआ। क्या आप मुझे दर्द के बारे में बता सकती हैं, क्या यह तेज़ दर्द है, या भारीपन जैसा लग रहा है?",
+                "isEn": true
+            },
+            {
+                "en": "It feels quite heavy, mostly on the right side of my head. It started suddenly around seven in the morning.",
+                "hi": "यह बहुत भारी लग रहा है, अधिकतर मेरे सिर के दाहिने भाग में। यह अचानक सुबह सात बजे शुरू हुआ।",
+                "isEn": false
+            },
+            {
+                "en": "Have you experienced any nausea, sensitivity to light, or blurred vision along with the headache?",
+                "hi": "क्या सिरदर्द के साथ आपको मतली, प्रकाश के प्रति संवेदनशीलता, या धुंधली दृष्टि भी हो रही है?",
+                "isEn": true
+            },
+            {
+                "en": "Yes, I feel nauseous and bright lights are really bothering me. I had to close the curtains at home before coming here.",
+                "hi": "हाँ, मेरा जी मिचला रहा है और तेज़ रोशनी से बहुत परेशानी हो रही है। यहाँ आने से पहले मुझे घर में पर्दे बंद करने पड़े।",
+                "isEn": false
+            },
+            {
+                "en": "I understand. Have you taken any pain relief medication this morning, such as paracetamol or ibuprofen?",
+                "hi": "मैं समझती हूँ। क्या आपने आज सुबह कोई दर्द निवारक दवाई ली है, जैसे कि पैरासिटामोल या इबुप्रोफेन?",
+                "isEn": true
+            },
+            {
+                "en": "I took two paracetamol tablets about two hours ago but they have not helped much. The pain is still quite severe.",
+                "hi": "मैंने लगभग दो घंटे पहले पैरासिटामोल की दो गोलियाँ ली थीं, लेकिन उनसे अधिक लाभ नहीं हुआ। दर्द अभी भी बहुत तीव्र है।",
+                "isEn": false
+            },
+            {
+                "en": "Do you have a history of migraines, or is this the first time you are experiencing a headache of this kind?",
+                "hi": "क्या आपको पहले कभी अर्धकपाली का इतिहास रहा है, या इस प्रकार का सिरदर्द पहली बार हो रहा है?",
+                "isEn": true
+            },
+            {
+                "en": "I had migraines a few years ago but they stopped. This feels similar to those, but the intensity seems much worse today.",
+                "hi": "मुझे कुछ वर्ष पहले अर्धकपाली होती थी लेकिन वे बंद हो गई थीं। यह उन जैसा ही लग रहा है, परंतु आज इसकी तीव्रता बहुत अधिक है।",
+                "isEn": false
+            },
+            {
+                "en": "Thank you for that information. I will take your blood pressure and pulse now, and then let the doctor know you are here.",
+                "hi": "इस जानकारी के लिए धन्यवाद। मैं अभी आपका रक्तचाप और नाड़ी की जाँच करूँगी, और फिर चिकित्सक को बताऊँगी कि आप आई हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Alright, thank you. Is there anything I should do while I wait? This pain is making it very hard to sit up.",
+                "hi": "ठीक है, धन्यवाद। प्रतीक्षा के दौरान मुझे क्या करना चाहिए? इस दर्द के कारण सीधे बैठना बहुत कठिन हो रहा है।",
+                "isEn": false
+            },
+            {
+                "en": "Of course. Please lie down on the examination bed and I will dim the lights for you. The doctor will see you very shortly.",
+                "hi": "बिल्कुल। कृपया जाँच की शय्या पर लेट जाइए और मैं आपके लिए रोशनी कम कर देती हूँ। चिकित्सक आपको शीघ्र ही देखेंगी।",
+                "isEn": true
+            },
+            {
+                "en": "That is very kind of you. I am feeling a little relieved already. Thank you so much for your help.",
+                "hi": "आप बहुत दयालु हैं। मुझे थोड़ी राहत महसूस हो रही है। आपकी सहायता के लिए बहुत-बहुत धन्यवाद।",
+                "isEn": false
+            }
+        ]
+    }
+}
