@@ -154,7 +154,7 @@ Generate Hindi Translations of each segment and insert below it. Do not try to g
 
 **Flow and Context**:
     - Verify the dialogue maintains a natural, conversational flow that aligns with the context of the conversation.
-    - **Punctuation Policy**: Do NOT use em-dashes (—) in sentences. These are meaningful in written text but unnatural in spoken dialogue interpretation scripts. Use commas (,), semicolons (;), or split into separate sentences instead.
+    - **Punctuation Policy**: Do NOT use em-dashes (—) in sentences. These are meaningful in written text but unnatural in spoken dialogue interpretation scripts. Use commas (,), semicolons (;), or split into separate sentences instead. For Hindi segments, ALWAYS use the Devanagari Danda '।' as a full stop. NEVER use the CJK ideographic full stop '。' or the English period '.'.
     - **Cultural & Social Context**:
         - Ensure the dialogue reflects the cultural and social context and avoids inconsistencies in tone or intent.
 
@@ -285,6 +285,10 @@ if any of the verification fails, rectify it or make necessary adjustments.
     *   Use 'पत्ता' instead of 'स्ट्रिप' (Strip of medicine).
     *   Use 'दुष्प्रभाव' instead of 'साइड इफेक्ट' (Side effect).
     *   Use 'लक्षण' instead of 'सिम्पटम्स' (Symptoms).
+*   **Financial Terms**:
+    *   Use 'क्रेडिट कार्ड' instead of 'साख पत्र' (Credit Card).
+    *   Use 'डेबिट कार्ड' instead of 'आहरण पत्र' (Debit Card).
+    *   Use 'यात्रा कार्ड' instead of 'यात्रा क्रेडिट कार्ड' or 'ट्रैवल कार्ड' (Travel Card).
 *   **Monetary Terms**: Use 'छुट्टे' for 'change' (money returned), not 'बदलाव' or 'खुले पैसे'.
 *   **Estate/City Terms**:
     *   **Specific Terminology**:
@@ -295,6 +299,7 @@ if any of the verification fails, rectify it or make necessary adjustments.
     *   Use 'खंड' (Khand) or 'गलियों' (Lanes) instead of 'ब्लॉक' (Block) when referring to distance/location.
 *   **Phrasing Preferences**:
     *   Use 'जितना हो सके उतना' instead of the formal 'यथासंभव' for "as much as possible" or "highest possible".
+    *   Translate "How exciting!" contextually to "यह तो बहुत रोमांचक है!" rather than generic expressions like "क्या बात है!".
 *   **Universal Hindi Preference**:
     *   **Golden Rule**: If a valid Hindi word exists, USE IT. Never use an English word or transliteration if a Hindi equivalent is available.
     *   **Scope**: This applies to EVERYTHING - physical objects (e.g., 'कमरा' not 'Bedroom'), abstract concepts, verbs, adjectives, and daily vocabulary.

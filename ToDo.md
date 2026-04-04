@@ -1,4 +1,34 @@
 
+- [x] Conversation between a bank teller and a customer happening inside a bank regarding foreign currency options for overseas holiday
+    ```
+    1. Good Afternoon. How can I help you today? (In English)
+
+    2. नमस्ते! मैं overseas currency के बारे में आपसे बात करना चाहता हूँ।
+
+    3. No problem. I can help with that. Do you want investment advice or need foreign currency for travel?
+
+    4. मैं Travel के लिए चाहता हूँ। शुक्रिया। मैं अगले महीने overseas जा रहा हूँ छुट्टियों के लिए। मुझे समझ में नहीं आ रहा है कि वहाँ रहने के दौरान पैसा खर्च करने का सबसे बेहतर विकल्प क्या होगा।
+
+    5. How exciting. If you let me know which country you are travelling to, I would suggest best way to access cash there.
+
+    6. यह थोड़ा मुश्किल हो सकता है क्योंकि मैं बहुत सारी जगहों पर जा रहा हूँ, कम से कम 5 countries.
+
+    7. In that case, you can use a credit card for most of the purchases and a debit card to withdraw cash as per your convenience.
+
+    8. मैंने इस बारे में सोचा था। यह सुविधाजनक है लेकिन मुझे credit card पर लगने वाली transaction fee की चिंता है।
+
+    9. We offer a travel credit card over which transaction fee is waived off. However, interest rate will be higher if you are unable to pay the balance amount each month.
+
+    10. मैं पूरी राशि का भुगतान कर सकता हूँ। मैं interest rate के बारे में चिंतित नहीं हूँ। आप मुझे आवेदन करने की प्रक्रिया बताएँ!
+
+    11. Certainly. I can help you to apply today. If approved, you will get your card before holidays.
+
+    12. शुक्रिया। हालांकि मुझे थोड़ी चिंता है currency को लेकर। मैं और राशि लेने आऊँगा उस country की जहाँ मैं सबसे ज्यादा समय रुकूँगा।
+
+    13. Of course. That won’t be a problem. Please bring your ID to purchase cash whenever you are ready.
+
+    14. आपका बहुत बहुत धन्यवाद। मैं अब बेहतर महसूस कर रहा हूँ। Travel card और cash के साथ मेरी छुट्टियों की तैयारी पूरी हो जायेगी।
+    ```
 - [x] Dialogue between a nurse and a patient who is experiencing a headache at a GP clinic.
 - [x] A customer calling a bank employee regarding loyalty point  
 - [ ] Phone call from a customer to a hotel to change a booking.

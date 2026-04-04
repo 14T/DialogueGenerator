@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "Foreign Currency Options at Bank",
+        "scenario": "A bank teller helps a customer explore foreign currency and travel card options for an upcoming overseas holiday.",
+        "last_active": "2026-04-01",
+        "en_gender": false,
+        "lote_gender": true,
+        "occurrences": 3,
+        "difficulty": "MODERATE",
+        "tag": "Financial",
+        "segments": [
+            {
+                "en": "Good afternoon. How can I help you today?",
+                "hi": "शुभ अपराह्न। आज मैं आपकी किस प्रकार सहायता कर सकती हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Hello! I would like to speak with you about foreign currency options for my upcoming trip.",
+                "hi": "नमस्ते! मैं अपनी आगामी यात्रा के लिए विदेशी मुद्रा के विकल्पों के बारे में आपसे बात करना चाहता हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "Of course. Are you looking for investment advice, or do you need foreign currency for travel purposes?",
+                "hi": "बिल्कुल। क्या आप निवेश संबंधी परामर्श चाहते हैं, या आपको यात्रा के लिए विदेशी मुद्रा चाहिए?",
+                "isEn": true
+            },
+            {
+                "en": "I need it for travel. I am going overseas for my holidays next month, and I am not sure what the best way to manage my money while I am there.",
+                "hi": "मुझे यात्रा के लिए चाहिए। मैं अगले महीने छुट्टियों के लिए विदेश जा रहा हूँ, और मुझे समझ नहीं आ रहा कि वहाँ अपना धन संभालने का सबसे उचित तरीका क्या होगा।",
+                "isEn": false
+            },
+            {
+                "en": "How exciting! If you tell me which country you are travelling to, I can suggest the best way to access cash there.",
+                "hi": "यह तो बहुत रोमांचक है! यदि आप मुझे बताएँ कि आप किस देश में जा रहे हैं, तो मैं वहाँ नकद प्राप्त करने का सबसे उचित तरीका सुझा सकती हूँ।",
+                "isEn": true
+            },
+            {
+                "en": "That might be a little complicated, because I am visiting quite a few places; at least five countries on this trip.",
+                "hi": "यह थोड़ा जटिल हो सकता है, क्योंकि मैं कई स्थानों पर जा रहा हूँ; इस यात्रा में कम से कम पाँच देश।",
+                "isEn": false
+            },
+            {
+                "en": "In that case, I would recommend using a credit card for most purchases and a debit card to withdraw cash whenever you need it.",
+                "hi": "उस स्थिति में, मैं सुझाव दूँगी कि अधिकांश खरीदारी के लिए क्रेडिट कार्ड और जब भी नकद की आवश्यकता हो तो डेबिट कार्ड का उपयोग करें।",
+                "isEn": true
+            },
+            {
+                "en": "I had thought about that. It is convenient, but I am worried about the transaction fees charged on a credit card.",
+                "hi": "मैंने इस बारे में सोचा था। यह सुविधाजनक है, परंतु मुझे क्रेडिट कार्ड पर लगने वाले लेनदेन शुल्क की चिंता है।",
+                "isEn": false
+            },
+            {
+                "en": "We offer a travel credit card where the international transaction fee is waived. However, the interest rate is higher if you are unable to pay off the full balance each month.",
+                "hi": "हम एक यात्रा क्रेडिट कार्ड प्रदान करते हैं जिसमें अंतरराष्ट्रीय लेनदेन शुल्क की छूट दी जाती है। परंतु, यदि आप प्रत्येक माह पूरी राशि नहीं चुका पाते, तो ब्याज दर अधिक होगी।",
+                "isEn": true
+            },
+            {
+                "en": "I can pay the full amount each month, so the interest rate is not a concern for me. Please walk me through the application process!",
+                "hi": "मैं प्रत्येक माह पूरी राशि का भुगतान कर सकता हूँ, अतः ब्याज दर मेरे लिए चिंता का विषय नहीं है। कृपया मुझे आवेदन प्रक्रिया समझाएँ!",
+                "isEn": false
+            },
+            {
+                "en": "Certainly! I can help you apply today. If approved, you should receive your card well before your holiday.",
+                "hi": "अवश्य! मैं आज आपको आवेदन करने में सहायता कर सकती हूँ। यदि स्वीकृत हो जाए, तो आपको अपनी छुट्टियों से पहले ही यात्रा कार्ड प्राप्त हो जाना चाहिए।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you. I also have a small concern about currency. I would like to come back and purchase some cash for the country where I will be spending the most time.",
+                "hi": "धन्यवाद। मेरी एक छोटी-सी चिंता मुद्रा को लेकर भी है। मैं उस देश की कुछ नकद राशि लेने वापस आना चाहूँगा जहाँ मैं सबसे अधिक समय बिताऊँगा।",
+                "isEn": false
+            },
+            {
+                "en": "That is absolutely fine. Just bring your ID along when you are ready to purchase the foreign cash and we will take care of it.",
+                "hi": "यह बिल्कुल ठीक है। जब आप विदेशी नकद खरीदने के लिए तैयार हों, तो बस अपना पहचान पत्र साथ लाएँ और हम इसका प्रबंध कर देंगे।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you very much. I feel much better now. With the travel card and some cash, my holiday preparations will be complete.",
+                "hi": "आपका बहुत-बहुत धन्यवाद। मैं अब बेहतर महसूस कर रहा हूँ। यात्रा कार्ड और कुछ नकद राशि के साथ मेरी छुट्टियों की तैयारी पूरी हो जाएगी।",
+                "isEn": false
+            }
+        ]
+    }
+}
