@@ -1,0 +1,79 @@
+{
+    "dialogue": {
+        "title": "Bank Loyalty Points Enquiry",
+        "scenario": "A customer calls a bank employee to report missing loyalty points on a travel insurance purchase made over three months ago.",
+        "last_active": "2026-03-24",
+        "en_gender": false,
+        "lote_gender": true,
+        "occurrences": 2,
+        "difficulty": "MODERATE",
+        "tag": "Financial",
+        "segments": [
+            {
+                "en": "Thank you for calling Commonwealth Bank, my name is Sarah. How may I help you today?",
+                "hi": "कॉमनवेल्थ बैंक में कॉल करने के लिए धन्यवाद, मेरा नाम सारा है। आज मैं आपकी किस प्रकार सहायता कर सकती हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Hi, I'm calling to enquire about my loyalty points. I haven't received any points for the past three months and I'm quite concerned.",
+                "hi": "नमस्ते, मैं अपने लॉयल्टी पॉइंट्स के बारे में पूछताछ करने के लिए कॉल कर रहा हूँ। पिछले तीन महीनों से मुझे कोई अंक प्राप्त नहीं हुए हैं और मैं बहुत चिंतित हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "I'm sorry to hear that. Could you please give me your full name and account number so I can look into this for you?",
+                "hi": "यह सुनकर खेद हुआ। क्या आप मुझे अपना पूरा नाम और खाता संख्या बता सकते हैं ताकि मैं इसकी जाँच कर सकूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Of course. My name is Rajesh Sharma and my account number is four five six seven eight nine.",
+                "hi": "अवश्य। मेरा नाम राजेश शर्मा है और मेरी खाता संख्या चार पाँच छह सात आठ नौ है।",
+                "isEn": false
+            },
+            {
+                "en": "Thank you, Mr Sharma. I've verified your identity and I can see your account. Which purchases are the missing points linked to?",
+                "hi": "धन्यवाद, श्रीमान शर्मा। मैंने आपकी पहचान सत्यापित कर ली है और आपका खाता मेरे सामने है। किस लेन-देन से संबंधित अंक आपको प्राप्त नहीं हुए हैं?",
+                "isEn": true
+            },
+            {
+                "en": "I purchased travel insurance in December for around eight hundred dollars and I still haven't received the points for that transaction.",
+                "hi": "मैंने दिसंबर में लगभग आठ सौ डॉलर में यात्रा बीमा खरीदा था और मुझे उस लेन-देन के अंक अभी तक प्राप्त नहीं हुए हैं।",
+                "isEn": false
+            },
+            {
+                "en": "Travel insurance is eligible for loyalty points, but there may be a processing delay of up to six weeks before points appear in your account.",
+                "hi": "यात्रा बीमा पर लॉयल्टी पॉइंट्स मिलते हैं, परंतु अंक आपके खाते में आने में छह सप्ताह तक का विलंब हो सकता है।",
+                "isEn": true
+            },
+            {
+                "en": "But it has already been three months since that purchase, which is much longer than six weeks, so clearly something has gone wrong.",
+                "hi": "परंतु उस खरीदारी को तीन महीने हो चुके हैं, जो छह सप्ताह से कहीं अधिक है, इसलिए स्पष्ट है कि कुछ गड़बड़ हुई है।",
+                "isEn": false
+            },
+            {
+                "en": "You're right, and I'm sorry for the inconvenience. I'll raise an investigation on your behalf and refer it to our rewards team immediately.",
+                "hi": "आप सही कह रहे हैं, और इस असुविधा के लिए मुझे खेद है। मैं आपकी ओर से एक जाँच दर्ज करूँगी और इसे हमारे रिवॉर्ड टीम के पास तुरंत भेजूँगी।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you. How long will the investigation take, and will I receive any notification once it is resolved?",
+                "hi": "धन्यवाद। जाँच में कितना समय लगेगा, और समाधान होने पर क्या मुझे कोई सूचना प्राप्त होगी?",
+                "isEn": false
+            },
+            {
+                "en": "The investigation usually takes between ten and fifteen business days. You will receive an email confirmation once the points have been credited to your account.",
+                "hi": "जाँच में सामान्यतः दस से पंद्रह कार्य-दिवस लगते हैं। अंक आपके खाते में जमा होने पर आपको ईमेल के माध्यम से पुष्टि प्राप्त होगी।",
+                "isEn": true
+            },
+            {
+                "en": "I see. I also wanted to know if my loyalty points have an expiry date, as I have been accumulating them for a while.",
+                "hi": "अच्छा। मैं यह भी जानना चाहता था कि क्या मेरे लॉयल्टी पॉइंट्स की कोई समाप्ति तिथि है, क्योंकि मैं इन्हें कुछ समय से संचित कर रहा हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "Yes, loyalty points expire after three years, but we will backdate any recovered points to the original purchase date, so you have nothing to worry about.",
+                "hi": "हाँ, लॉयल्टी पॉइंट्स तीन वर्षों के पश्चात समाप्त हो जाते हैं, परंतु पुनः प्राप्त अंकों को मूल खरीद तिथि से जोड़ा जाएगा, इसलिए आपको चिंता करने की आवश्यकता नहीं है।",
+                "isEn": true
+            }
+        ]
+    }
+}
