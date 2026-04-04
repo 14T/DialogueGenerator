@@ -31,3 +31,14 @@ This skill pushes a generated NAATI CCL dialogue JSON file to the Supabase datab
    - Change its leading `- [ ]` to `- [x]` so it is permanently marked as completed.
    - Save the file.
    - Confirm to the user that the scenario has been ticked off in `ToDo.md` and will not be picked again.
+
+5. **Offer Git Commit (on success only):**
+   - After pushing the dialogue and updating `ToDo.md`, ask the user if they would like to commit the new dialogue file and the updated `ToDo.md` to git.
+   - If they agree:
+     - Identify the topic/name of the dialogue.
+     - Execute the following commands:
+       ```bash
+       git add <path_to_json_file> ToDo.md
+       git commit -m "added dialogue for <Topic> and updated ToDo.md"
+       ```
+     - Inform the user that the changes have been committed.

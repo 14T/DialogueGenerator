@@ -30,3 +30,8 @@ description: End-to-end dialogue generation from ToDo.md, including review, user
    - Once everything is validated and completed to the user's satisfaction, ask the user if they want to push the dialogue to the database.
    - If the user says "yes", use the skill `push-dialogue-to-supabase` (located at `.agent/skills/push-dialogue-to-supabase/SKILL.md`) to push the output file from Step 2 to Supabase.
    - Update `ToDo.md` to mark the scenario as ticked (`- [x]`).
+
+6. **Git Commit**:
+   - If the Supabase push was successful, ask the user if they would like to commit the changes to the repository.
+   - The commit should include the new dialogue JSON file (from Step 2) and the updated `ToDo.md`.
+   - Use a commit message like `feat: add dialogue [short-name]`.
