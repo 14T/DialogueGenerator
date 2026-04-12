@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "Copyright Law Advice",
+        "scenario": "A phone conversation between an English lawyer and a musician regarding advice on copyrights of a song.",
+        "last_active": "2026-04-12",
+        "en_gender": true,
+        "lote_gender": true,
+        "occurrences": 1,
+        "difficulty": "HARD",
+        "tag": "Legal",
+        "segments": [
+            {
+                "en": "Good afternoon. This is a law office. How can I help you today?",
+                "hi": "शुभ दोपहर। यह अधिवक्ता का कार्यालय है। आज मैं आपकी कैसे सहायता कर सकता हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Hello, I am a musician. I need advice regarding copyright law for my songs.",
+                "hi": "नमस्ते, मैं एक संगीतकार हूँ। मुझे अपने गीतों के लिए प्रतिलिप्याधिकार कानून के बारे में सलाह की आवश्यकता है।",
+                "isEn": false
+            },
+            {
+                "en": "Of course, I am happy to help. Could you tell me a bit more about your specific concern?",
+                "hi": "अवश्य। मुझे आपकी सहायता करने में प्रसन्नता होगी। कृपया मुझे बताएँ कि आपकी क्या विशेष समस्या है?",
+                "isEn": true
+            },
+            {
+                "en": "I compose my own songs and this will be the first time I will be releasing them publicly. I do not know how copyright laws work.",
+                "hi": "मैं अपने गीतों की रचना स्वयं करता हूँ और यह पहली बार होगा कि मैं इन्हें सार्वजनिक रूप से प्रस्तुत करूँगा। मुझे यह नहीं पता कि प्रतिलिप्याधिकार कानून कैसे कार्य करते हैं।",
+                "isEn": false
+            },
+            {
+                "en": "Congratulations on your release. That's very exciting. I am pleased to tell you that you hold the copyrights as soon as the song is written or recorded.",
+                "hi": "आपकी सार्वजनिक प्रस्तुति के लिए बधाई। यह बहुत उत्साहजनक है। मुझे आपको यह बताते हुए प्रसन्नता हो रही है कि गीत के लिखे जाने या अभिलेखित होते ही प्रतिलिप्याधिकार आपके पास आ जाता है।",
+                "isEn": true
+            },
+            {
+                "en": "Oh, really? I am surprised that it is this easy. I didn't know that I wouldn't have to do anything to secure my work and that the protection would be automatically conferred the moment the work is created.",
+                "hi": "ओह, क्या सच में? मुझे आश्चर्य हो रहा है कि यह इतना सरल है। मुझे यह पता नहीं था कि अपने कार्य को सुरक्षित करने के लिए मुझे कुछ नहीं करना पड़ेगा और रचना के क्षण से ही सुरक्षा स्वतः प्रदान हो जाती है।",
+                "isEn": false
+            },
+            {
+                "en": "That is a common misconception. Australia does not have a copyright registration system like other countries. Under the Copyright Act, it automatically gets protected for free.",
+                "hi": "यह एक सामान्य भ्रांति है। अन्य देशों की तरह ऑस्ट्रेलिया में प्रतिलिप्याधिकार पंजीकरण प्रणाली नहीं है। प्रतिलिप्याधिकार अधिनियम के अंतर्गत, यह स्वतः ही निःशुल्क सुरक्षित हो जाता है।",
+                "isEn": true
+            },
+            {
+                "en": "It is good to know that! I was thinking that the process would be very complicated. I didn't know that my work would automatically get protection.",
+                "hi": "यह जानकर अच्छा लगा! मैं सोच रहा था कि प्रक्रिया बहुत जटिल होगी। मुझे यह नहीं पता था कि मेरे कार्य को स्वतः ही सुरक्षा मिल जाएगी।",
+                "isEn": false
+            },
+            {
+                "en": "It is important to keep records, such as a draft version or an email, as they will help demonstrate how you created the work. This will be important for establishing ownership in case of a dispute.",
+                "hi": "एक प्रारूप संस्करण या ई-मेल जैसे अभिलेख रखना महत्वपूर्ण है क्योंकि यह बताने में सहायता करेगा कि आपने इसे कैसे बनाया। विवाद की स्थिति में स्वामित्व स्थापित करने के लिए यह महत्वपूर्ण होगा।",
+                "isEn": true
+            },
+            {
+                "en": "This is very helpful. I would also like to know for how long the copyright will remain for my songs?",
+                "hi": "यह बहुत लाभदायक है। मुझे यह भी जानना है कि मेरे गीतों के लिए प्रतिलिप्याधिकार कितने समय तक रहेगा?",
+                "isEn": false
+            },
+            {
+                "en": "Under the Copyright Act, you will get protection for your lifetime plus an additional seventy years after that. It will then enter the public domain once this timeline is completed.",
+                "hi": "प्रतिलिप्याधिकार अधिनियम के अंतर्गत, आपको आजीवन और उसके बाद सत्तर अतिरिक्त वर्षों तक की सुरक्षा मिलेगी। एक बार यह समय सीमा पूरी हो जाने पर, यह सार्वजनिक क्षेत्र में आ जाएगा।",
+                "isEn": true
+            },
+            {
+                "en": "This seems fair. If an individual wants to use my songs in advertisements or YouTube videos, then what would be the rules for this?",
+                "hi": "यह उचित लगता है। यदि कोई व्यक्ति मेरे गीतों का उपयोग विज्ञापनों या यूट्यूब वीडियो में करना चाहता है तो इसके लिए क्या नियम होंगे?",
+                "isEn": false
+            },
+            {
+                "en": "In that case, you will have to obtain a license. I can help you with that. It is a pretty straightforward process.",
+                "hi": "उस स्थिति में, आपको एक अनुज्ञप्ति प्राप्त करनी होगी। मैं उसमें आपकी सहायता कर सकता हूँ। यह बहुत सीधी प्रक्रिया है।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you for your excellent advice. I hope my song will be successful. I will contact you again for assistance in obtaining a license.",
+                "hi": "आपकी इस उत्कृष्ट सलाह के लिए धन्यवाद। मैं आशा करता हूँ कि मेरा गीत सफल होगा। मैं अनुज्ञप्ति प्राप्त करने में सहायता के लिए आपसे फिर संपर्क करूँगा।",
+                "isEn": false
+            }
+        ]
+    }
+}

@@ -1,4 +1,34 @@
 
+- [x] A phone conversation between an English lawyer and a musician regarding an advice on copy rights of the song
+    ```
+    1. Good Afternoon. This is lawyer's office. How can I help you today?
+
+    2. नमस्ते, मैं एक Musician हूँ। मुझे Copyright law के बारे में सलाह चाहिए थी अपने गानों के लिए।
+
+    3. Ofcourse. I am happy to help. Please tell me more that what specific concern you have?
+
+    4. मैं अपने गाने खुद बनाता हूँ और यह पहली बार होगा की मैं इसे सामाजिक Release करूँगा। मुझे पता नहीं है की Copyright laws कैसे काम करते हैं।
+
+    5. Congratulations on your release. That's very exciting. I am pleased to tell you that you hold the copyrights as soon as the song is written or recorded.
+
+    6. Oh, सच में? मुझे आश्चर्य हो रहा है कि ये इतना आसान है। मुझे यह पता नहीं था की अपना काम सुरक्षित करने के लिए मुझे कुछ नहीं करना होगा और
+
+    7. That is a common misconception. Australia does not have copy registration system like other countries. Under copyright act, it automatically gets protected for free.
+
+    8. यह जानकर अच्छा लगा! मैं सोच रहा था कि प्रक्रिया बहुत पेचीदा होगी। मुझे यह नहीं पता था की मेरे काम को खुद ही सुरक्षा मिल जाएगी।
+
+    9. It is important to keep record like a draft version or email as it will provide help in conveying how you created it. This will be important for establishing security in case of a dispute.
+
+    10. यह बहुत मददगार है। मुझे यह भी जानना था की copyrights कितने समय तक मेरे गानों के लिए होगा?
+
+    11. Under copyright act, you will get protection for lifetime plus additional 70 years after that. It will then enter public domain once this timeline is completed.
+
+    12. यह उचित लगता है, अगर कोई व्यक्ति मेरे गानों का उपयोग विज्ञापन या YouTube videos में करना चाहता है तो इसके क्या नियम होंगे?
+
+    13. In that case, you will have to obtain a license. I can help you with that. It is a pretty straight forward process.
+
+    14. आपकी इतनी अच्छी सलाह के लिए शुक्रिया। मैं आशा करता हूँ कि मेरा गाना successful होगा। मैं आपसे फिर संपर्क करूँगा license प्राप्त करने में सहायता के लिए।
+    ```
 - [x] Conversation between a bank teller and a customer happening inside a bank regarding foreign currency options for overseas holiday
     ```
     1. Good Afternoon. How can I help you today? (In English)
