@@ -1,4 +1,64 @@
 
+- [ ] Dialogue between a local resident and a newly arrived immigrant in the neighbourhood asking about a phone booth.
+    ```
+    1. Hello, How are you today? I am going for a walk in neighbourhood would you like to come?
+
+    2. ओह! प्रस्ताव के लिए धन्यवाद ! परंतु, स्थानीय डॉक्टर के साथ मेरे परिवार की पंजीकृत कराने का अपॉइंटमेंट है।
+
+    3. No Problem. There is a lot to do when you move around, especially coming from another country.
+
+    4. मैं यह करना पसंद करूँगा। मिलनसार होने के लिए धन्यवाद। एक अच्छा पड़ोसी होना बहुत अच्छा है खासकर जब आप नए देश में हों तो।
+
+    5. Your Welcome. I am sure you will make lot of friends soon. I will be happy to help if you have any questions.
+
+    6. ऐसा है तो। मैं एक प्रश्न पूछना चाहता हूँ। मैंने हाल ही में एक फोन बूथ देखा था। क्या उसे कोई भी use kar sakta hai.
+
+    7. Oh! I did not notice there is any phone booth. I have been using the land line. Anyone can use it.
+
+    8. यह जानकारी होना अच्छा रहता है। कभी कभी मुझे चिंता होती है कि मेरे फोन की बैटरी खत्म हो जाए और कभी मेरे पास चार्जर ना हो तो क्या होगा।
+
+    9. Thats a good point. I suppose getting handy with phone booth will be helpful if there is a blackout for instance.
+
+    10. मुझे नहीं पता फोन करने के लिए क्या कीमत है। मैंने एक भी पैसा नहीं खर्च किया जबसे मैं यहाँ आया हूँ।
+
+    11. We used coins to make a call but now calling is free. You can even call interstate now.
+
+    12. वाह! यह बढ़िया है। मैं अपने बच्चों को बताऊँगा कि जरूरत पड़ने पर फोन का इस्तेमाल कर सकते हैं।
+
+    13. Phone booth is slightly far away from school, so it will be useful for them to know about it.
+
+    14. यह सब जानकारी देने का आपका धन्यवाद। मुझे अब जाना चाहिए परंतु मैं कल आपके साथ सैर पर चलूँगा!
+    ```
+- [ ] Phone conversation with Social Security Service Department to inquire about youth allowance for her daughter.
+    ```
+    1. Good Afternoon. Welcome to Social Service Department. Please let me know, How can I help you today?
+
+    2. नमस्ते! मैंने अपनी बेटी के यूथ अलाउंस भुगतान के बारे में जानकारी लेने के लिए कॉल किया है।
+
+    3. Great thank you! I can assist you with that. Are you looking for any particular information or general overview program?
+
+    4. मुझे ज्यादा पता नहीं है। मैंने अपने दोस्तों से सुना है। क्या आप मुझे जानकारी दे सकती है।
+
+    5. Of course. Government funding program provides financial Assistance to young Australian Students & apprentices upto 24 years of age.
+
+    6. यह तो बहुत अच्छा है। मेरी बेटी ने हाल ही में हाई स्कूल पूरा किया है और उसकी उम्र भुगतान के लिए सही है। वह जो पाठ्यक्रम करना चाहती वह दूसरे राज्य में है।
+
+    7. There is one more eligibility requirement that she must be enrolled in full time study.
+
+    8. यह ठीक है। जो पाठ्यक्रम विश्वविद्यालय में पढ़ाया जाएगा वह पूर्ण कालिक है।
+
+    9. Not all university courses are approved for funding. Full details are available on website. I will recommend to check that first.
+
+    10. ठीक है। मैं वह चेक कर लूँगा। अगर उसका चुना हुआ पाठ्यक्रम वेबसाइट की सूची पर मिल जाता है तो हम आवेदन कैसे कर सकते है।
+
+    11. Application can be submitted online. Website includes the check list of required documents as well as step by step instructions to complete the application.
+
+    12. धन्यवाद। मैं वेबसाइट पर आवश्यक दस्तावेज़ देखूँगा और आवेदन की तैयारी में उसकी मदद करूँगा।
+
+    13. Please keep in mind. Income assessment is also an eligibility process. If you have any further question then don't hesitate to call back.
+
+    14. आपकी मदद और जानकारी के लिए बहुत धन्यवाद। हम आवेदन प्रक्रिया जल्द ही शुरू करेंगे और अगर मुझे और प्रश्न होंगे तो मैं आपको फिर कॉल करूँगा। नमस्कार।
+    ```
 - [x] A phone conversation between an English lawyer and a musician regarding an advice on copy rights of the song
     ```
     1. Good Afternoon. This is lawyer's office. How can I help you today?
@@ -61,7 +121,7 @@
     ```
 - [x] Dialogue between a nurse and a patient who is experiencing a headache at a GP clinic.
 - [x] A customer calling a bank employee regarding loyalty point  
-- [ ] Phone call from a customer to a hotel to change a booking.
+- [x] Phone call from a customer to a hotel to change a booking.
     ```
     She has a booking for next month and wants to know about their policy.
     The lady from the hotel says their policy is excellent and they offer free cancellation.
@@ -110,3 +170,4 @@
 - [ ] Singing group called in aged care home to arrange live performances
 - [ ] 2 friends curtains k baare me baat krti hn
 - [ ] A phone call between a website designer and a small businessman who is looking to design a website for his business “Saloon” 
+

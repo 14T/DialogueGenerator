@@ -1,0 +1,79 @@
+{
+    "dialogue": {
+        "title": "Hotel Booking Change",
+        "scenario": "(Variant of #248) Phone call from a customer to a hotel to change a booking.",
+        "last_active": "2026-05-12",
+        "en_gender": false,
+        "lote_gender": false,
+        "occurrences": 1,
+        "difficulty": "EASY",
+        "tag": "Consumer Affairs",
+        "segments": [
+            {
+                "en": "Good morning, welcome to Star Hotel. How can I help you today?",
+                "hi": "सुप्रभात, स्टार होटल में आपका स्वागत है। मैं आज आपकी कैसे सहायता कर सकती हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Hello. I have a reservation for next month. I want to know your policy.",
+                "hi": "नमस्ते। मेरा अगले महीने का आरक्षण है। मैं आपकी नीति जानना चाहती हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "Our policy is excellent. We offer free cancellation for all our rooms.",
+                "hi": "हमारी नीति उत्कृष्ट है। हम अपने सभी कमरों के लिए निःशुल्क रद्द करने की सुविधा देते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "I am relieved. I did not read the details when making the reservation.",
+                "hi": "मुझे संतोष हुआ। मैंने आरक्षण करते समय विवरण नहीं पढ़ा था।",
+                "isEn": false
+            },
+            {
+                "en": "That is completely fine. Please tell me more details about the change.",
+                "hi": "यह पूर्णतः ठीक है। कृपया मुझे परिवर्तन के बारे में और विवरण दें।",
+                "isEn": true
+            },
+            {
+                "en": "My employer has allowed me to extend my holidays. I want to stay longer.",
+                "hi": "मेरे नियोक्ता ने मुझे अपना अवकाश बढ़ाने की अनुमति दे दी है। मैं अधिक दिन रुकना चाहती हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "That is amazing! You can change your booking online without making a new one.",
+                "hi": "यह अद्भुत है! आप नया आरक्षण किए बिना उसे ऑनलाइन बदल सकती हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Can I get a room with a garden view? What if rooms are not available?",
+                "hi": "क्या मुझे उद्यान के दृश्य वाला कमरा मिल सकता है? यदि कमरे उपलब्ध न हों तो क्या होगा?",
+                "isEn": false
+            },
+            {
+                "en": "You are travelling during a low season. There will definitely be rooms available.",
+                "hi": "आप कम व्यस्त मौसम में यात्रा कर रही हैं। निश्चित रूप से कमरे उपलब्ध होंगे।",
+                "isEn": true
+            },
+            {
+                "en": "That is good. I will make the changes. Do I use the main website?",
+                "hi": "यह अच्छा है। मैं परिवर्तन कर दूँगी। क्या मैं मुख्य वेबसाइट का उपयोग करूँ?",
+                "isEn": false
+            },
+            {
+                "en": "Yes, you should use the main website and follow the instructions there.",
+                "hi": "हाँ, आपको मुख्य वेबसाइट का उपयोग करना चाहिए और वहाँ दिए गए निर्देशों का पालन करना चाहिए।",
+                "isEn": true
+            },
+            {
+                "en": "It is not difficult. I will recommend your services to my friends.",
+                "hi": "यह कठिन नहीं है। मैं अपने मित्रों को आपकी सेवाओं के बारे में अवश्य बताऊँगी।",
+                "isEn": false
+            },
+            {
+                "en": "I appreciate that. Doing a good job is very important to us.",
+                "hi": "मैं इसकी सराहना करती हूँ। अच्छा काम करना हमारे लिए बहुत महत्वपूर्ण है।",
+                "isEn": true
+            }
+        ]
+    }
+}
