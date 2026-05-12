@@ -1,5 +1,5 @@
 
-- [ ] Dialogue between a local resident and a newly arrived immigrant in the neighbourhood asking about a phone booth.
+- [x] Dialogue between a local resident and a newly arrived immigrant in the neighbourhood asking about a phone booth.
     ```
     1. Hello, How are you today? I am going for a walk in neighbourhood would you like to come?
 

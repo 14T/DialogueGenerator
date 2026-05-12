@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "Neighbourhood Telephone Booth Inquiry",
+        "scenario": "A dialogue between a local resident and a newly arrived immigrant in the neighbourhood asking about a public telephone booth.",
+        "last_active": "2026-05-12",
+        "en_gender": true,
+        "lote_gender": true,
+        "occurrences": 1,
+        "difficulty": "MODERATE",
+        "tag": "Community",
+        "segments": [
+            {
+                "en": "Hello, how are you today? I am going for a walk in the neighbourhood. Would you like to come?",
+                "hi": "नमस्ते, आज आप कैसे हैं? मैं पड़ोस में सैर के लिए जा रहा हूँ। क्या आप आना चाहेंगे?",
+                "isEn": true
+            },
+            {
+                "en": "Thank you for the offer! However, I have an appointment to register my family with the local doctor.",
+                "hi": "प्रस्ताव के लिए धन्यवाद! परंतु, अपने परिवार को स्थानीय चिकित्सक के पास पंजीकृत कराने के लिए मैंने समय लिया हुआ है।",
+                "isEn": false
+            },
+            {
+                "en": "No problem. There is a lot to do when you move around, especially coming from another country.",
+                "hi": "कोई बात नहीं। जब आप किसी नई जगह पर स्थानांतरित होते हैं, तो बहुत कुछ करना होता है, विशेष रूप से किसी दूसरे देश से आने पर।",
+                "isEn": true
+            },
+            {
+                "en": "I would love to go for a walk with you, maybe some other day. Thank you for being so friendly. It is very nice to have a good neighbour, especially when you are in a new country.",
+                "hi": "मैं आपके साथ सैर पर जाना पसंद करूँगा, संभवतः किसी और दिन। इतने मिलनसार होने के लिए धन्यवाद। एक अच्छा पड़ोसी मिलना बहुत अच्छा है, विशेष रूप से तब, जब आप एक नए देश में हों।",
+                "isEn": false
+            },
+            {
+                "en": "You are welcome. I am sure you will make a lot of friends soon. I will be happy to help if you have any questions.",
+                "hi": "आपका स्वागत है। मुझे विश्वास है कि आप जल्द ही बहुत से मित्र बना लेंगे। यदि आपके कोई प्रश्न हों, तो मुझे आपकी सहायता करने में प्रसन्नता होगी।",
+                "isEn": true
+            },
+            {
+                "en": "In that case, I would like to ask a question. I recently saw a telephone booth. Can anyone use it?",
+                "hi": "यदि ऐसा है तो, मैं एक प्रश्न पूछना चाहता हूँ। मैंने हाल ही में एक दूरभाष केंद्र देखा था। क्या उसका उपयोग कोई भी कर सकता है?",
+                "isEn": false
+            },
+            {
+                "en": "Oh! I did not notice there is a telephone booth. I have been using the landline. Anyone can use it.",
+                "hi": "अरे! मैंने ध्यान नहीं दिया कि वहाँ कोई दूरभाष केंद्र है। मैं अपने तारयुक्त दूरभाष का उपयोग कर रहा हूँ। कोई भी इसका उपयोग कर सकता है।",
+                "isEn": true
+            },
+            {
+                "en": "That is good to know. Sometimes I worry about what would happen if my phone battery dies and I do not have a charger.",
+                "hi": "यह जानना अच्छा है। कभी-कभी मुझे चिंता होती है कि यदि मेरे दूरभाष की बैटरी समाप्त हो जाए और मेरे पास चार्जर न हो तो क्या होगा।",
+                "isEn": false
+            },
+            {
+                "en": "That is a good point. I suppose being familiar with the telephone booth will be helpful if there is a power outage, for instance.",
+                "hi": "यह एक अच्छी बात है। मुझे लगता है कि उदाहरण के लिए बिजली कटौती होने पर दूरभाष केंद्र से परिचित होना उपयोगी होगा।",
+                "isEn": true
+            },
+            {
+                "en": "I do not know what the cost to make a call is. I have not spent a single penny since I arrived here.",
+                "hi": "मुझे नहीं पता कि दूरभाष करने का क्या शुल्क है। जब से मैं यहाँ आया हूँ, मैंने एक भी पैसा खर्च नहीं किया है।",
+                "isEn": false
+            },
+            {
+                "en": "We used to use coins to make a call, but now calling is free. You can even make interstate calls now.",
+                "hi": "हम दूरभाष करने के लिए सिक्कों का उपयोग करते थे, लेकिन अब यह निःशुल्क है। अब आप अंतरराज्यीय दूरभाष भी कर सकते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Wow! That is great. I will tell my children that they can use it if needed.",
+                "hi": "वाह! यह बहुत बढ़िया है। मैं अपने बच्चों को बताऊँगा कि आवश्यकता पड़ने पर वे इसका उपयोग कर सकते हैं।",
+                "isEn": false
+            },
+            {
+                "en": "The telephone booth is slightly far away from their school, so it will be useful for them to know about it.",
+                "hi": "दूरभाष केंद्र उनके विद्यालय से थोड़ा दूर है, इसलिए उनके लिए इसके बारे में जानना उपयोगी होगा।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you for providing all this information. I should go now, but I will go for a walk with you tomorrow!",
+                "hi": "यह सारी जानकारी देने के लिए आपका धन्यवाद। मुझे अब जाना चाहिए, परंतु मैं कल आपके साथ सैर पर चलूँगा!",
+                "isEn": false
+            }
+        ]
+    }
+}
