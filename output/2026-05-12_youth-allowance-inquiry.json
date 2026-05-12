@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "Youth Allowance Inquiry",
+        "scenario": "Phone conversation with Social Security Service Department to inquire about youth allowance for a daughter.",
+        "last_active": "2026-05-12",
+        "en_gender": false,
+        "lote_gender": false,
+        "occurrences": 1,
+        "difficulty": "HARD",
+        "tag": "Social Services",
+        "segments": [
+            {
+                "en": "Good afternoon. Welcome to the Social Services Department. Please let me know, how can I help you today?",
+                "hi": "शुभ दोपहर। समाज सेवा विभाग में आपका स्वागत है। कृपया मुझे बताएं, मैं आज आपकी कैसे मदद कर सकती हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Hello! I am calling to inquire about the youth allowance payment for my daughter.",
+                "hi": "नमस्ते! मैं अपनी बेटी के युवा भत्ते के भुगतान के बारे में जानकारी लेने के लिए फ़ोन कर रही हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "Great, thank you! I can assist you with that. Are you looking for any particular information or a general overview of the program?",
+                "hi": "बहुत बढ़िया, धन्यवाद! मैं उसमें आपकी सहायता कर सकती हूँ। क्या आप किसी विशेष जानकारी के बारे में जानना चाहती हैं, या कार्यक्रम का सामान्य परिचय लेना चाहती हैं?",
+                "isEn": true
+            },
+            {
+                "en": "I do not know much about it. I have heard about it from my friends. Can you provide me with some information?",
+                "hi": "मुझे इसके बारे में अधिक जानकारी नहीं है। मैंने अपने मित्रों से इसके बारे में सुना है। क्या आप मुझे जानकारी दे सकती हैं?",
+                "isEn": false
+            },
+            {
+                "en": "Of course. The government funding program provides financial assistance to young Australian students and apprentices up to twenty-four years of age.",
+                "hi": "बिलकुल। सरकारी वित्तीय सहायता कार्यक्रम चौबीस वर्ष तक की आयु के युवा ऑस्ट्रेलियाई छात्रों और प्रशिक्षुओं को वित्तीय सहायता प्रदान करता है।",
+                "isEn": true
+            },
+            {
+                "en": "That is very good. My daughter has recently finished high school and her age is right for the payment. The course she wants to do is in another state.",
+                "hi": "यह तो बहुत अच्छा है। मेरी बेटी ने हाल ही में अपनी माध्यमिक विद्यालय की पढ़ाई पूरी की है और उसकी आयु इस भुगतान के लिए उचित है। वह जो पाठ्यक्रम करना चाहती है, वह दूसरे राज्य में है।",
+                "isEn": false
+            },
+            {
+                "en": "There is one more eligibility requirement, which is that she must be enrolled in a full-time study program.",
+                "hi": "पात्रता की एक और आवश्यकता है, जो यह है कि उसे पूर्णकालिक अध्ययन कार्यक्रम में नामांकित होना चाहिए।",
+                "isEn": true
+            },
+            {
+                "en": "That is fine. The course that will be taught at the university is full-time.",
+                "hi": "यह ठीक है। जो पाठ्यक्रम विश्वविद्यालय में पढ़ाया जाएगा, वह पूर्णकालिक है।",
+                "isEn": false
+            },
+            {
+                "en": "Not all university courses are approved for funding. Full details are available on the website. I would recommend checking that first.",
+                "hi": "सभी विश्वविद्यालय पाठ्यक्रमों को वित्तीय सहायता के लिए स्वीकृति प्राप्त नहीं है। पूरा विवरण वेबसाइट पर उपलब्ध है। मैं पहले उसकी जाँच करने का सुझाव दूँगी।",
+                "isEn": true
+            },
+            {
+                "en": "Okay, I will check that. If her chosen course is found on the website's list, then how can we apply?",
+                "hi": "ठीक है, मैं उसकी जाँच कर लूँगी। यदि उसका चुना हुआ पाठ्यक्रम वेबसाइट पर उपलब्ध सूची में मिल जाता है, तो हम आवेदन कैसे कर सकते हैं?",
+                "isEn": false
+            },
+            {
+                "en": "The application can be submitted online. The website includes the checklist of required documents as well as step-by-step instructions to complete the application.",
+                "hi": "आवेदन इंटरनेट के माध्यम से जमा किया जा सकता है। वेबसाइट पर आवश्यक दस्तावेज़ों की सूची के साथ-साथ आवेदन पूरा करने के लिए चरण-दर-चरण निर्देश उपलब्ध हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you. I will look at the required documents on the website and help her in preparing the application.",
+                "hi": "धन्यवाद। मैं वेबसाइट पर आवश्यक दस्तावेज़ देखूँगी और आवेदन की तैयारी में उसकी मदद करूँगी।",
+                "isEn": false
+            },
+            {
+                "en": "Please keep in mind that income assessment is also a part of the eligibility process. If you have any further questions, then do not hesitate to call back.",
+                "hi": "कृपया ध्यान रखें कि आय का आकलन भी पात्रता प्रक्रिया का एक हिस्सा है। यदि आपके कोई और प्रश्न हों, तो निःसंकोच वापस संपर्क करें।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you very much for your help and information. We will start the application process soon, and if I have more questions, I will call you again. Goodbye.",
+                "hi": "आपकी मदद और जानकारी के लिए बहुत-बहुत धन्यवाद। हम आवेदन प्रक्रिया जल्द ही शुरू करेंगे, और यदि मेरे और प्रश्न होंगे, तो मैं आपसे फिर संपर्क करूँगी। नमस्कार।",
+                "isEn": false
+            }
+        ]
+    }
+}
