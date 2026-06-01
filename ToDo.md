@@ -1,4 +1,219 @@
+- [x] Dialogue: Phone conversation with a bank employee to reduce the credit card limit because the younger daughter was using the secondary credit card.
+- [ ] Dialogue: Phone conversation with ophthalmologist to buy contact lens for use in sunlight. Phone conversation with an optician shop to enquire about glasses with and without contact lenses for use during sunlight.
+- [ ] Dialogue: 
+    Business owner vs Sales Team lead on how to improve sales conversions
+    Owner: Hi Welcome to the office. I was eagerly waiting to start the meeting.
+    Sales - I have blocked the calendar for the next hour. I hope it is sufficient for discussing the
+    situation.
+    Owner: I hope so. I heard that you had a conversations with some of the team members and
+    listed out the sales numbers for the month.
+    Sales - Ys. The sales numbers were satisfactory, but i think the numbers can be better. I saw
+    a gap in the sales procedures.
+    Owner: What do you think happened there? I agree that there is an issue. Considering the
+    size of the team, the numbers can be better.
+    Sales: I found that the team has built good rapport with the potential customers, but it is not
+    transitioning into sales conversions. I think they are not doing the followup process correctly.
+    Owner: With a team where half of them are less experienced, we may need to provide extra
+    training.
+    Sales: Yes.There should be a minimum number of highly experienced members who can
+    guide the rest of the team and show them how to work.
+    Owner: That is a good idea. It will help them learn to engage with the customers and make
+    them buy the product as a next step.
+    Sales: Yes. How do you make them initiate the talk without failing the process?
+    Owner: We can hold a group session for the team and show sample sales process.
+    Sales: Oh. That would be helpful. Having a groups session is good. It will help reduce
+    anxiety for the team members.
+    Owner: We will arrange a training session for the organization next week. We will share the
+    information with the sales team about who is going to mentor them.
+    Sales: No problem. I will schedule a meeting and send details through email.
 
+- [ ] Dialogue: A dialogue about the conversation between two women about their teenage sons and their plans to start working part-time while still studying.
+ 
+  Difficulty Level: HARD
+    So the first dialogue was about the conversation between two women about their teenage sons and their plans to start working part-time while still studying.”
+
+    “I was taking some notes and this is what I can share with you.”
+
+    “The first woman said that she met the son in the shop and she waved.”
+
+    “She was asking about the school, about the graduation.”
+
+    “She expressed that those kids are growing up very fast, and you cannot notice when they’re actually growing older or adult.”
+
+    “Then they discussed that one of the sons, the second lady’s son, who was seen in the shop by her friend, is now looking for a part-time job.”
+
+    “The other said that it was a surprise because she was thinking of her son also to find a part-time job.”
+
+    “Then she said, ‘Wow, it’s good.’”
+
+    “They discussed that teenage boys can be independent and can earn their own cash, their own money.”
+
+    “They discussed that a fast food restaurant is a good idea.”
+
+    “They do not like working there, but this can provide some funds and some independence for those teenage guys.”
+
+    “Those restaurants provide good training and good preparation for those candidates.”
+
+    “This training helps them deal with customer service and talking to strangers.”
+
+    “So they can become more open when talking to strangers in those restaurants when providing the service.”
+
+    “Then they discussed the CV submission, they actually called it the application process.”
+
+    “They said it is useful, so they can learn the process.”
+
+    “But this process is discouraging.”
+
+    “The teenage boys don’t like filling forms.”
+
+    “It’s good that they learn how to submit those CVs and make those submissions.”
+
+    “This can be useful.”
+
+    “This should allow them to better prepare for adulthood.”
+    
+    Keywords :
+    “waved son”
+    “school”
+
+    “teenage”
+
+    “fast food”
+
+    “not like”
+
+    “found a job”
+
+    “training people”
+
+    “know CV submission”
+
+    “also useful”
+
+    “forms can discourage him”
+
+    “adulthood”
+
+- [x] Dialogue: Faulty Appliance Return and Replacement
+
+    “And then the second dialogue was about a lady, a young lady.”
+
+    “She came to a store and spoke with the clerk.”
+
+    “She brought back a device that she purchased.”
+
+    “She was discussing how faulty this device can be.”
+
+    “She was discussing the potential guarantee and what she could do.”
+
+    “She said that she bought an appliance which was broken.”
+
+    “When she was switching it on or turning it on, she found out it was broken even before she started to cook.”
+
+    “The salesman said, okay, we can test it, bring it to the countertop.”
+
+    “We can check it.”
+
+    “Bring it to the counter and we can plug it in and check.”
+
+    “When he did it, she said, oh, you see sir, it doesn’t work.”
+
+    “She said she cannot use it.”
+
+    “She cannot switch it on and it brings frustration.”
+
+    “He said, oh, it looks like an electric problem.”
+
+    “He said she has two options: refund or replacement.”
+
+    “They discussed the replacement option.”
+
+    “If she selects replacement instead of refund, she can replace it for another make or brand.”
+
+    “He said, no problem, we can arrange a replacement.”
+
+    “She can pick from the shelf.”
+
+    “If it’s the same price, she can just replace it.”
+
+    “If it’s more, then she can pay.”
+
+    “If it’s cheaper, she will get some money back.”
+
+    “She said, okay, look at the shelf, what’s there.”
+
+    “She wanted to take a different make because she was afraid the same make would not work again.”
+
+    “She selected a different make.”
+
+    “The last segment was something about bringing the box to the countertop and arranging a replacement.”
+
+    “She brought a box.”
+
+    “She replaced it and was happy.”
+
+    “She left with another make of appliance.”
+
+    Keywords: 
+    “to put it for.”
+
+    “sound”
+
+    “SLEP / fault” or similar unclear label
+
+    “fault”
+
+    “electric”
+
+    “repair”
+
+    “replace”
+
+    “counter”
+
+    “still need”
+
+    “need some”
+
+    “no prob”
+
+    “some choice”
+
+    “refund or replacement”
+
+    “different”
+
+    “good”
+
+    “already”
+
+    “forms / can discourage” is not on this page; that was from the first dialogue.
+
+
+    appliance
+
+    fault
+
+    electric problem
+
+    countertop / counter
+
+    plug it in
+
+    refund
+
+    replacement
+
+    make / brand
+
+    shelf
+
+    same price
+
+    pay more
+
+    money back
+  
 - [x] Dialogue between a local resident and a newly arrived immigrant in the neighbourhood asking about a phone booth.
     ```
     1. Hello, How are you today? I am going for a walk in neighbourhood would you like to come?
@@ -171,3 +386,31 @@
 - [ ] 2 friends curtains k baare me baat krti hn
 - [ ] A phone call between a website designer and a small businessman who is looking to design a website for his business “Saloon” 
 
+
+- [ ] Dialogue 2 (Duplicate)
+    Fun conversation between a lady at the social service department and a person who wants
+    to have youth allowance for his daughter.
+    Lady: Good Afternoon, Welcome to the social service department. How may I help you?
+    Person: Hello. I called you on behalf of my daughter. Please share details about how to
+    obtain youth allowance.
+    Lady: Ofcourse. I can assist you with that. Do you need an particular information or a
+    general overview of the program?
+    Person: I dont have any idea about that. I heard my friends talk about that. I’m just checking
+    if my daughter have eligibility.
+    Lady: Ofcourse. This is a government funded financial assistance program for australian
+    students who can apply if they are below the age of 24.,
+    Person: Good. My daughter is studying in high school now and her age matches the criteria.
+    She is also learning the same set of courses that other state universities also follow.
+    Lady: One of the eligibility requirements is to be enrolled as a full time student.
+    Person: No problem. She is a full time university student, following a full time course.
+    Lady: Not all university courses are funded by the government. Full details can be found in
+    our website. Please take a look at it first before starting the application.
+    Person: I will certainly do it. I will look into the details on the website before applying for
+    youth allowance.
+    Lady: You can submit the application online. You can check the required document checklist.
+    Person: Thank you. I will check the required documents in the website carefully and will do
+    my best to get the required documents as mentioned.
+    Lady: Please keep in mind that income assessment is part of the eligibility process. If you
+    have any questions, please dont hesitate to call.
+    Person: Thank you for your help. I will check that and if the estimates are greater than i
+    expected, i will call you. Have a good day.

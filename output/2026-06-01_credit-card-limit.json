@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "Reducing Credit Card Limit",
+        "scenario": "A customer calls their bank to reduce their credit card limit because their younger daughter was overspending on the secondary card.",
+        "last_active": "2026-06-01",
+        "en_gender": false,
+        "lote_gender": true,
+        "occurrences": 1,
+        "difficulty": "MODERATE",
+        "tag": "Financial",
+        "segments": [
+            {
+                "en": "Good afternoon, welcome to National Australia Bank. My name is Sarah. How can I assist you today?",
+                "hi": "शुभ दोपहर, नेशनल ऑस्ट्रेलिया बैंक में आपका स्वागत है। मेरा नाम सारा है। आज मैं आपकी किस प्रकार सहायता कर सकती हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Hello Sarah. I want to reduce my credit card limit. My younger daughter has been using the secondary card too much.",
+                "hi": "नमस्ते सारा। मैं अपने क्रेडिट कार्ड की सीमा घटाना चाहता हूँ। मेरी छोटी बेटी अतिरिक्त कार्ड का उपयोग बहुत अधिक कर रही है।",
+                "isEn": false
+            },
+            {
+                "en": "I can certainly help you with that request. Before we proceed, could you please provide your full name and date of birth for verification?",
+                "hi": "मैं इस अनुरोध में आपकी अवश्य सहायता कर सकती हूँ। आगे बढ़ने से पहले, क्या आप सत्यापन के लिए अपना पूरा नाम और जन्म तिथि बता सकते हैं?",
+                "isEn": true
+            },
+            {
+                "en": "Yes, my name is Rajesh Kumar and my date of birth is the fifteenth of August, 1982.",
+                "hi": "हाँ, मेरा नाम राजेश कुमार है और मेरी जन्म तिथि १५ अगस्त १९८२ है।",
+                "isEn": false
+            },
+            {
+                "en": "Thank you, Rajesh. I can see your account now. Your current credit limit is ten thousand dollars. What limit would you prefer?",
+                "hi": "धन्यवाद, राजेश। मैं अभी आपका खाता देख रही हूँ। आपकी वर्तमान ऋण सीमा दस हज़ार डॉलर है। आप कितनी सीमा रखना पसंद करेंगे?",
+                "isEn": true
+            },
+            {
+                "en": "I want to reduce it to only three thousand dollars. I hope this will stop unnecessary spending and keep my account secure.",
+                "hi": "मैं इसे घटाकर केवल तीन हज़ार डॉलर करना चाहता हूँ। मुझे आशा है कि इससे अनावश्यक व्यय पर रोक लगेगी और मेरा खाता सुरक्षित रहेगा।",
+                "isEn": false
+            },
+            {
+                "en": "That is a sensible decision. Lowering the limit will help control the spending on both the primary and the additional credit cards.",
+                "hi": "यह एक समझदारी भरा निर्णय है। सीमा कम करने से मुख्य और अतिरिक्त क्रेडिट कार्ड दोनों पर होने वाले व्यय को नियंत्रित करने में सहायता मिलेगी।",
+                "isEn": true
+            },
+            {
+                "en": "Yes, exactly. My daughter spent a lot of money on online shopping last month, which caused me a great deal of anxiety.",
+                "hi": "हाँ, बिल्कुल। मेरी बेटी ने पिछले महीने ऑनलाइन खरीदारी पर बहुत अधिक धन व्यय किया, जिससे मुझे अत्यधिक चिंता हुई थी।",
+                "isEn": false
+            },
+            {
+                "en": "I understand. Please note that this limit change will take effect immediately, and you can monitor all transactions using our mobile application.",
+                "hi": "मैं समझ सकती हूँ। कृपया ध्यान दें कि यह सीमा परिवर्तन तुरंत प्रभावी होगा, और आप हमारे मोबाइल ऐप का उपयोग करके सभी लेन-देन की निगरानी कर सकते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "That would be very good. Will I have to pay any additional fee or any penalty to reduce the limit?",
+                "hi": "यह तो बहुत अच्छा रहेगा। क्या सीमा कम करने के लिए मुझे कोई अतिरिक्त शुल्क अथवा दंड देना पड़ेगा?",
+                "isEn": false
+            },
+            {
+                "en": "No, there are no fees for changing your credit limit. However, the interest rates on any outstanding balance will remain the same.",
+                "hi": "नहीं, आपकी ऋण सीमा बदलने के लिए कोई शुल्क नहीं है। हालांकि, किसी भी बकाया राशि पर ब्याज दरें समान रहेंगी।",
+                "isEn": true
+            },
+            {
+                "en": "Alright, I pay the full amount each month, so the interest rate is not a problem for me.",
+                "hi": "ठीक है, मैं प्रत्येक महीने पूरी राशि का भुगतान कर देता हूँ, इसलिए ब्याज दर मेरे लिए कोई समस्या नहीं है।",
+                "isEn": false
+            },
+            {
+                "en": "Perfect. I have processed the reduction now. Is there anything else I can help you with regarding your credit card today?",
+                "hi": "बहुत अच्छा। मैंने अब सीमा घटाने की प्रक्रिया पूरी कर दी है। क्या आज आपके क्रेडिट कार्ड के संबंध में मैं आपकी कोई अन्य सहायता कर सकती हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "No, that is enough. Thank you for helping me, Sarah. Have a nice day.",
+                "hi": "नहीं, इतना ही पर्याप्त है। मेरी सहायता करने के लिए धन्यवाद सारा। आपका दिन शुभ हो।",
+                "isEn": false
+            }
+        ]
+    }
+}

@@ -289,6 +289,8 @@ if any of the verification fails, rectify it or make necessary adjustments.
     *   Use 'क्रेडिट कार्ड' instead of 'साख पत्र' (Credit Card).
     *   Use 'डेबिट कार्ड' instead of 'आहरण पत्र' (Debit Card).
     *   Use 'यात्रा कार्ड' instead of 'यात्रा क्रेडिट कार्ड' or 'ट्रैवल कार्ड' (Travel Card).
+    *   **Credit Limit**: ALWAYS use '**ऋण सीमा**'. NEVER use 'क्रेडिट सीमा' (transliterated loanword).
+    *   **Mobile Application**: ALWAYS use '**मोबाइल ऐप**'. NEVER use 'मोबाइल अनुप्रयोग' (too formal/academic for spoken Hindi).
 *   **Monetary Terms**: Use 'छुट्टे' for 'change' (money returned), not 'बदलाव' or 'खुले पैसे'.
 *   **Estate/City Terms**:
     *   **Specific Terminology**:
