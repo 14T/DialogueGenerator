@@ -1,0 +1,84 @@
+{
+  "dialogue": {
+    "title": "Sunlight Contact Lenses Inquiry",
+    "scenario": "A patient calls an optician to inquire about contact lenses and glasses for use in sunlight.",
+    "last_active": "2026-06-01",
+    "en_gender": true,
+    "lote_gender": false,
+    "occurrences": 1,
+    "difficulty": "HARD",
+    "tag": "Health",
+    "segments": [
+      {
+        "en": "Good morning, welcome to City Eyecare Optometrists. My name is David, the dispensing optician here today. How can I assist you with your vision needs or inquiries?",
+        "hi": "शुभ प्रभात, सिटी आईकेयर ऑप्टोमेट्रिस्ट में आपका स्वागत है। मेरा नाम डेविड है, मैं आज यहाँ चश्मा वितरक हूँ। मैं आपकी दृष्टि संबंधी आवश्यकताओं या पूछताछ में किस प्रकार सहायता कर सकता हूँ?",
+        "isEn": true
+      },
+      {
+        "en": "Hello. I have come to inquire about buying contact lenses for use in sunlight. When I go out in the bright sun, I experience extreme discomfort.",
+        "hi": "नमस्ते। मैं धूप में उपयोग के लिए नेत्र लेंस खरीदने के बारे में पूछताछ करने आई हूँ। जब मैं तीव्र धूप में बाहर जाती हूँ, तो मुझे अत्यधिक असुविधा होती है।",
+        "isEn": false
+      },
+      {
+        "en": "I understand. We do offer contact lenses with built-in ultraviolet protection, but keep in mind they only cover the cornea, so you still need sunglasses to shield the surrounding area.",
+        "hi": "मैं समझता हूँ। हम पराबैंगनी सुरक्षा वाले नेत्र लेंस प्रदान करते हैं, लेकिन ध्यान रखें कि वे केवल कॉर्निया को ढकते हैं, इसलिए आपको आसपास के क्षेत्र की रक्षा के लिए धूप के चश्मे की आवश्यकता होगी।",
+        "isEn": true
+      },
+      {
+        "en": "I was unaware of this limitation. Must I wear non-prescription sunglasses over the lenses, or are there other options available?",
+        "hi": "मैं इस सीमा से अनभिज्ञ थी। क्या मुझे लेंस के ऊपर साधारण धूप का चश्मा पहनना होगा, या क्या अन्य विकल्प उपलब्ध हैं?",
+        "isEn": false
+      },
+      {
+        "en": "Indeed, you can wear standard sunglasses over contact lenses. Alternatively, if you decide against contact lenses, we can make prescription sunglasses that both correct your vision and block harmful rays.",
+        "hi": "वास्तव में, आप नेत्र लेंस के ऊपर सामान्य धूप का चश्मा पहन सकती हैं। वैकल्पिक रूप से, यदि आप नेत्र लेंस न लेने का निर्णय लेती हैं, तो हम पर्चे वाला धूप का चश्मा बना सकते हैं जो आपकी दृष्टि को ठीक करेगा और हानिकारक किरणों को भी रोकेगा।",
+        "isEn": true
+      },
+      {
+        "en": "I have extreme sensitivity to sunlight and I mostly work outdoors. Which option would be best for me? Should I use a combination of both?",
+        "hi": "मुझे सूर्य के प्रकाश से अत्यधिक संवेदनशीलता होती है और मैं अधिकतर बाहर कार्य करती हूँ। मेरे लिए कौन सा विकल्प सर्वोत्तम रहेगा? क्या मुझे दोनों के संयोजन का उपयोग करना चाहिए?",
+        "isEn": false
+      },
+      {
+        "en": "Given your outdoor work, UV-blocking contact lenses paired with polarized sunglasses provide the ultimate protection. Polarized lenses are excellent because they specifically eliminate harsh glare reflected from flat surfaces.",
+        "hi": "आपके बाहरी कार्य को देखते हुए, ध्रुवीकृत धूप के चश्मे के साथ पराबैंगनी-अवरोधक नेत्र लेंस सर्वोत्तम सुरक्षा प्रदान करते हैं। ध्रुवीकृत लेंस उत्कृष्ट होते हैं क्योंकि वे विशेष रूप से समतल सतहों से परावर्तित होने वाली तीव्र चकाचौंध को समाप्त करते हैं।",
+        "isEn": true
+      },
+      {
+        "en": "That is very useful information. Will I need a new prescription for contact lenses, or can I use my glasses prescription from last year?",
+        "hi": "यह बहुत उपयोगी जानकारी है। क्या मुझे नेत्र लेंस के लिए एक नए पर्चे की आवश्यकता होगी, या मैं पिछले वर्ष के चश्मे के पर्चे का उपयोग कर सकती हूँ?",
+        "isEn": false
+      },
+      {
+        "en": "Yes, you will. A contact lens prescription requires different measurements, such as base curve and diameter, since the lens sits directly on your eye. You need a separate exam.",
+        "hi": "हाँ, आपको आवश्यकता होगी। नेत्र लेंस के पर्चे के लिए अलग मापों की आवश्यकता होती है, जैसे कि आधार वक्रता और व्यास, क्योंकि लेंस सीधे आपकी आँख पर बैठता है। आपको एक अलग परीक्षण की आवश्यकता है।",
+        "isEn": true
+      },
+      {
+        "en": "I understand. I will book an appointment for the eye test. Is there a fee for this, or is it covered under Medicare?",
+        "hi": "मैं समझ गई। मैं नेत्र परीक्षण के लिए एक समय सुरक्षित करूँगी। क्या इसमें कोई शुल्क लगता है, या यह मेडिकेयर के अंतर्गत आता है?",
+        "isEn": false
+      },
+      {
+        "en": "The comprehensive eye test is bulk-billed under Medicare, meaning there is no out-of-pocket expense. However, the contact lens fitting session costs a seventy dollar fee, which is not claimable.",
+        "hi": "व्यापक नेत्र परीक्षण मेडिकेयर के अंतर्गत निःशुल्क है, जिसका अर्थ है कि कोई व्यक्तिगत व्यय नहीं होगा। हालाँकि, नेत्र लेंस समायोजन सत्र के लिए सत्तर डॉलर का शुल्क लगता है, जिसकी प्रतिपूर्ति नहीं की जा सकती।",
+        "isEn": true
+      },
+      {
+        "en": "Okay, I am ready to pay that fee. Is there any opening next Tuesday around midday? I would like to book it now.",
+        "hi": "ठीक है, मैं वह शुल्क देने के लिए तत्पर हूँ। क्या अगले मंगलवार को दोपहर के समय कोई समय उपलब्ध है? मैं इसे अभी निर्धारित करना चाहती हूँ।",
+        "isEn": false
+      },
+      {
+        "en": "We have an appointment available next Tuesday at two-thirty in the afternoon with our optometrist. Please remember to bring your Medicare card and any glasses you currently wear.",
+        "hi": "हमारे पास अगले मंगलवार को दोपहर ढाई बजे हमारे नेत्र विशेषज्ञ के साथ एक समय उपलब्ध है। कृपया अपना मेडिकेयर कार्ड और वर्तमान में पहने जाने वाले चश्मे साथ लाना सुनिश्चित करें।",
+        "isEn": true
+      },
+      {
+        "en": "Thank you very much. Please secure that time. I will come with my husband as he also needs his vision checked.",
+        "hi": "बहुत-बहुत धन्यवाद। कृपया उस समय को सुरक्षित कर दीजिये। मैं अपने पति के साथ आऊँगी क्योंकि उन्हें भी अपनी दृष्टि की जाँच करानी है।",
+        "isEn": false
+      }
+    ]
+  }
+}

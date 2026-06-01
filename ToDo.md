@@ -1,5 +1,5 @@
 - [x] Dialogue: Phone conversation with a bank employee to reduce the credit card limit because the younger daughter was using the secondary credit card.
-- [ ] Dialogue: Phone conversation with ophthalmologist to buy contact lens for use in sunlight. Phone conversation with an optician shop to enquire about glasses with and without contact lenses for use during sunlight.
+- [x] Dialogue: Phone conversation with ophthalmologist to buy contact lens for use in sunlight. Phone conversation with an optician shop to enquire about glasses with and without contact lenses for use during sunlight.
 - [ ] Dialogue: 
     Business owner vs Sales Team lead on how to improve sales conversions
     Owner: Hi Welcome to the office. I was eagerly waiting to start the meeting.
