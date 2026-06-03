@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "Saloon Website Consultation",
+        "scenario": "A website designer speaks with a small businessman who wants a website designed for his saloon.",
+        "last_active": "2026-06-03",
+        "en_gender": true,
+        "lote_gender": true,
+        "occurrences": 0,
+        "difficulty": "MODERATE",
+        "tag": "Business",
+        "segments": [
+            {
+                "en": "Good afternoon. I am the website designer. How may I help with your new business website today?",
+                "hi": "नमस्कार। मैं जालस्थल अभिकल्पक बोल रहा हूँ। आज मैं आपके नए व्यापारिक जालस्थल के संबंध में किस प्रकार सहायता कर सकता हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Hello. I am opening a saloon next month, and I need a website so customers can find my business easily.",
+                "hi": "नमस्ते। मैं अगले महीने अपना सैलून आरंभ कर रहा हूँ, और मुझे अपना पहला जालस्थल चाहिए ताकि स्थानीय ग्राहक मेरे व्यापार को आसानी से ढूँढ सकें।",
+                "isEn": false
+            },
+            {
+                "en": "Certainly. Tell me what services you offer and whether you want customers to book appointments online.",
+                "hi": "निश्चित रूप से। कृपया बताइए कि आप कौन-कौन सी सेवाएँ देते हैं और क्या आप चाहते हैं कि ग्राहक जालस्थल के माध्यम से ऑनलाइन समय निर्धारित करें।",
+                "isEn": true
+            },
+            {
+                "en": "We provide haircuts, shaving, beard styling, and facial treatments. I want the website to show prices and let customers request appointments.",
+                "hi": "हम बाल काटने, दाढ़ी बनाने, दाढ़ी सँवारने और मुख-उपचार की सेवाएँ देते हैं। मैं चाहता हूँ कि जालस्थल पर मूल्य दिखें और ग्राहक समय माँग सकें।",
+                "isEn": false
+            },
+            {
+                "en": "That is straightforward. I would recommend a home page, services page, price list, photo gallery, contact page, and a booking form.",
+                "hi": "यह कार्य सरल है। मैं मुख्य पृष्ठ, सेवा पृष्ठ, मूल्य सूची, चित्र दीर्घा, संपर्क पृष्ठ और समय-निर्धारण प्रपत्र रखने की सलाह दूँगा।",
+                "isEn": true
+            },
+            {
+                "en": "That sounds good. I already have a logo and some photos of the shop, but they were taken on my phone.",
+                "hi": "यह अच्छा लग रहा है। मेरे पास पहले से एक प्रतीक-चिह्न और दुकान के कुछ चित्र हैं, पर वे मेरे दूरभाष से लिए गए थे।",
+                "isEn": false
+            },
+            {
+                "en": "That is fine. I can improve the image quality and add a location map and your opening hours.",
+                "hi": "यह ठीक है। मैं जालस्थल के लिए चित्रों की गुणवत्ता बेहतर कर सकता हूँ और साथ ही स्थान-मानचित्र तथा आपके खुलने के समय भी जोड़ सकता हूँ।",
+                "isEn": true
+            },
+            {
+                "en": "Please do that. I want a black and gold theme, and the site must work well on mobile phones because many customers search there.",
+                "hi": "कृपया ऐसा ही कीजिए। मैं काले और सुनहरे रंग की रूप-योजना चाहता हूँ, और जालस्थल मोबाइल दूरभाषों पर भी अच्छी तरह चलना चाहिए क्योंकि बहुत से ग्राहक वहीं खोजते हैं।",
+                "isEn": false
+            },
+            {
+                "en": "Understood. Do you already have a domain name and hosting, or would you like me to arrange those for you too?",
+                "hi": "समझ गया। क्या आपके पास पहले से प्रक्षेत्र नाम और होस्टिंग है, या आप चाहेंगे कि मैं उनकी व्यवस्था भी कर दूँ?",
+                "isEn": true
+            },
+            {
+                "en": "I have not bought anything yet. I would like you to arrange it and also tell me the total cost and timeline.",
+                "hi": "मैंने अभी तक कुछ भी नहीं खरीदा है। मैं चाहूँगा कि आप उसकी व्यवस्था करें और मुझे कुल लागत तथा समय-सीमा भी बताएँ।",
+                "isEn": false
+            },
+            {
+                "en": "For a five-page website with booking requests, the design fee will be about nine hundred dollars, and hosting will cost one hundred twenty dollars yearly.",
+                "hi": "समय-निर्धारण अनुरोधों वाले पाँच पृष्ठों के जालस्थल के लिए अभिकल्प शुल्क लगभग नौ सौ डॉलर होगा, और वार्षिक होस्टिंग की लागत एक सौ बीस डॉलर होगी।",
+                "isEn": true
+            },
+            {
+                "en": "That fits my budget. How long will the work take, and can I pay in two parts because my business is just starting?",
+                "hi": "यह मेरे बजट में है। काम में कितना समय लगेगा, और क्या मैं दो भागों में भुगतान कर सकता हूँ क्योंकि मेरा व्यापार अभी प्रारंभ ही हो रहा है?",
+                "isEn": false
+            },
+            {
+                "en": "Yes, that is possible. I require fifty percent in advance, and the website can be ready within two weeks after I receive your content.",
+                "hi": "हाँ, यह संभव है। मुझे अग्रिम रूप से पचास प्रतिशत चाहिए, और आपकी सामग्री मिलते ही जालस्थल दो सप्ताह के भीतर तैयार हो सकता है।",
+                "isEn": true
+            },
+            {
+                "en": "Excellent. Please send me the proposal and a checklist of the items you need today, and I will reply this evening.",
+                "hi": "बहुत बढ़िया। कृपया आज ही मुझे प्रस्ताव और आवश्यक वस्तुओं की सूची भेज दीजिए, और मैं आज शाम उत्तर दे दूँगा।",
+                "isEn": false
+            }
+        ]
+    }
+}
