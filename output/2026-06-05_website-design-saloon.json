@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "Website Design for Saloon",
+        "scenario": "A phone call between a website designer and a small businessman looking to design a website for his hair salon.",
+        "last_active": "2026-06-05",
+        "en_gender": true,
+        "lote_gender": true,
+        "occurrences": 1,
+        "difficulty": "MODERATE",
+        "tag": "Business",
+        "segments": [
+            {
+                "en": "Good morning! Thank you for calling Pixel Web Solutions. My name is Mark. How can I help you with your web design project today?",
+                "hi": "शुभ प्रभात! पिक्सेल वेब सॉल्यूशंस में सम्पर्क करने के लिए धन्यवाद। मेरा नाम मार्क है। आज मैं आपकी वेब डिज़ाइन परियोजना में किस प्रकार सहायता कर सकता हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Hello Mark. I run a men's hair salon named 'Saloon' in Melbourne. I want to have a new website built for my business.",
+                "hi": "नमस्ते मार्क। मैं मेलबर्न में 'सैलून' नाम से एक पुरुषों का नाईघर चलाता हूँ। मैं अपने व्यवसाय के लिए एक नई वेबसाइट बनवाना चाहता हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "That sounds great. A website is a wonderful tool to attract more clients. What key features are you looking to include on your site?",
+                "hi": "यह बहुत अच्छा है। अधिक ग्राहकों को आकर्षित करने के लिए वेबसाइट एक उत्कृष्ट साधन है। आप अपनी वेबसाइट में कौन सी मुख्य विशेषताएं सम्मिलित करना चाहते हैं?",
+                "isEn": true
+            },
+            {
+                "en": "I want customers to be able to see our services, check our prices, and most importantly, book appointments directly online.",
+                "hi": "मैं चाहता हूँ कि ग्राहक हमारी सेवाएँ देख सकें, हमारे मूल्य जान सकें और सबसे महत्वपूर्ण बात यह है कि वे सीधे ऑनलाइन मिलने का समय आरक्षित कर सकें।",
+                "isEn": false
+            },
+            {
+                "en": "We can definitely integrate a booking system. It will allow customers to select a stylist, choose a service, and pick a convenient time.",
+                "hi": "हम निश्चित रूप से एक आरक्षण प्रणाली जोड़ सकते हैं। यह ग्राहकों को एक केश सज्जाकार का चयन करने, सेवा चुनने और एक सुविधाजनक समय निर्धारित करने की अनुमति देगा।",
+                "isEn": true
+            },
+            {
+                "en": "That would be excellent. Additionally, can we also add a payment system? I want customers to pay a deposit at the time of booking.",
+                "hi": "यह बहुत बढ़िया रहेगा। इसके अतिरिक्त, क्या हम एक भुगतान प्रणाली भी जोड़ सकते हैं? मैं चाहता हूँ कि ग्राहक आरक्षण के समय ही जमा राशि का भुगतान करें।",
+                "isEn": false
+            },
+            {
+                "en": "Yes, we can link a payment gateway like Stripe or PayPal. This will enable secure credit card payments directly through your website.",
+                "hi": "हाँ, हम स्ट्राइप या पेपाल जैसे भुगतान गेटवे को जोड़ सकते हैं। इससे आपकी वेबसाइट के माध्यम से सीधे सुरक्षित क्रेडिट कार्ड से भुगतान संभव होगा।",
+                "isEn": true
+            },
+            {
+                "en": "This secure payment feature is very important. I also want to know how much it will cost to develop this entire website?",
+                "hi": "यह सुरक्षित भुगतान सुविधा बहुत महत्वपूर्ण है। मैं यह भी जानना चाहता हूँ कि इस संपूर्ण वेबसाइट को तैयार करने में कितनी लागत आएगी?",
+                "isEn": false
+            },
+            {
+                "en": "For a custom design with booking and payment features, the cost would be around $3,000, which includes basic support.",
+                "hi": "आरक्षण और भुगतान सुविधाओं वाले एक विशेष रूप से निर्मित डिज़ाइन के लिए, लागत लगभग ३,००० डॉलर होगी, जिसमें बुनियादी सहायता सम्मिलित है।",
+                "isEn": true
+            },
+            {
+                "en": "This budget is slightly higher than my estimate. Can we pay this amount in stages, such as half before the work begins?",
+                "hi": "यह बजट मेरे अनुमान से थोड़ा अधिक है। क्या हम इस राशि का भुगतान चरणों में कर सकते हैं, जैसे कार्य आरंभ होने से पहले आधी राशि?",
+                "isEn": false
+            },
+            {
+                "en": "Yes, we offer a payment plan. You can pay 50% upfront, and the remaining 50% upon project completion.",
+                "hi": "हाँ, हम एक भुगतान योजना प्रदान करते हैं। आप ५० प्रतिशत अग्रिम भुगतान कर सकते हैं, और शेष ५० प्रतिशत परियोजना पूर्ण होने पर।",
+                "isEn": true
+            },
+            {
+                "en": "This payment plan is very convenient for me. I also need to know how long it will take for the website to be fully active?",
+                "hi": "यह भुगतान योजना मेरे लिए बहुत सुविधाजनक है। मुझे यह भी जानना है कि वेबसाइट को पूरी तरह सक्रिय होने में कितना समय लगेगा?",
+                "isEn": false
+            },
+            {
+                "en": "It typically takes about 4 to 6 weeks, provided we receive all the content, such as images and text, from your end.",
+                "hi": "इसमें सामान्यतः लगभग ४ से ६ सप्ताह लगते हैं, यदि हमें आपकी ओर से चित्र और पाठ जैसी सभी सामग्रियां प्राप्त हो जाएं।",
+                "isEn": true
+            },
+            {
+                "en": "Okay, I will start gathering the content today. Can we move this forward during our meeting next Monday?",
+                "hi": "ठीक है, मैं आज ही सामग्री एकत्र करना आरंभ कर दूंगा। क्या हम अगले सोमवार को अपनी बैठक में इसे आगे बढ़ा सकते हैं?",
+                "isEn": false
+            }
+        ]
+    }
+}
