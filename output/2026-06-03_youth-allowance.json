@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "Youth Allowance for Daughter",
+        "scenario": "A conversation between a social services officer and a parent inquiring about Youth Allowance eligibility for their daughter.",
+        "last_active": "2026-06-03",
+        "en_gender": false,
+        "lote_gender": true,
+        "occurrences": 1,
+        "difficulty": "MODERATE",
+        "tag": "Social Services",
+        "segments": [
+            {
+                "en": "Good Afternoon, welcome to the social service department. How may I help you?",
+                "hi": "शुभ दोपहर, सामाजिक सेवा विभाग में आपका स्वागत है। मैं आपकी किस प्रकार सहायता कर सकती हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Hello. I am speaking on behalf of my daughter. Could you please share some details about how she can obtain youth allowance?",
+                "hi": "नमस्ते। मैं अपनी पुत्री की ओर से बात कर रहा हूँ। क्या आप कृपया बता सकते हैं कि वह युवा भत्ता कैसे प्राप्त कर सकती है?",
+                "isEn": false
+            },
+            {
+                "en": "Of course. I can assist you with that. Do you need any particular information or just a general overview of the program?",
+                "hi": "अवश्य ही। मैं इसमें आपकी सहायता कर सकती हूँ। क्या आपको किसी विशेष जानकारी की आवश्यकता है, या केवल इस कार्यक्रम की एक सामान्य रूपरेखा चाहिए?",
+                "isEn": true
+            },
+            {
+                "en": "I don't have any idea about it. I just heard my friends talking about it, and I'm checking if my daughter is eligible.",
+                "hi": "मुझे इस बारे में कोई जानकारी नहीं है। मैंने केवल अपने दोस्तों को इस बारे में बात करते हुए सुना था, और देख रहा हूँ कि क्या मेरी पुत्री इसके लिए पात्र है।",
+                "isEn": false
+            },
+            {
+                "en": "Certainly. This is a government-funded financial assistance program for Australian students, and they can apply if they are under twenty-four years of age.",
+                "hi": "अवश्य। यह ऑस्ट्रेलियाई छात्रों के लिए एक सरकारी वित्त पोषित वित्तीय सहायता कार्यक्रम है, और यदि उनकी आयु २४ वर्ष से कम है तो वे आवेदन कर सकते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "That is good. My daughter is currently at university and her age matches the criteria. She is also taking courses that state universities offer.",
+                "hi": "यह अच्छा है। मेरी पुत्री अभी विश्वविद्यालय में पढ़ रही है और उसकी आयु इस मानदंड से मेल खाती है। वह वही पाठ्यक्रम कर रही है जो राज्य विश्वविद्यालयों में चलाए जाते हैं।",
+                "isEn": false
+            },
+            {
+                "en": "I see. One of the main eligibility requirements for this program is that the student must be enrolled in full-time study.",
+                "hi": "मैं समझती हूँ। इस कार्यक्रम की मुख्य पात्रता आवश्यकताओं में से एक यह है कि छात्र का पूर्णकालिक अध्ययन में नामांकित होना अनिवार्य है।",
+                "isEn": true
+            },
+            {
+                "en": "There is no issue with that. She is a full-time university student, and she is indeed enrolled in a full-time course.",
+                "hi": "उसमें कोई समस्या नहीं है। वह एक पूर्णकालिक विश्वविद्यालय की छात्रा है, और वह वास्तव में एक पूर्णकालिक पाठ्यक्रम में नामांकित है।",
+                "isEn": false
+            },
+            {
+                "en": "Please note that not all university courses are funded by the government. You can find the complete details on our website; please check it before applying.",
+                "hi": "कृपया ध्यान दें कि विश्वविद्यालय के सभी पाठ्यक्रमों को सरकार द्वारा वित्त पोषित नहीं किया जाता है। आप हमारी वेबसाइट पर पूरा विवरण पा सकते हैं; आवेदन करने से पहले कृपया इसे देख लें।",
+                "isEn": true
+            },
+            {
+                "en": "I will certainly do that. I will look into the details on the website before starting the application for the youth allowance.",
+                "hi": "मैं निश्चित रूप से ऐसा करूँगा। मैं युवा भत्ते के लिए आवेदन शुरू करने से पहले वेबसाइट पर उपलब्ध जानकारी देखूँगा।",
+                "isEn": false
+            },
+            {
+                "en": "Great. You can submit the application online, and I also recommend that you check the required documents checklist on the website.",
+                "hi": "बहुत बढ़िया। आप आवेदन वेबसाइट के माध्यम से जमा कर सकते हैं, और मैं यह भी सुझाव देती हूँ कि आप वेबसाइट पर आवश्यक दस्तावेज़ों की सूची देख लें।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you. I will carefully check the list of required documents on the website and do my best to gather them all.",
+                "hi": "धन्यवाद। मैं वेबसाइट पर आवश्यक दस्तावेज़ों की सूची की ध्यानपूर्वक जाँच करूँगा और उन सभी को एकत्र करने का पूरा प्रयास करूँगा।",
+                "isEn": false
+            },
+            {
+                "en": "Also, please keep in mind that an income test is part of the process. If you have any other questions, feel free to contact us.",
+                "hi": "इसके अलावा, कृपया ध्यान रखें कि आय परीक्षण भी इस प्रक्रिया का एक भाग है। यदि आपका कोई और सवाल हो, तो हमसे संपर्क करने में संकोच न करें।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you for your assistance. I will check that, and if the income estimates are higher than expected, I will contact you again. Good day.",
+                "hi": "आपकी सहायता के लिए धन्यवाद। मैं इसकी जाँच करूँगा, और यदि आय के अनुमान मेरी अपेक्षा से अधिक हुए, तो मैं आपसे फिर से संपर्क करूँगा। आपका दिन शुभ हो।",
+                "isEn": false
+            }
+        ]
+    }
+}

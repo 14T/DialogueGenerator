@@ -25,20 +25,19 @@ This skill pushes a generated NAATI CCL dialogue JSON file to the Supabase datab
    - Read the standard output and error from the script execution.
    - Inform the user whether the dialogue was successfully pushed or if there were any errors.
 
-4. **Mark as done in ToDo.md (on success only):**
-   - If and only if the push was successful (no errors reported by the script), open `/Users/Chetan/Documents/Projects/DialogueGenerator/ToDo.md`.
-   - Find the scenario line that corresponds to the dialogue that was just pushed (match by topic/description).
-   - Change its leading `- [ ]` to `- [x]` so it is permanently marked as completed.
-   - Save the file.
-   - Confirm to the user that the scenario has been ticked off in `ToDo.md` and will not be picked again.
+4. **Mark as done in Linear (on success only):**
+   - If and only if the push was successful (no errors reported by the script), update the issue status in Linear.
+   - Call the `save_issue` tool on the `linear-mcp-server` MCP server.
+   - Set the `id` to the issue key (e.g. `NAC-28`) and set `state` to `Done`.
+   - Confirm to the user that the Linear issue has been set to "Done" status.
 
 5. **Offer Git Commit (on success only):**
-   - After pushing the dialogue and updating `ToDo.md`, ask the user if they would like to commit the new dialogue file and the updated `ToDo.md` to git.
+   - After pushing the dialogue and updating the Linear issue, ask the user if they would like to commit the new dialogue file to git.
    - If they agree:
      - Identify the topic/name of the dialogue.
      - Execute the following commands:
        ```bash
-       git add <path_to_json_file> ToDo.md
-       git commit -m "added dialogue for <Topic> and updated ToDo.md"
+       git add <path_to_json_file>
+       git commit -m "added dialogue for <Topic>"
        ```
      - Inform the user that the changes have been committed.
