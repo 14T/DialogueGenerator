@@ -1,0 +1,69 @@
+{
+  "dialogue": {
+    "title": "Dental Clinic Receptionist First Day Orientation",
+    "scenario": "A dentist welcomes a new receptionist and explains the basic administrative procedures on her first day.",
+    "last_active": "2026-06-19",
+    "en_gender": true,
+    "lote_gender": false,
+    "occurrences": 1,
+    "difficulty": "EASY",
+    "tag": "Health",
+    "segments": [
+      {
+        "en": "Welcome, Priya! It is great to have you here for your first day.",
+        "hi": "स्वागत है, प्रिया! आपके पहले दिन यहाँ आपका होना बहुत अच्छा है।",
+        "isEn": true
+      },
+      {
+        "en": "Hello Doctor! I am very excited to start working at this dental clinic.",
+        "hi": "नमस्ते चिकित्सक जी! मैं इस दंत चिकित्सालय में कार्य आरंभ करने के लिए बहुत उत्साहित हूँ।",
+        "isEn": false
+      },
+      {
+        "en": "Excellent. Let me show you where we keep the patient registration forms.",
+        "hi": "बहुत बढ़िया। चलिए मैं आपको दिखाता हूँ कि हम रोगी पंजीकरण प्रपत्र कहाँ रखते हैं।",
+        "isEn": true
+      },
+      {
+        "en": "Thank you. Is it necessary for new patients to fill this out every time?",
+        "hi": "धन्यवाद। क्या नए रोगियों को प्रत्येक बार आने पर इसे भरना आवश्यक है?",
+        "isEn": false
+      },
+      {
+        "en": "No, they only need to fill this form during their first visit here.",
+        "hi": "नहीं, उन्हें यहाँ अपने प्रथम आगमन के समय ही यह प्रपत्र भरना होगा।",
+        "isEn": true
+      },
+      {
+        "en": "I understand. Will I also ask the patients for their dental insurance details?",
+        "hi": "मैं समझ गई। क्या मैं रोगियों से उनका दंत बीमा विवरण भी माँगूँगी?",
+        "isEn": false
+      },
+      {
+        "en": "Yes, please always ask for their Medicare or private health insurance card.",
+        "hi": "हाँ, कृपया हमेशा उनका मेडिकेयर या निजी स्वास्थ्य बीमा कार्ड माँगें।",
+        "isEn": true
+      },
+      {
+        "en": "Okay. Do we accept cash for payments after the treatment is completed?",
+        "hi": "ठीक है। क्या हम उपचार पूरा होने के बाद भुगतान के लिए नकद स्वीकार करते हैं?",
+        "isEn": false
+      },
+      {
+        "en": "Yes, but we prefer card payments through our electronic system if possible.",
+        "hi": "हाँ, परंतु यदि संभव हो तो हम अपनी इलेक्ट्रॉनिक प्रणाली द्वारा कार्ड भुगतान को प्राथमिकता देते हैं।",
+        "isEn": true
+      },
+      {
+        "en": "I understand. I will follow all the rules of the dental clinic.",
+        "hi": "मैं समझ गई। मैं दंत चिकित्सालय के सभी नियमों का पालन करूँगी।",
+        "isEn": false
+      },
+      {
+        "en": "Wonderful. Now, let us go to the reception desk to begin.",
+        "hi": "बहुत अच्छे। अब, शुरुआत करने के लिए स्वागत पटल पर चलते हैं।",
+        "isEn": true
+      }
+    ]
+  }
+}
