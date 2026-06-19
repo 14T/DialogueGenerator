@@ -279,7 +279,7 @@ if any of the verification fails, rectify it or make necessary adjustments.
 *   **Technical Terms**: Avoid simple transliteration for common technical concepts if a descriptive Hindi term exists.
 *   **Number Script Policy**: All numbers in Hindi segments (e.g., dates, times, quantities, prices, route numbers) MUST be written in Devanagari numerals (e.g., १, २, ३, ४५०) or Hindi words (e.g., एक, दो), never in Western/English numerals (e.g., 1, 2, 3).
 *   **No Written-Style Explanations**: Do NOT use explanations in brackets or after colons (e.g., "वी.पी.एन. (VPN)"). The dialogue must simulate natural spoken conversation, not written text.
-*   **Business/Formal Terminology**: Always prefer formal Hindi terms for business concepts over transliterated English (e.g., use 'शुभारंभ' for 'launch', 'प्रतिवेदन' for 'report', 'बैठक' for 'meeting').
+*   **Business/Formal Terminology**: Always prefer formal Hindi terms for business concepts over transliterated English (e.g., use 'शुभारंभ' for 'launch', 'प्रतिवेदन' for 'report', 'बैठक' for 'meeting'). For services, translate "express/rush/urgent service" as '**शीघ्र सेवा**' (Sheeghra Seva).
 *   **Medical Vocabulary**: Prefer Hindi terms over common English loanwords where natural:
     *   Use 'गोली' instead of 'टैबलेट' (Tablet).
     *   Use 'पत्ता' instead of 'स्ट्रिप' (Strip of medicine).

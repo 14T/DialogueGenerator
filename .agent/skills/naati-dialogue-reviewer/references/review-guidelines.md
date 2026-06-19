@@ -50,6 +50,7 @@ Ensure the provided JSON metadata follows these rules exactly:
 *   Do not translate literally if the meaning is lost.
     *   *Example*: "On the floor" (in hospitality) -> "कामकाज" or "बाहरी काम", NOT "फर्श पर".
     *   "Quiet" (not busy) -> "कामकाज हल्का", NOT "भीड़ कम".
+    *   "Express/rush/urgent service" (in business/services contexts) -> "**शीघ्र सेवा**" (Sheeghra Seva).
 
 ### Number and Script Rules
 *   **Hindi Numbers**: All numbers, dates, times, prices, and quantities in the Hindi text MUST be in Devanagari numerals (१, २, ३) or Hindi words (एक, दो). NEVER Western numerals (1, 2, 3).
