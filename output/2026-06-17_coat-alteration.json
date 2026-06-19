@@ -1,0 +1,74 @@
+{
+    "dialogue": {
+        "title": "Dry Cleaner Coat Alteration",
+        "scenario": "A customer visits a dry cleaner to get their winter coat dry cleaned and altered.",
+        "last_active": "2026-06-17",
+        "en_gender": false,
+        "lote_gender": true,
+        "occurrences": 1,
+        "difficulty": "MODERATE",
+        "tag": "Consumer Affairs",
+        "segments": [
+            {
+                "en": "Good afternoon, welcome to Quick Clean Dry Cleaners. How can I help you today?",
+                "hi": "नमस्कार, क्विक क्लीन ड्राई क्लीनर्स में आपका स्वागत है। आज मैं आपकी क्या सहायता कर सकती हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Hello. I have this winter coat that needs to be dry cleaned and altered. The sleeves are a bit too long.",
+                "hi": "नमस्ते। मेरे पास यह सर्दियों का कोट है जिसकी शुष्क धुलाई करवानी है और उसमें कुछ सुधार करवाना है। इसकी आस्तीनें थोड़ी ज़्यादा लंबी हैं।",
+                "isEn": false
+            },
+            {
+                "en": "We can certainly do that for you. Let me measure your arms to see how much we need to shorten them by.",
+                "hi": "हम निश्चित रूप से आपके लिए यह कर सकते हैं। मुझे आपकी बाँहों का माप लेने दीजिए ताकि पता चल सके कि इन्हें कितना छोटा करना है।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you. Also, the inner lining of the coat is torn near the left pocket. Can you repair that as well?",
+                "hi": "धन्यवाद। इसके अलावा, कोट का आंतरिक अस्तर बाईं जेब के पास से फटा हुआ है। क्या आप उसकी भी मरम्मत कर सकती हैं?",
+                "isEn": false
+            },
+            {
+                "en": "Yes, we can stitch the lining. Shortening the sleeves will be thirty-five dollars, and repairing the lining is fifteen dollars.",
+                "hi": "हाँ, हम अस्तर को सिल सकते हैं। आस्तीनें छोटी करने के पैंतीस डॉलर लगेंगे, और अस्तर की मरम्मत के पंद्रह डॉलर लगेंगे।",
+                "isEn": true
+            },
+            {
+                "en": "That sounds reasonable. How long will the whole process take? I have a family function to attend next Saturday.",
+                "hi": "यह उचित लग रहा है। इस पूरी प्रक्रिया में कितना समय लगेगा? मुझे अगले शनिवार को एक पारिवारिक समारोह में जाना है।",
+                "isEn": false
+            },
+            {
+                "en": "Normally it takes five working days, but we can do an express service for an extra ten dollars to complete it in two days.",
+                "hi": "आमतौर पर इसमें पाँच कार्यदिवस लगते हैं, लेकिन हम दो दिनों में इसे पूरा करने के लिए अतिरिक्त दस डॉलर में शीघ्र सेवा दे सकते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Two days is perfect. I am happy to pay the extra ten dollars. Here is my phone number and email address.",
+                "hi": "दो दिन बिल्कुल सही है। मैं अतिरिक्त दस डॉलर देने के लिए तैयार हूँ। यह मेरी दूरभाष संख्या और ईमेल पता है।",
+                "isEn": false
+            },
+            {
+                "en": "Great, I will note down your details. Please pay the total amount of sixty dollars now, and here is your receipt.",
+                "hi": "बहुत अच्छा, मैं आपका विवरण नोट कर लेती हूँ। कृपया कुल साठ डॉलर का भुगतान अभी कर दीजिए, और यह आपकी रसीद है।",
+                "isEn": true
+            },
+            {
+                "en": "Here is my card. Do I need to bring this receipt with me when I come to collect the coat?",
+                "hi": "यह लीजिए मेरा कार्ड। जब मैं कोट लेने आऊँगा, तो क्या मुझे यह रसीद अपने साथ लानी होगी?",
+                "isEn": false
+            },
+            {
+                "en": "Yes, please bring the receipt. It has a barcode we need to scan to find your garment in our system.",
+                "hi": "हाँ, कृपया रसीद साथ लाइएगा। इसमें एक बारकोड है जिसे हमें अपनी प्रणाली में आपके परिधान को ढूंढने के लिए स्कैन करना होगा।",
+                "isEn": true
+            },
+            {
+                "en": "Okay, I will keep it safe. Thank you for your help, and I will see you in two days.",
+                "hi": "ठीक है, मैं इसे सुरक्षित रखूँगा। आपकी सहायता के लिए धन्यवाद, और मैं आपसे दो दिनों में मिलता हूँ।",
+                "isEn": false
+            }
+        ]
+    }
+}
