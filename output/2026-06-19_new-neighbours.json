@@ -1,0 +1,74 @@
+{
+    "dialogue": {
+        "title": "Introducing New Neighbours",
+        "scenario": "An English-speaking resident speaks with her new Hindi-speaking neighbour about their children playing and studying at the same primary school.",
+        "last_active": "2026-06-19",
+        "en_gender": false,
+        "lote_gender": true,
+        "occurrences": 1,
+        "difficulty": "EASY",
+        "tag": "Community",
+        "segments": [
+            {
+                "en": "Hello! I am Sarah from next door. I wanted to talk about the kids playing.",
+                "hi": "नमस्ते! मैं बगल वाले घर से सारा हूँ। मैं बच्चों के खेलने के बारे में बात करना चाहती थी।",
+                "isEn": true
+            },
+            {
+                "en": "Hello Sarah. Did my children throw the ball towards your fence?",
+                "hi": "नमस्ते सारा। क्या मेरे बच्चों ने आपकी बाड़ की तरफ गेंद फेंक दी है?",
+                "isEn": false
+            },
+            {
+                "en": "Yes, they did. The ball broke a small flower pot in my garden.",
+                "hi": "हाँ, उन्होंने फेंकी थी। गेंद ने मेरे बगीचे में एक छोटा फूलदान तोड़ दिया।",
+                "isEn": true
+            },
+            {
+                "en": "I am very sorry. I have just recently arrived and will explain it to them.",
+                "hi": "मुझे बहुत खेद है। मैं हाल ही में यहाँ आया हूँ और उन्हें समझाऊँगा।",
+                "isEn": false
+            },
+            {
+                "en": "It is fine. I also wanted to welcome you to our neighborhood.",
+                "hi": "यह ठीक है। मैं हमारे पड़ोस में आपका स्वागत भी करना चाहती थी।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you. My children study at the nearby primary school.",
+                "hi": "धन्यवाद। मेरे बच्चे पास के प्राथमिक विद्यालय में अध्ययन करते हैं।",
+                "isEn": false
+            },
+            {
+                "en": "Oh, really? My daughter also goes to the same primary school.",
+                "hi": "अरे, सच में? मेरी बेटी भी उसी प्राथमिक विद्यालय में जाती है।",
+                "isEn": true
+            },
+            {
+                "en": "This is a very good thing. They can do homework together.",
+                "hi": "यह तो बहुत अच्छी बात है। वे मिलकर गृहकार्य कर सकते हैं।",
+                "isEn": false
+            },
+            {
+                "en": "Yes. I will ask the kids to play carefully in the yard.",
+                "hi": "हाँ। मैं बच्चों को आँगन में सावधानी से खेलने के लिए कहूँगी।",
+                "isEn": true
+            },
+            {
+                "en": "Of course, I will also explain to them. I will pay for your broken flower pot.",
+                "hi": "अवश्य, मैं भी उन्हें समझाऊँगा। मैं आपके टूटे हुए फूलदान के लिए भुगतान कर दूँगा।",
+                "isEn": false
+            },
+            {
+                "en": "No, that is not necessary. I am just glad we met today.",
+                "hi": "नहीं, उसकी आवश्यकता नहीं है। मुझे बस प्रसन्नता है कि हम आज मिले।",
+                "isEn": true
+            },
+            {
+                "en": "I am happy too. Please send the children to play together.",
+                "hi": "मुझे भी प्रसन्नता हुई। कृपया बच्चों को साथ खेलने के लिए भेजें।",
+                "isEn": false
+            }
+        ]
+    }
+}
