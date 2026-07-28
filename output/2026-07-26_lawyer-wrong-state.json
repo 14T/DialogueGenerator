@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "Finding the Right State-Registered Solicitor",
+        "scenario": "A law firm receptionist helps a client who mistakenly consulted a solicitor licensed in the wrong Australian state for his tenancy dispute.",
+        "last_active": "2026-07-28",
+        "en_gender": false,
+        "lote_gender": true,
+        "occurrences": 1,
+        "difficulty": "HARD",
+        "tag": "Legal",
+        "segments": [
+            {
+                "en": "Good morning, thank you for calling Meridian Legal Services, I am Sarah, how may I assist you today?",
+                "hi": "सुप्रभात, मेरिडियन विधि सेवा को कॉल करने के लिए धन्यवाद, मैं सारा हूँ, मैं आपकी कैसे सहायता कर सकती हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "I consulted a solicitor last week, but he is only permitted to practise in Victoria, while my property is located in Queensland.",
+                "hi": "मैंने पिछले सप्ताह एक वकील से सलाह ली, लेकिन उन्हें केवल विक्टोरिया में वकालत की अनुमति है, जबकि मेरी संपत्ति क्वींसलैंड में स्थित है।",
+                "isEn": false
+            },
+            {
+                "en": "I am sorry for the confusion, each solicitor is admitted to practise within a specific state, so he cannot represent you before the Queensland tribunal.",
+                "hi": "असमंजस के लिए खेद है, प्रत्येक वकील किसी विशेष राज्य में वकालत के लिए अधिकृत होता है, इसलिए वे क्वींसलैंड न्यायाधिकरण के समक्ष आपका प्रतिनिधित्व नहीं कर सकते।",
+                "isEn": true
+            },
+            {
+                "en": "I thought a qualified solicitor could practise anywhere across Australia, this information is completely new to me.",
+                "hi": "मुझे लगता था कि कोई भी योग्य वकील पूरे ऑस्ट्रेलिया में कहीं भी वकालत कर सकता है, यह जानकारी मेरे लिए पूरी तरह नई है।",
+                "isEn": false
+            },
+            {
+                "en": "That is a common misunderstanding, each state has its own admission rules, though solicitors may appear in federal courts nationwide without extra registration.",
+                "hi": "यह एक सामान्य भ्रम है, प्रत्येक राज्य के अपने प्रवेश नियम होते हैं, हालांकि वकील बिना अतिरिक्त पंजीकरण के संघीय न्यायालयों में देशभर में उपस्थित हो सकते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Then could you tell me how I can find a Queensland registered solicitor who specialises in tenancy disputes?",
+                "hi": "तो कृपया बताइए, मैं क्वींसलैंड में पंजीकृत, किरायेदारी विवादों में विशेषज्ञ वकील कैसे खोजूँ?",
+                "isEn": false
+            },
+            {
+                "en": "Our Brisbane office has a colleague who specialises in tenancy matters, and I would be glad to refer your case to her directly.",
+                "hi": "हमारे ब्रिस्बेन कार्यालय में एक सहकर्मी हैं जो किरायेदारी मामलों में विशेषज्ञ हैं, और मुझे आपका मामला सीधे उन्हें प्रेषित करने में प्रसन्नता होगी।",
+                "isEn": true
+            },
+            {
+                "en": "That is a relief, thank you, but could you tell me the fee for the initial consultation?",
+                "hi": "यह सुनकर राहत मिली, धन्यवाद, लेकिन क्या आप मुझे प्रारंभिक परामर्श के शुल्क के बारे में बता सकती हैं?",
+                "isEn": false
+            },
+            {
+                "en": "The initial consultation usually costs one hundred and fifty dollars, but this may be waived if you qualify for legal aid, depending on your income.",
+                "hi": "प्रारंभिक परामर्श का शुल्क सामान्यतः एक सौ पचास डॉलर होता है, लेकिन यदि आप अपनी आय के अनुसार विधिक सहायता के पात्र हैं, तो यह शुल्क माफ किया जा सकता है।",
+                "isEn": true
+            },
+            {
+                "en": "My income is not very high, so what are the eligibility criteria for receiving legal aid?",
+                "hi": "मेरी आय अधिक नहीं है, तो विधिक सहायता प्राप्त करने के लिए पात्रता के मानदंड क्या हैं?",
+                "isEn": false
+            },
+            {
+                "en": "Legal Aid Queensland offers free advice to tenants facing eviction proceedings, though eligibility depends on a means test based on income and assets.",
+                "hi": "विधिक सहायता क्वींसलैंड बेदखली की कार्यवाही का सामना कर रहे किरायेदारों को निःशुल्क सलाह देती है, हालांकि पात्रता आय और परिसंपत्तियों पर आधारित साधन परीक्षण के आधार पर तय होती है।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you, this is very helpful, please tell me how soon I can get this consultation, as the matter is urgent.",
+                "hi": "धन्यवाद, यह बहुत उपयोगी है, कृपया बताइए यह परामर्श कितनी जल्दी मिल सकता है, क्योंकि मामला बहुत आवश्यक है।",
+                "isEn": false
+            },
+            {
+                "en": "Since your tribunal hearing is next week, I can arrange a video consultation with our Brisbane solicitor as early as this Friday.",
+                "hi": "चूँकि आपकी न्यायाधिकरण सुनवाई अगले सप्ताह है, मैं इसी शुक्रवार तक हमारे ब्रिस्बेन वकील के साथ वीडियो परामर्श की व्यवस्था कर सकती हूँ।",
+                "isEn": true
+            },
+            {
+                "en": "That will suit me well, thank you very much, I will look forward to your confirmation email.",
+                "hi": "यह मेरे लिए उपयुक्त रहेगा, आपका बहुत-बहुत धन्यवाद, मैं आपके पुष्टिकरण ईमेल की प्रतीक्षा करूँगा।",
+                "isEn": false
+            }
+        ]
+    }
+}
