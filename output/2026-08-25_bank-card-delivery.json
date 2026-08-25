@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "Bank Card Delivery and Digital Card Request",
+        "scenario": "A customer calls a bank representative about a delayed debit card and asks about getting a digital card as well.",
+        "last_active": "2026-08-25",
+        "en_gender": false,
+        "lote_gender": true,
+        "occurrences": 0,
+        "difficulty": "EASY",
+        "tag": "Financial",
+        "segments": [
+            {
+                "en": "Good morning, thank you for calling the bank, how can I help you today?",
+                "hi": "सुप्रभात, बैंक को फोन करने के लिए धन्यवाद, आज मैं आपकी कैसे सहायता कर सकती हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Hello, I still have not received my new debit card in the mail.",
+                "hi": "नमस्ते, मुझे अभी तक डाक में मेरा नया डेबिट कार्ड नहीं मिला है।",
+                "isEn": false
+            },
+            {
+                "en": "I am sorry about that, new cards usually arrive within seven to ten working days.",
+                "hi": "मुझे इसका खेद है, नए कार्ड सामान्यतः सात से दस कार्य दिवसों में पहुँच जाते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "It has already been two weeks since I applied for the card.",
+                "hi": "मुझे कार्ड के लिए आवेदन किए हुए पहले ही दो सप्ताह हो चुके हैं।",
+                "isEn": false
+            },
+            {
+                "en": "Let me check your account and confirm that the card was posted correctly.",
+                "hi": "मुझे आपका खाता जाँचने दीजिए ताकि मैं पुष्टि कर सकूँ कि कार्ड सही पते पर भेजा गया था।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you, I really need it soon for my daily shopping.",
+                "hi": "धन्यवाद, मुझे अपनी रोज़ की खरीदारी के लिए इसकी शीघ्र आवश्यकता है।",
+                "isEn": false
+            },
+            {
+                "en": "I can also add a digital card to your account right now.",
+                "hi": "मैं अभी आपके खाते में एक डिजिटल कार्ड भी जोड़ सकती हूँ।",
+                "isEn": true
+            },
+            {
+                "en": "What is the difference between a physical card and a digital card?",
+                "hi": "भौतिक कार्ड और डिजिटल कार्ड में क्या अंतर होता है?",
+                "isEn": false
+            },
+            {
+                "en": "A digital card works instantly through your mobile app for online payments.",
+                "hi": "डिजिटल कार्ड आपके मोबाइल ऐप के माध्यम से तुरंत ऑनलाइन भुगतान के लिए काम करता है।",
+                "isEn": true
+            },
+            {
+                "en": "That sounds very convenient, I would like to have both cards please.",
+                "hi": "यह बहुत सुविधाजनक लगता है, मुझे कृपया दोनों कार्ड चाहिए।",
+                "isEn": false
+            },
+            {
+                "en": "Sure, I will activate your digital card now and reissue the physical one.",
+                "hi": "अवश्य, मैं अभी आपका डिजिटल कार्ड सक्रिय करती हूँ और भौतिक कार्ड फिर से भेजती हूँ।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you so much, I really appreciate your help with this matter.",
+                "hi": "बहुत बहुत धन्यवाद, इस विषय में आपकी सहायता के लिए मैं आभारी हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "You are welcome, the new physical card should arrive within one week.",
+                "hi": "आपका स्वागत है, नया भौतिक कार्ड एक सप्ताह के भीतर पहुँच जाना चाहिए।",
+                "isEn": true
+            },
+            {
+                "en": "That is great news, thank you and have a wonderful day.",
+                "hi": "यह बहुत अच्छी खबर है, धन्यवाद और आपका दिन शुभ हो।",
+                "isEn": false
+            }
+        ]
+    }
+}
