@@ -17,3 +17,11 @@ A recurring mistake (found 2026-09-05): defaulting every verb ending to the spea
 - **"हम" (we) referring to a mixed/institutional/unspecified group**: Use the default masculine plural **सकते हैं / करते हैं** etc., NOT the feminine **सकती हैं / करती हैं**, unless "हम" is unambiguously and exclusively a group of women (or a single female speaker's respectful "हम" clearly standing in for "मैं"). Example: "शायद हम ... आयोजित कर सकते हैं" (we could organise ...) — correct even when the speaker is female, because "हम" here refers to a general/institutional "we" (the school), not specifically her own gender.
 - **Verb agreement with a gerund/infinitive subject, not the speaker**: When the grammatical subject of the clause is an action noun like "सिखाना" (teaching) rather than the speaker herself, the verb defaults to masculine: "... सिखाने के लिए कभी जल्दी नहीं होता" (NOT "होती") — "होता" agrees with the implied "सिखाना", not with the speaker's gender.
 - **Rule of thumb**: Only mark feminine agreement on a verb when it is genuinely agreeing with a feminine noun or with the speaker herself as the direct grammatical subject (e.g. "मैं जा रही हूँ", "मैं करूँगी"). Do not blanket-apply the speaker's gender to every verb in her segments — check what the verb is actually agreeing with first.
+
+## Idiom: "It's never too early to X"
+
+A literal rendering like "X के लिए कभी जल्दी नहीं होता/होती" (found and flagged as unnatural, 2026-09-05) is not how Hindi expresses this idiom, even once the gender agreement on "होता/होती" is fixed — it still reads as stilted/awkward.
+
+- **Use instead**: the "कोई उम्र ... नहीं होती" (no age is too ...) pattern, which is genuinely natural spoken Hindi and also gives the verb a clean, unambiguous feminine noun (उम्र) to agree with.
+  - Example: "It is never too early to teach children these valuable life skills" → **"बच्चों को ये मूल्यवान जीवन कौशल सिखाने के लिए कोई उम्र बहुत छोटी नहीं होती"** (lit. "no age is too young for teaching children these valuable life skills"), NOT "...सिखाने के लिए कभी जल्दी नहीं होती/होता".
+- More generally: translate English "never too early / never too late to X" idioms sense-for-sense with a natural Hindi frame (e.g. "कोई उम्र नहीं होती", "देर नहीं हुई है"), not by translating "early"/"late" word-for-word with "जल्दी"/"देर" + "होना".
