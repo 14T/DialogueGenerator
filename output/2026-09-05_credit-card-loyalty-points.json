@@ -1,0 +1,79 @@
+{
+    "dialogue": {
+        "title": "Credit Card Loyalty Points Redemption",
+        "scenario": "A customer calls his credit card customer care line to learn how to redeem his loyalty points before an overseas trip.",
+        "last_active": "2026-09-05",
+        "en_gender": false,
+        "lote_gender": true,
+        "occurrences": 0,
+        "difficulty": "EASY",
+        "tag": "Financial",
+        "segments": [
+            {
+                "en": "Good morning, Jim. Thank you for calling. How can I help you today?",
+                "hi": "सुप्रभात, जिम। संपर्क करने के लिए धन्यवाद। मैं आपकी किस प्रकार सहायता कर सकती हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Good morning. I want to know how I can redeem my loyalty points.",
+                "hi": "सुप्रभात। मैं जानना चाहता हूँ कि मैं अपने पुरस्कार अंक कैसे भुना सकता हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "Sure. You can redeem your points for cashback, gift vouchers, or flight bookings.",
+                "hi": "अवश्य। आप अपने अंकों को नकद वापसी, उपहार पत्र, या उड़ान आरक्षण के लिए भुना सकते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "That sounds good. I am travelling overseas next month for a holiday.",
+                "hi": "यह अच्छा लगा। मैं अगले महीने छुट्टियों के लिए विदेश यात्रा पर जा रहा हूँ।",
+                "isEn": false
+            },
+            {
+                "en": "In that case, you can use your points to book flights or hotel stays.",
+                "hi": "ऐसी स्थिति में, आप अपने अंकों का उपयोग उड़ान या होटल में ठहरने के आरक्षण के लिए कर सकते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Can I use some of my points and pay the remaining amount with cash?",
+                "hi": "क्या मैं अपने कुछ अंकों का उपयोग करके शेष राशि नकद में चुका सकता हूँ?",
+                "isEn": false
+            },
+            {
+                "en": "Yes, you can combine your points with cash for any booking you make.",
+                "hi": "जी हाँ, आप किसी भी आरक्षण के लिए अपने अंकों को नकद के साथ मिला सकते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "That is very convenient. How many points do I currently have?",
+                "hi": "यह बहुत सुविधाजनक है। मेरे पास अभी कितने अंक हैं?",
+                "isEn": false
+            },
+            {
+                "en": "You currently have twelve thousand points in your rewards account.",
+                "hi": "अभी आपके पुरस्कार खाते में बारह हज़ार अंक हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Is there an expiry date for these points that I have?",
+                "hi": "क्या मेरे पास मौजूद इन अंकों की कोई समाप्ति तिथि है?",
+                "isEn": false
+            },
+            {
+                "en": "Your points remain valid for two years after you earn them.",
+                "hi": "आपके अंक अर्जित करने की तिथि से दो वर्ष तक वैध रहते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you for this information. I will redeem them soon.",
+                "hi": "इस जानकारी के लिए धन्यवाद। मैं उन्हें जल्द ही भुना दूँगा।",
+                "isEn": false
+            },
+            {
+                "en": "You are welcome. Please call us again if you need further help.",
+                "hi": "आपका स्वागत है। यदि आपको और सहायता चाहिए तो कृपया हमें पुनः संपर्क करें।",
+                "isEn": true
+            }
+        ]
+    }
+}
