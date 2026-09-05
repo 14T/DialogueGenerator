@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "School Excursion to the Fire Station",
+        "scenario": "A school principal and a class teacher discuss organising an excursion to the local fire station after children got excited by a passing fire truck.",
+        "last_active": "2026-09-05",
+        "en_gender": false,
+        "lote_gender": false,
+        "occurrences": 1,
+        "difficulty": "MODERATE",
+        "tag": "Education",
+        "segments": [
+            {
+                "en": "Good morning! How are you today? I noticed the children seem particularly noisy and excited this morning.",
+                "hi": "सुप्रभात! आज आप कैसी हैं? मैंने देखा कि बच्चे आज सुबह विशेष रूप से शोर मचा रहे हैं और उत्साहित लग रहे हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Good morning! Yes, they are noisier than usual because a fire truck drove past the school a little while ago.",
+                "hi": "सुप्रभात! जी हाँ, वे आज सामान्य से अधिक शोर मचा रहे हैं क्योंकि थोड़ी देर पहले एक दमकल गाड़ी विद्यालय के पास से गुज़री थी।",
+                "isEn": false
+            },
+            {
+                "en": "Oh, that would explain it! I imagine the children got quite excited when they saw the fire truck go by.",
+                "hi": "अच्छा, इसी से यह पता चलता है! मुझे लगता है कि बच्चे दमकल गाड़ी को गुज़रते देखकर काफी उत्साहित हो गए होंगे।",
+                "isEn": true
+            },
+            {
+                "en": "Exactly, they got very excited and started running around the classroom, making siren noises and pretending to put out fires.",
+                "hi": "बिलकुल, वे बहुत उत्साहित हो गए और कक्षा में इधर उधर दौड़ने लगे, भोंपू की आवाज़ें निकालते हुए और आग बुझाने का नाटक करते हुए।",
+                "isEn": false
+            },
+            {
+                "en": "That gives me an idea. Perhaps we could organise a school excursion for the class to visit the local fire station.",
+                "hi": "इससे मुझे एक विचार आया है। शायद हम कक्षा के लिए स्थानीय अग्निशमन केंद्र देखने के लिए एक शैक्षणिक भ्रमण आयोजित कर सकती हैं।",
+                "isEn": true
+            },
+            {
+                "en": "That sounds wonderful, the children would absolutely love it, but we would need some parents to help supervise them during the visit.",
+                "hi": "यह तो बहुत अच्छा विचार है, बच्चों को यह बेहद पसंद आएगा, परंतु भ्रमण के दौरान उनकी देखरेख में सहायता के लिए हमें कुछ अभिभावकों की आवश्यकता होगी।",
+                "isEn": false
+            },
+            {
+                "en": "Of course, we would definitely need the parents' help to keep everyone safe and organised throughout the excursion.",
+                "hi": "अवश्य, पूरे भ्रमण के दौरान सबको सुरक्षित और व्यवस्थित रखने के लिए हमें निश्चित रूप से अभिभावकों की सहायता की आवश्यकता होगी।",
+                "isEn": true
+            },
+            {
+                "en": "I agree completely, and it would also be a fantastic opportunity for the children to learn something new and useful.",
+                "hi": "मैं पूरी तरह सहमत हूँ, और यह बच्चों के लिए कुछ नया और उपयोगी सीखने का एक शानदार अवसर भी होगा।",
+                "isEn": false
+            },
+            {
+                "en": "Exactly, the excursion would be a great learning opportunity for the children to understand fire safety and how firefighters do their job.",
+                "hi": "बिलकुल, यह भ्रमण बच्चों के लिए अग्नि सुरक्षा समझने और यह जानने का एक शानदार अवसर होगा कि दमकलकर्मी अपना कार्य कैसे करते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "I think it would also help them learn what to do in the event of a fire, which is such an important lesson.",
+                "hi": "मैं सोचती हूँ कि इससे उन्हें यह भी सीखने में सहायता मिलेगी कि आग लगने की स्थिति में क्या करना चाहिए, जो एक बहुत महत्वपूर्ण सीख है।",
+                "isEn": false
+            },
+            {
+                "en": "That is very true, and it is never too early to teach children these valuable life skills at such a young age.",
+                "hi": "यह बिलकुल सच है, और इतनी छोटी उम्र में बच्चों को ये मूल्यवान जीवन कौशल सिखाने के लिए कभी जल्दी नहीं होती।",
+                "isEn": true
+            },
+            {
+                "en": "The children in my class are around five years old, so they would absolutely love this visit to the fire station.",
+                "hi": "मेरी कक्षा के बच्चे लगभग पाँच वर्ष के हैं, इसलिए उन्हें अग्निशमन केंद्र की यह यात्रा निश्चित रूप से बहुत पसंद आएगी।",
+                "isEn": false
+            },
+            {
+                "en": "Wonderful, I will start arranging the excursion and reach out to some parents this week for their support.",
+                "hi": "बहुत अच्छा, मैं भ्रमण की व्यवस्था करना शुरू करूँगी और इस सप्ताह कुछ अभिभावकों से उनके सहयोग के लिए संपर्क करूँगी।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you so much, the children will also be very excited to see a real fire truck up close.",
+                "hi": "बहुत बहुत धन्यवाद, बच्चे भी एक असली दमकल गाड़ी को नज़दीक से देखकर बहुत उत्साहित होंगे।",
+                "isEn": false
+            }
+        ]
+    }
+}
