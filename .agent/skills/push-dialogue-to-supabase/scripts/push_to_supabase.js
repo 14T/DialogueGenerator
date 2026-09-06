@@ -6,13 +6,14 @@
 const fs = require('fs');
 
 // API Configuration
+// Auth is intentionally NOT hardcoded here. In the Claude Code cloud environment,
+// an API credential scoped to this host is attached to the request automatically
+// by the network proxy. For standalone/local use outside that environment, set
+// SUPABASE_SERVICE_ROLE_KEY (and optionally SUPABASE_API_KEY, if different) in
+// the environment before running this script.
 const API_CONFIG = {
     baseUrl: 'https://vwmpzymlubgfsnmndyfe.supabase.co/rest/v1',
-    endpoint: '/rpc/insert_dialogue_with_segments',
-    headers: {
-        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ3bXB6eW1sdWJnZnNubW5keWZlIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc0NDEzMjIyMSwiZXhwIjoyMDU5NzA4MjIxfQ.ebjzbgcICSh_xSXQZ5QER7f0g9BWKHfAIjQ9ArIdka4',
-        apikey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ3bXB6eW1sdWJnZnNubW5keWZlIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc0NDEzMjIyMSwiZXhwIjoyMDU5NzA4MjIxfQ.ebjzbgcICSh_xSXQZ5QER7f0g9BWKHfAIjQ9ArIdka4'
-    }
+    endpoint: '/rpc/insert_dialogue_with_segments'
 };
 
 /**
@@ -59,12 +60,15 @@ async function insertDialogueWithSegments(dialogueData, options = {}) {
         // Validate input data
         validateDialogueData(dialogueData);
 
-        // Prepare headers with optional overrides
-        const headers = {
-            'Content-Type': 'application/json',
-            'Authorization': options.authToken || API_CONFIG.headers.authorization,
-            'apikey': options.apiKey || API_CONFIG.headers.apikey
-        };
+        // Prepare headers. Auth is optional here: pass it explicitly via options,
+        // via SUPABASE_SERVICE_ROLE_KEY/SUPABASE_API_KEY env vars, or omit it and
+        // rely on the environment's network proxy attaching a host-scoped credential.
+        const authToken = options.authToken || process.env.SUPABASE_SERVICE_ROLE_KEY;
+        const apiKey = options.apiKey || process.env.SUPABASE_API_KEY || process.env.SUPABASE_SERVICE_ROLE_KEY;
+
+        const headers = { 'Content-Type': 'application/json' };
+        if (authToken) headers['Authorization'] = `Bearer ${authToken}`;
+        if (apiKey) headers['apikey'] = apiKey;
 
         // Prepare request body
         const requestBody = {
