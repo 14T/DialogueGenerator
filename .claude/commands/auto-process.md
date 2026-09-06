@@ -20,6 +20,7 @@ Run the dialogue pipeline: pick a scenario, generate, review, mark for review, a
     - Use the `naati-dialogue-writer` skill (`.agent/skills/naati-dialogue-writer/SKILL.md`) to generate the dialogue for the scenario.
     - Save it to `output/yyyy-mm-dd_short-name.json` (today's date, kebab-case topic label), e.g. `output/2026-07-12_medical-appointment.json`. Reuse this exact path for every later step.
     - Update the Linear issue's state to `In Progress`.
+    - **Check for a variant match**: Query the Supabase `Dialogue` table (`execute_sql` tool, `select id, title, scenario from "Dialogue"`) and compare the new dialogue's title/scenario against existing rows. Don't be aggressive about this: only if there's a clear, obvious match (same underlying scenario, e.g. same setting/task just reworded), prefix the new dialogue's `scenario` field with `(Variant of #<id>) ` before saving. If nothing clearly matches, leave the scenario as-is.
 1. **Iterative review**
     - Review the dialogue 3 times consecutively using the `naati-dialogue-reviewer` skill (`.agent/skills/naati-dialogue-reviewer/SKILL.md`).
     - Fix issues found in each pass before moving to the next, overwriting the same output file after each pass.
