@@ -1,0 +1,84 @@
+{
+    "dialogue": {
+        "title": "Changing Health Insurance Premium Payment Frequency",
+        "scenario": "A customer calls a health insurance company to ask about changing his premium payment from monthly to annual instalments.",
+        "last_active": "2026-09-06",
+        "en_gender": false,
+        "lote_gender": true,
+        "occurrences": 1,
+        "difficulty": "MODERATE",
+        "tag": "Insurance",
+        "segments": [
+            {
+                "en": "Good afternoon. This is a Health Insurance Company. How can I help you today?",
+                "hi": "नमस्ते। यह स्वास्थ्य बीमा कंपनी बोल रही है। आज मैं आपकी किस प्रकार सहायता कर सकती हूं?",
+                "isEn": true
+            },
+            {
+                "en": "Hello! I have called regarding the payment of my insurance premium. Can I change it from monthly to annually?",
+                "hi": "नमस्ते! मैंने अपने बीमा प्रीमियम के भुगतान के संबंध में फोन किया है। क्या मैं इसे मासिक से वार्षिक भुगतान में बदल सकता हूं?",
+                "isEn": false
+            },
+            {
+                "en": "It is possible to change the payment from monthly to annually. However, it is a more expensive option.",
+                "hi": "भुगतान को मासिक से वार्षिक में बदलना संभव है। हालांकि, यह थोड़ा अधिक महंगा विकल्प है।",
+                "isEn": true
+            },
+            {
+                "en": "Yes, I understand. It is difficult for me to manage the payment every month. It will be easier to pay it once a year.",
+                "hi": "हां, मैं समझता हूं। हर महीने भुगतान करना मेरे लिए कठिन है। साल में एक बार भुगतान करना मेरे लिए अधिक सरल होगा।",
+                "isEn": false
+            },
+            {
+                "en": "Many of our members choose to pay annually because it is convenient. It is a good option.",
+                "hi": "हमारे कई सदस्य सुविधा के कारण वार्षिक भुगतान करना पसंद करते हैं। यह एक अच्छा विकल्प है।",
+                "isEn": true
+            },
+            {
+                "en": "I have also heard that if I pay the premium amount in advance, I get some discount. Is that correct?",
+                "hi": "मैंने यह भी सुना है कि यदि मैं प्रीमियम की राशि पहले से चुका दूं, तो मुझे कुछ छूट मिलती है। क्या यह सही है?",
+                "isEn": false
+            },
+            {
+                "en": "Yes, that is correct. If you pay the premium in advance, you get a small discount.",
+                "hi": "हां, यह सही है। यदि आप प्रीमियम पहले से चुकाते हैं, तो आपको थोड़ी छूट मिलती है।",
+                "isEn": true
+            },
+            {
+                "en": "Is it a specific amount, or does it vary in each case?",
+                "hi": "क्या यह एक निश्चित राशि होती है, या यह हर मामले में अलग होती है?",
+                "isEn": false
+            },
+            {
+                "en": "It is usually 5% of the total yearly premium amount. Therefore, it depends on the level of cover a person has.",
+                "hi": "यह सामान्यतः कुल वार्षिक प्रीमियम राशि का ५ प्रतिशत होता है। इसलिए, यह व्यक्ति के बीमा सुरक्षा के स्तर पर निर्भर करता है।",
+                "isEn": true
+            },
+            {
+                "en": "Okay. Before I change my premium payment from monthly to annually, I want to know if there will be any change to my policy. It would be good to know that beforehand.",
+                "hi": "ठीक है। अपने प्रीमियम भुगतान को मासिक से वार्षिक में बदलने से पहले, मैं यह जानना चाहता हूं कि क्या मेरी बीमा योजना में कोई बदलाव होगा। यह पहले से जान लेना मेरे लिए अच्छा रहेगा।",
+                "isEn": false
+            },
+            {
+                "en": "The insurance cover will remain the same. The only difference will be the payment frequency.",
+                "hi": "बीमा सुरक्षा पहले जैसी ही रहेगी। केवल भुगतान की आवृत्ति में अंतर होगा।",
+                "isEn": true
+            },
+            {
+                "en": "Good to know that. Before I decide about this change, can you please provide me with a calculation of my premium amount?",
+                "hi": "यह जानकर अच्छा लगा। इस बदलाव के बारे में निर्णय लेने से पहले, क्या आप मुझे मेरी प्रीमियम राशि की गणना बता सकती हैं?",
+                "isEn": false
+            },
+            {
+                "en": "No problem. I can give you a summary of your policy and premium amount. You can review it and provide your confirmation.",
+                "hi": "कोई समस्या नहीं है। मैं आपको आपकी बीमा योजना और प्रीमियम राशि का सारांश दे सकती हूं। आप इसकी समीक्षा करके अपनी पुष्टि दे सकते हैं।",
+                "isEn": true
+            },
+            {
+                "en": "Yes, that will be helpful. Thank you for the information. I really appreciate it. I hope this change in my insurance payment will be beneficial for me.",
+                "hi": "हां, यह सहायक रहेगा। जानकारी के लिए धन्यवाद। मैं इसकी सराहना करता हूं। मुझे आशा है कि मेरे बीमा भुगतान में यह बदलाव मेरे लिए लाभकारी सिद्ध होगा।",
+                "isEn": false
+            }
+        ]
+    }
+}
