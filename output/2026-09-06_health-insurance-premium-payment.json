@@ -1,0 +1,79 @@
+{
+    "dialogue": {
+        "title": "Health Insurance Premium Payment Frequency Change",
+        "scenario": "A customer calls their health insurance company to switch premium payments from monthly to annual and learns about an early payment discount.",
+        "last_active": "2026-09-06",
+        "en_gender": false,
+        "lote_gender": true,
+        "occurrences": 1,
+        "difficulty": "MODERATE",
+        "tag": "Insurance",
+        "segments": [
+            {
+                "en": "Good afternoon, this is Sunrise Health Insurance Company speaking. How may I help you with your policy today?",
+                "hi": "शुभ दोपहर, मैं सनराइज़ स्वास्थ्य बीमा कंपनी से बोल रही हूँ। आज मैं आपकी बीमा योजना में किस प्रकार सहायता कर सकती हूँ?",
+                "isEn": true
+            },
+            {
+                "en": "Hello, I am calling about the payment of my insurance premium. Can I change it from monthly to annual payment instead?",
+                "hi": "नमस्ते, मैंने अपने बीमा प्रीमियम के भुगतान के बारे में फोन किया है। क्या मैं इसे मासिक की जगह वार्षिक भुगतान में बदल सकता हूँ?",
+                "isEn": false
+            },
+            {
+                "en": "Yes, that change is certainly possible, and choosing the annual option actually gives you a small discount on your total premium.",
+                "hi": "हाँ, यह परिवर्तन निश्चित रूप से संभव है, और वार्षिक विकल्प चुनने पर आपको अपनी कुल प्रीमियम राशि पर थोड़ी छूट भी मिलती है।",
+                "isEn": true
+            },
+            {
+                "en": "That is good to hear, because paying every month is difficult for me. I heard that paying the premium in advance gives some discount.",
+                "hi": "यह सुनकर अच्छा लगा, क्योंकि हर महीने भुगतान करना मेरे लिए कठिन है। मैंने सुना है कि प्रीमियम पहले से चुकाने पर कुछ छूट मिलती है।",
+                "isEn": false
+            },
+            {
+                "en": "Yes, that is correct. If you pay your annual premium in advance, you receive a discount of about five percent on the total amount.",
+                "hi": "हाँ, यह सही है। यदि आप अपना वार्षिक प्रीमियम पहले से चुकाते हैं, तो आपको कुल राशि पर लगभग पाँच प्रतिशत की छूट मिलती है।",
+                "isEn": true
+            },
+            {
+                "en": "Is that discount always the same fixed amount, or does it vary depending on the type of cover I currently have?",
+                "hi": "क्या यह छूट हमेशा एक ही निश्चित राशि होती है, या यह इस बात पर निर्भर करती है कि मेरे पास किस प्रकार की बीमा सुरक्षा है?",
+                "isEn": false
+            },
+            {
+                "en": "It depends on your total yearly premium, so the exact discount amount can differ based on the level of cover you have chosen.",
+                "hi": "यह आपके कुल वार्षिक प्रीमियम पर निर्भर करता है, इसलिए सटीक छूट की राशि आपके द्वारा चुनी गई बीमा सुरक्षा के स्तर के अनुसार भिन्न हो सकती है।",
+                "isEn": true
+            },
+            {
+                "en": "Before I decide to make this change, I would like to know if my policy coverage will be affected in any way.",
+                "hi": "यह परिवर्तन करने का निर्णय लेने से पहले, मैं जानना चाहूँगा कि क्या इससे मेरी बीमा सुरक्षा पर किसी प्रकार का असर पड़ेगा।",
+                "isEn": false
+            },
+            {
+                "en": "Your private health cover will remain exactly the same, separate from your Medicare benefits. Only your payment frequency will change.",
+                "hi": "आपकी निजी स्वास्थ्य बीमा सुरक्षा बिल्कुल पहले जैसी ही रहेगी, जो आपके मेडिकेयर लाभ से अलग है। केवल आपकी भुगतान आवृत्ति में बदलाव होगा।",
+                "isEn": true
+            },
+            {
+                "en": "That is reassuring to know. Before I confirm this change, could you please send me a written summary of the new premium amount?",
+                "hi": "यह जानकर राहत मिली। इस परिवर्तन की पुष्टि करने से पहले, क्या आप कृपया मुझे नई प्रीमियम राशि का लिखित सारांश भेज सकते हैं?",
+                "isEn": false
+            },
+            {
+                "en": "Of course, I will email you a detailed summary of your policy along with the updated annual premium calculation right away.",
+                "hi": "बिल्कुल, मैं आपको आपकी बीमा योजना का विस्तृत सारांश और नई वार्षिक प्रीमियम की गणना अभी ईमेल कर दूँगी।",
+                "isEn": true
+            },
+            {
+                "en": "Thank you very much for your help. I will review the summary carefully and confirm my final decision within a week.",
+                "hi": "आपकी सहायता के लिए बहुत धन्यवाद। मैं सारांश को ध्यान से देखूंगा और एक सप्ताह के भीतर अपना अंतिम निर्णय बताऊंगा।",
+                "isEn": false
+            },
+            {
+                "en": "You are most welcome. Please feel free to call us again if you have any further questions about your insurance policy.",
+                "hi": "आपका स्वागत है। यदि आपके मन में बीमा योजना से जुड़ा कोई और प्रश्न हो, तो कृपया बेझिझक हमें दोबारा फोन करें।",
+                "isEn": true
+            }
+        ]
+    }
+}
