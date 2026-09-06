@@ -4,6 +4,7 @@
  */
 
 const fs = require('fs');
+const path = require('path');
 
 // API Configuration
 // Auth is intentionally NOT hardcoded here. In the Claude Code cloud environment,
@@ -124,6 +125,38 @@ async function insertDialogueWithSegments(dialogueData, options = {}) {
     }
 }
 
+/**
+ * Pulls a dialogue id out of the RPC response, whatever shape it comes back in
+ * (a bare number/string, or an object/array with an id-ish field).
+ */
+function extractDialogueId(result) {
+    const candidate = Array.isArray(result) ? result[0] : result;
+    if (candidate === null || candidate === undefined) return undefined;
+    if (typeof candidate === 'number' || typeof candidate === 'string') return candidate;
+    if (typeof candidate === 'object') {
+        return candidate.dialogue_id ?? candidate.id ?? undefined;
+    }
+    return undefined;
+}
+
+/**
+ * Inserts the dialogue ID into a "<date>_<name>.json" filename, producing
+ * "<date>_<id>_<name>.json". If the ID is already present, returns the path unchanged.
+ */
+function insertIdIntoFilename(filePath, dialogueId) {
+    const dir = path.dirname(filePath);
+    const ext = path.extname(filePath);
+    const base = path.basename(filePath, ext);
+    const parts = base.split('_');
+    if (parts.length < 2) return filePath;
+
+    const [date, ...rest] = parts;
+    if (rest[0] === String(dialogueId)) return filePath;
+
+    const newBase = [date, String(dialogueId), ...rest].join('_');
+    return path.join(dir, `${newBase}${ext}`);
+}
+
 // CLI Execution Logic
 async function main() {
     const filePath = process.argv[2];
@@ -151,6 +184,17 @@ async function main() {
 
         const result = await insertDialogueWithSegments(payload);
         console.log(JSON.stringify(result, null, 4));
+
+        const dialogueId = extractDialogueId(result);
+        if (dialogueId !== undefined) {
+            const renamedPath = insertIdIntoFilename(filePath, dialogueId);
+            if (renamedPath !== filePath) {
+                fs.renameSync(filePath, renamedPath);
+                console.log(`Renamed file to: ${renamedPath}`);
+            }
+        } else {
+            console.warn('Could not find a dialogue ID in the API response; skipping rename.');
+        }
 
     } catch (error) {
         console.error('Failed to push dialogue:', error.message);

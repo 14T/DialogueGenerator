@@ -26,11 +26,11 @@ Run the dialogue pipeline: pick a scenario, generate, review, mark for review, a
 1. **Mark for review & stop**
     - Update the Linear issue's state to `In Review`.
     - Add a comment on the issue with the complete final dialogue JSON (in a markdown code block) and the output file path.
-    - In the chat response itself, print the complete final dialogue JSON in full (a fenced ```json code block, not summarized, not truncated, not "first N exchanges") so it's readable directly on mobile without opening Linear or a file.
+    - In the chat response itself, print the complete final dialogue JSON in full (a fenced \`\`\`json code block, not summarized, not truncated, not "first N exchanges") so it's readable directly on mobile without opening Linear or a file.
     - Stop here. Do NOT push to Supabase or mark the issue `Done` as part of this step — that requires explicit user confirmation (see Step 6).
 1. **User validation, correction & push (manual, on confirmation only)**
     -   When the user reviews the dialogue and requests changes, apply them following the writer/reviewer skill guidelines, and overwrite the output file. If corrections come from user feedback, generalize them (not dialogue-specific) and add them via the `.agent/workflows/correction.md` workflow.
-    -   After applying any correction, always print the complete corrected dialogue JSON in full (fenced ```json code block) directly in the chat response (not just a description of the change) so the user can review the exact result on mobile.
+    -   After applying any correction, always print the complete corrected dialogue JSON in full (fenced \`\`\`json code block) directly in the chat response (not just a description of the change) so the user can review the exact result on mobile.
     -   Only after the user explicitly confirms they want to push: use the `push-dialogue-to-supabase` skill (`.agent/skills/push-dialogue-to-supabase/SKILL.md`) to push the output file.
     -   On successful push:
         - Commit only the new dialogue JSON file with message `feat: add dialogue [short-name]`.
